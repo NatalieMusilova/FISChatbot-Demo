@@ -11,3 +11,6 @@ Chatbot čerpá z veřejně dostupných informací, především z webových str
 
 ## Cíl projektu:
 Hlavním cílem diplomové práce je zkoumat možnosti, jak snížit náklady na jeho provoz a současně zlepšit kvalitu poskytovaných odpovědí. Projekt testuje, jak efektivně může chatbot pracovat s různými typy dotazů a jak dobře dokáže udržovat kontext v delších konverzacích.
+
+- [Experiment 1](experiment1/README.md) – Popis experimentální verze 1.
+- [Experiment 2](experiment2/README.md) – Popis experimentální verze 2.
