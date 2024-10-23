@@ -1,2 +1,2 @@
 
-!(imgs/arch_exp1.png)
+![Architecture Experiment 1](./arch_exp1.png)
