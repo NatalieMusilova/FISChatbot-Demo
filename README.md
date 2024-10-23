@@ -11,6 +11,10 @@ Chatbot čerpá z veřejně dostupných informací, především z webových str
 
 ## Cíl projektu:
 Hlavním cílem diplomové práce je zkoumat možnosti, jak snížit náklady na jeho provoz a současně zlepšit kvalitu poskytovaných odpovědí. Projekt testuje, jak efektivně může chatbot pracovat s různými typy dotazů a jak dobře dokáže udržovat kontext v delších konverzacích.
+•	Každá experimentální verze chatbota má svou vlastní složku, například experiment1/, experiment2/ a podobně. Každá z těchto složek obsahuje samostatný kód a související dokumentaci.
+•	README.md soubory ve složkách experimentů poskytují podrobnosti o každé verzi chatbota, včetně implementovaných funkcí a technických specifikací.
+
+Kód je rozdělen tak, aby každá verze mohla být testována a analyzována nezávisle, což umožňuje snadné porovnání výsledků mezi různými experimentálními verzemi. Pro snadnou navigaci v repozitáři jsou v hlavním README.md uvedeny odkazy na jednotlivé experimentální verze, což umožňuje rychlý přístup ke každému kódu a jeho dokumentaci.
 
 - [Experiment 1](experiment1/README.md) – Popis experimentální verze 1.
 - [Experiment 2](experiment2/README.md) – Popis experimentální verze 2.
