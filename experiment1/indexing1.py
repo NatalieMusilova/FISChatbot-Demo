@@ -158,6 +158,7 @@ for url in urls:
 # Uložíme chunky do Pinecone
 for i, (chunk_text, chunk_metadata) in enumerate(all_texts):
     chunk_metadata["chunk_index"] = i
+    chunk_metadata["chunk_text"] = chunk_text  # Přidání chunk_text do metadat
     embedding = get_embedding(chunk_text)
     vector_id = f"combined_chunk_{i}"
     index.upsert([(vector_id, embedding, chunk_metadata)])
