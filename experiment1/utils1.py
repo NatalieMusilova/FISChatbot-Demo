@@ -70,15 +70,21 @@ def generate_response(query, retrieved_texts):
         return "Omlouvám se, došlo k chybě při generování odpovědi."
 
 
-# Funkce pro ukládání výsledků do souboru
-def save_results_to_file(results, filename="outputs1.txt"):
-    with open(filename, "w", encoding="utf-8") as file:
+# Funkce pro ukládání výsledků do souboru, včetně generované odpovědi a spotřeby tokenů
+def save_results_to_file(results, response, token_usage, filename="outputs1.txt"):
+    with open(filename, "a", encoding="utf-8") as file:
         for i, result in enumerate(results, 1):
             line = (f"{i}. Skóre: {result['score']}, "
                     f"Číslo chunku: {result['chunk_index']}, "
                     f"Zdroj: {result['source']}, "
                     f"Text: {result['chunk_text']}\n")
             file.write(line)
+        
+        # Zápis generované odpovědi a spotřeby tokenů
+        file.write(f"\nGenerovaná odpověď: {response}\n")
+        file.write(f"Spotřeba tokenů: {token_usage}\n")
+        file.write("\n" + "-" * 50 + "\n\n")  # Oddělení jednotlivých dotazů
+
 
 
 
@@ -95,18 +101,27 @@ if query:
         # Vyhledání podobných textů
         retrieved_texts = retrieve_similar_texts(query, top_k=5)
         
-        # Uložení výsledků do souboru outputs1.txt
-        save_results_to_file(retrieved_texts)
-        
         # Zobrazení nalezených textů
         st.subheader("Nalezené texty:")
         for i, text in enumerate(retrieved_texts, 1):
             st.write(f"{i}. Skóre: {text['score']}, Číslo chunku: {text['chunk_index']}, Zdroj: {text['source']}, Text: {text['chunk_text']}")
-
-        # Generování odpovědi
+        
+        # Generování odpovědi a získání spotřeby tokenů
         st.subheader("Generovaná odpověď:")
         response = generate_response(query, retrieved_texts)
+        token_usage = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant."},
+                {"role": "user", "content": prompt}
+            ],
+            max_tokens=1500,
+            temperature=0.7
+        )['usage']['total_tokens']
         st.write(response)
+
+        # Uložení výsledků, generované odpovědi a spotřeby tokenů do souboru
+        save_results_to_file(retrieved_texts, response, token_usage)
 
 
 
