@@ -35,44 +35,10 @@ def retrieve_similar_texts(query, top_k=5):
         st.error(f"Chyba při vyhledávání textů: {e}")
         return []
 
-def generate_response(query, retrieved_texts):
-    # Strukturované vytvoření kontextu
-    context = "\n\n".join([
-        f"Zdroj {i + 1}: Skóre: {match['score']}, Číslo chunku: {match['chunk_index']}, Text: {match['chunk_text']}"
-        for i, match in enumerate(retrieved_texts) if 'chunk_text' in match
-    ])
-    
-    # Vytvoření promptu, který zahrnuje kontext a otázku
-    prompt = f"Následující texty jsou relevantní k dotazu:\n\n{context}\n\nOtázka: {query}\nOdpověď:"
-
-    try:
-        response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",
-            messages=[
-                {"role": "system", "content": "You are a helpful assistant."},
-                {"role": "user", "content": prompt}
-            ],
-            max_tokens=1500,
-            temperature=0.7
-        )
-        
-        # Získání spotřeby tokenů
-        token_usage = response['usage']['total_tokens']
-        
-        # Výstup odpovědi a spotřeby tokenů
-        st.write(f"Spotřeba tokenů OpenAI: {token_usage}")
-        
-        # Vrácení generované odpovědi
-        return response['choices'][0]['message']['content'].strip()
-    
-    except Exception as e:
-        st.error(f"Chyba při generování odpovědi: {e}")
-        return "Omlouvám se, došlo k chybě při generování odpovědi."
-
-
 # Funkce pro ukládání výsledků do souboru, včetně generované odpovědi a spotřeby tokenů
 def save_results_to_file(results, response, token_usage, filename="outputs1.txt"):
     with open(filename, "a", encoding="utf-8") as file:
+        # Uložení každého výsledku do souboru
         for i, result in enumerate(results, 1):
             line = (f"{i}. Skóre: {result['score']}, "
                     f"Číslo chunku: {result['chunk_index']}, "
@@ -85,13 +51,53 @@ def save_results_to_file(results, response, token_usage, filename="outputs1.txt"
         file.write(f"Spotřeba tokenů: {token_usage}\n")
         file.write("\n" + "-" * 50 + "\n\n")  # Oddělení jednotlivých dotazů
 
+# Globální proměnná pro uchování historie dotazů a odpovědí
+history = []  
 
 
+def generate_response(query, retrieved_texts):
+    global history
+    
+    # Sestavení kontextu z nalezených textů
+    context = "\n\n".join([
+        f"Zdroj {i + 1}: Skóre: {match['score']}, Číslo chunku: {match['chunk_index']}, Text: {match['chunk_text']}"
+        for i, match in enumerate(retrieved_texts) if 'chunk_text' in match
+    ])
+    
+    # Přidání historie do promptu
+    history_text = "\n".join([f"Otázka: {q}\nOdpověď: {a}" for q, a in history])
+    prompt = f"{history_text}\n\nNásledující texty jsou relevantní k dotazu:\n\n{context}\n\nOtázka: {query}\nOdpověď:"
+
+    try:
+        # Generování odpovědi pomocí OpenAI
+        response = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant that answers questions based solely on provided texts."},
+                {"role": "user", "content": prompt}
+            ],
+            max_tokens=1000,
+            temperature=0.5
+        )
+        
+        # Uložení odpovědi a aktualizace historie
+        answer = response['choices'][0]['message']['content'].strip()
+        history.append((query, answer))  # Uložení dotazu a odpovědi do historie
+        
+        # Získání spotřeby tokenů
+        token_usage = response['usage']['total_tokens']
+        
+        # Uložení výsledků, generované odpovědi a spotřeby tokenů do souboru
+        save_results_to_file(retrieved_texts, answer, token_usage)
+        
+        return answer
+    except Exception as e:
+        st.error(f"Chyba při generování odpovědi: {e}")
+        return "Omlouvám se, došlo k chybě při generování odpovědi."
 
 # Streamlit aplikace
 st.title("Testovací RAGbot")
 st.write("Experimentální Verze 1")
-
 
 # Vstup uživatele
 query = st.text_input("Zadejte svůj dotaz:")
@@ -105,23 +111,12 @@ if query:
         st.subheader("Nalezené texty:")
         for i, text in enumerate(retrieved_texts, 1):
             st.write(f"{i}. Skóre: {text['score']}, Číslo chunku: {text['chunk_index']}, Zdroj: {text['source']}, Text: {text['chunk_text']}")
-        
-        # Generování odpovědi a získání spotřeby tokenů
+
+        # Generování odpovědi
         st.subheader("Generovaná odpověď:")
         response = generate_response(query, retrieved_texts)
-        token_usage = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",
-            messages=[
-                {"role": "system", "content": "You are a helpful assistant."},
-                {"role": "user", "content": prompt}
-            ],
-            max_tokens=1500,
-            temperature=0.7
-        )['usage']['total_tokens']
         st.write(response)
 
-        # Uložení výsledků, generované odpovědi a spotřeby tokenů do souboru
-        save_results_to_file(retrieved_texts, response, token_usage)
 
 
 
