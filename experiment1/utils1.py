@@ -1,61 +1,91 @@
 #pip install openai==0.28
 #pip install pinecone-client
-import pinecone
 import openai
 from pinecone import Pinecone
 import streamlit as st
 
-
-
 # Nastavení přístupových klíčů pomocí Streamlit secrets
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
-
+# Inicializace Pinecone
 pc = Pinecone(api_key=st.secrets["PINECONE_API_KEY"])
 index = pc.Index("fischatbot")
-
 
 def get_embedding(text):
     response = openai.Embedding.create(input=text, model="text-embedding-ada-002")
     return response['data'][0]['embedding']
 
-
 def retrieve_similar_texts(query, top_k=5):
-    # Převod dotazu na vektor
-    query_embedding = get_embedding(query)
+    try:
+        query_embedding = get_embedding(query)
+        result = index.query(
+            vector=query_embedding,
+            top_k=top_k,
+            include_metadata=True
+        )
+        matches = []
+        for match in result['matches']:
+            score = match['score']
+            chunk_index = match['metadata'].get('chunk_index', 'No chunk index available')
+            source = match['metadata'].get('source', 'No source available')
+            chunk_text = match['metadata'].get('chunk_text', 'No chunk text available')
+            matches.append({'score': score, 'chunk_index': chunk_index, 'source': source, 'chunk_text': chunk_text})
+        return matches
+    except Exception as e:
+        st.error(f"Chyba při vyhledávání textů: {e}")
+        return []
 
-    # Vyhledávání podobných vektorů v Pinecone
-    result = index.query(
-        vector=query_embedding,
-        top_k=top_k,
-        include_metadata=True
-    )
-
-    # Výpis pouze požadovaných položek: score, chunk_index, source a query
-    print(f"Query: {query}")
-    for match in result['matches']:
-        score = match['score']
-        chunk_index = match['metadata'].get('chunk_index', 'No chunk index available')
-        source = match['metadata'].get('source', 'No source available')
-        print(f"Score: {score}, Chunk Index: {chunk_index}, Source: {source}")
-        
-    return result['matches']
-
-# Funkce pro generování odpovědi
 def generate_response(query, retrieved_texts):
-    context = " ".join(retrieved_texts)
-    prompt = f"{context}\n\nOtázka: {query}\nOdpověď:"
+    # Strukturované vytvoření kontextu
+    context = "\n\n".join([
+        f"Zdroj {i + 1}: Skóre: {match['score']}, Číslo chunku: {match['chunk_index']}, Text: {match['chunk_text']}"
+        for i, match in enumerate(retrieved_texts) if 'chunk_text' in match
+    ])
+    
+    # Vytvoření promptu, který zahrnuje kontext a otázku
+    prompt = f"Následující texty jsou relevantní k dotazu:\n\n{context}\n\nOtázka: {query}\nOdpověď:"
 
-    response = openai.Completion.create(
-        engine="text-davinci-003",
-        prompt=prompt,
-        max_tokens=150
-    )
-    return response['choices'][0]['text'].strip()
+    try:
+        response = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant."},
+                {"role": "user", "content": prompt}
+            ],
+            max_tokens=1500,
+            temperature=0.7
+        )
+        
+        # Získání spotřeby tokenů
+        token_usage = response['usage']['total_tokens']
+        
+        # Výstup odpovědi a spotřeby tokenů
+        st.write(f"Spotřeba tokenů OpenAI: {token_usage}")
+        
+        # Vrácení generované odpovědi
+        return response['choices'][0]['message']['content'].strip()
+    
+    except Exception as e:
+        st.error(f"Chyba při generování odpovědi: {e}")
+        return "Omlouvám se, došlo k chybě při generování odpovědi."
+
+
+# Funkce pro ukládání výsledků do souboru
+def save_results_to_file(results, filename="outputs1.txt"):
+    with open(filename, "w", encoding="utf-8") as file:
+        for i, result in enumerate(results, 1):
+            line = (f"{i}. Skóre: {result['score']}, "
+                    f"Číslo chunku: {result['chunk_index']}, "
+                    f"Zdroj: {result['source']}, "
+                    f"Text: {result['chunk_text']}\n")
+            file.write(line)
+
+
 
 # Streamlit aplikace
-st.title("Retrieval-Augmented Generation (RAG) Chatbot")
-st.write("Zadejte svůj dotaz a chatbot vám poskytne odpověď na základě relevantních textů.")
+st.title("Testovací RAGbot")
+st.write("Experimentální Verze 1")
+
 
 # Vstup uživatele
 query = st.text_input("Zadejte svůj dotaz:")
@@ -65,15 +95,19 @@ if query:
         # Vyhledání podobných textů
         retrieved_texts = retrieve_similar_texts(query, top_k=5)
         
+        # Uložení výsledků do souboru outputs1.txt
+        save_results_to_file(retrieved_texts)
+        
         # Zobrazení nalezených textů
         st.subheader("Nalezené texty:")
         for i, text in enumerate(retrieved_texts, 1):
-            st.write(f"{i}. {text}")
+            st.write(f"{i}. Skóre: {text['score']}, Číslo chunku: {text['chunk_index']}, Zdroj: {text['source']}, Text: {text['chunk_text']}")
 
         # Generování odpovědi
         st.subheader("Generovaná odpověď:")
         response = generate_response(query, retrieved_texts)
         st.write(response)
+
 
 
 #query = "Informace o přijímacím řízení na univerzitě"
