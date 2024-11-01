@@ -18,3 +18,4 @@ Kód je rozdělen tak, aby každá verze mohla být testována a analyzována ne
 
 - [Experiment 1](experiment1/README.md) – Popis experimentální verze 1.
 - [Experiment 2](experiment2/README.md) – Popis experimentální verze 2.
+- [Experiment 3](experiment3/README.md) – Popis experimentální verze 3.
