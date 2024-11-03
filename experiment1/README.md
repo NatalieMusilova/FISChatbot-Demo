@@ -27,5 +27,5 @@ Data pro systém jsou získávána pomocí webového scrapingu. Proces zahrnuje:
   
    - 
   
-   - ![image](https://github.com/user-attachments/assets/c69ce3b0-e5a4-42f5-857d-9ca3615b05b6)
+ ![image](https://github.com/user-attachments/assets/c69ce3b0-e5a4-42f5-857d-9ca3615b05b6)
 
