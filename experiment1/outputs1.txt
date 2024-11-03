@@ -1,0 +1,2476 @@
+
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízíte?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí několik magisterských programů, které se dělí na informatické a datové. Tyto programy mohou být studovány buď distančně nebo v anglickém jazyce. Každý program se liší svou náplní v rámci studijního plánu.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.837353766
+Maximální skóre podobnosti: 0.887103617
+Spotřeba tokenů: 1346
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké bakalářské programy nabízíte?
+Vygenerovaná odpověď modelem: Fakulta nabízí 5 bakalářských programů: Aplikovaná informatika, Data Analytics, Informační média a služby, Matematické metody v ekonomii a Multimédia v ekonomické praxi. Další informace k nim naleznete na stránkách fakulty.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.829820573
+Maximální skóre podobnosti: 0.868443072
+Spotřeba tokenů: 1416
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: co můžu u vás studovat
+Vygenerovaná odpověď modelem: Na Vysoké škole ekonomické (VŠE) můžete studovat bakalářské, magisterské a doktorské programy. Přijímací řízení a podmínky se liší podle typu studia. Pro bližší informace o nabízených programech a podmínkách přijímacího řízení doporučuji navštívit oficiální stránky VŠE na adrese https://www.vse.cz.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.83233887
+Maximální skóre podobnosti: 0.844419
+Spotřeba tokenů: 1381
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: z čeho si můžu vybrat k mgr studiu
+Vygenerovaná odpověď modelem: Z čeho si můžete vybrat k magisterskému studiu můžete vybírat z různých statistických kateder na VŠE dle svého zájmu a možností školitelů, které jsou k dispozici během přijímacího řízení. Také můžete zvážit programy zaměřené na datovou analytiku pro podnikový management nabízené na VŠE. Pro podání přihlášky na více programů je nutné podat samostatnou elektronickou přihlášku a zaplatit příslušný poplatek za každý z nich.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.820108414
+Maximální skóre podobnosti: 0.842835724
+Spotřeba tokenů: 1591
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: chci pokračovat ve studiu
+Vygenerovaná odpověď modelem: Pro pokračování ve studiu na doktorské úrovni můžeš navázat na svoji diplomovou práci a se správným školitelem pokračovat ve své práci. Můžeš také zvolit vlastní téma nebo jedno z témat vypisovaných každoročně školiteli. Pro přijetí ke studiu doktorského programu je třeba předložit doklad o vysokoškolském vzdělání nejpozději do vydání rozhodnutí o přijetí ke studiu a disertační záměr, což je vlastní představa o zaměření výzkumné činnosti a disertační práce.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.825514913
+Maximální skóre podobnosti: 0.83469069
+Spotřeba tokenů: 1444
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam datových programů
+Vygenerovaná odpověď modelem: Seznam datových programů z poskytnutých textů zahrnuje:
+1. Aplikovaná datová analytika a umělá inteligence
+2. Ekonometrie a operační výzkum
+3. Ekonomická demografie
+4. Statistika
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.830700517
+Maximální skóre podobnosti: 0.85425967
+Spotřeba tokenů: 1397
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam bakalářských programů?
+Vygenerovaná odpověď modelem: Bakalářské programy nabízené fakultou jsou: Aplikovaná informatika, Data Analytics, Informační média a služby, Matematické metody v ekonomii a Multimédia v ekonomické praxi.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.847267
+Maximální skóre podobnosti: 0.864895165
+Spotřeba tokenů: 1339
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Máte nějaké MBA?
+Vygenerovaná odpověď modelem: Ano, máme informace o MBA pro Data Analytics for Business Management nabízeném na VŠE, které zhodnotili různí absolventi a studenti. Je možné se dozvědět více o programu, jeho zaměření na datovou analytiku, praktické zkušenosti a síť kontaktů poskytovanou studentům.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.820240378
+Maximální skóre podobnosti: 0.846981704
+Spotřeba tokenů: 1418
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Chtěl bych jít na doktorské studium, co mi o tom můžeš povědět?
+Vygenerovaná odpověď modelem: Pro vstup na doktorské studium je možné navázat na svoji diplomovou práci a pokračovat ve spolupráci se správným školitelem. Alternativně je možné zvolit vlastní téma nebo vybrat jedno z témat vypisovaných každoročně školiteli. Doktorské studium trvá obvykle 4 až 5 let a je ukončeno obhajobou disertační práce. Pro bližší informace o přijímacím řízení a kontaktech se doporučuje navštívit příslušné webové stránky.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.822199464
+Maximální skóre podobnosti: 0.847278357
+Spotřeba tokenů: 1435
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Distanční studium
+Vygenerovaná odpověď modelem: Na FISu můžeš studovat distančně nebo v anglickém jazyce. Jednotlivé programy se liší svou náplní v rámci programu. Můžeš zvážit studium v distanční formě, například program Podniková informatika distanční forma, který připravuje kvalifikované studenty pro práci ve velkých společnostech nebo ve veřejné správě.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.819200516
+Maximální skóre podobnosti: 0.842243135
+Spotřeba tokenů: 1305
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do bakalářského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do bakalářského programu je zákonem stanovenou podmínkou dosažení úplného středního nebo úplného středního odborného vzdělání. Fakulta informatiky a statistiky pro přijímání do všech studijních programů vychází z výsledků testu. Přijímací zkoušku může děkan FIS prominout v případě, že uchazeč doloží požadované známky nejpozději do 30. 4. 2025.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.844614208
+Maximální skóre podobnosti: 0.873595357
+Spotřeba tokenů: 1685
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do magisterského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do magisterského programu je nutné řádně ukončit studium alespoň v bakalářském studijním programu. Dále je potřeba úspěšně složit přijímací zkoušku z odborného předmětu, pokud není splněno prominutí této zkoušky na základě předem daných podmínek.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.855958164
+Maximální skóre podobnosti: 0.894331217
+Spotřeba tokenů: 1623
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak najdu informace k přijetí?
+Vygenerovaná odpověď modelem: Pro získání informací k přijetí na magisterské studium na VŠE by ses měl/a obrátit na oficiální webové stránky fakulty a studijní oddělení. Na těchto stránkách by měly být uvedeny podrobné informace týkající se přijímacího řízení, požadavků na přijetí, termínů zkoušek a potřebných dokumentů. Dále můžeš získat užitečné informace na seznamovacím kurzu, který probíhá před zahájením studia.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.804452956
+Maximální skóre podobnosti: 0.816635251
+Spotřeba tokenů: 1619
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: jak se k vam dostat?
+Vygenerovaná odpověď modelem: Z textů nejde přesně určit, o který subjekt se jedná. Mohu vám pomoci s informacemi o přijímacím řízení na VŠE, ale pokud hledáte konkrétní informace o tom, jak se dostat k nějakému subjektu, může být potřeba poskytnout více informací nebo se obrátit na konkrétní zdroj.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.800797343
+Maximální skóre podobnosti: 0.814305961
+Spotřeba tokenů: 1459
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Je možnost prominutí přijímací zkoušky na bakaláře?
+Vygenerovaná odpověď modelem: Ano, je možné požádat o prominutí přijímací zkoušky na bakalářské studium. Uchazeč může požádat o prominutí přijímací zkoušky na bakalářské studium, pokud v písemné žádosti nebo katalogovém listu s požadovanými známkami doloží nejpozději do 30. 4. 2025 průměrní známku.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.853819668
+Maximální skóre podobnosti: 0.87361
+Spotřeba tokenů: 1555
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Je možnost prominutí přijímací zkoušky na magistra?
+Vygenerovaná odpověď modelem: Ano, je možné požádat o prominutí přijímací zkoušky na magistra. Tuto možnost je možné využít podle informací z poskytnutých textů, avšak je třeba splňovat předem dané podmínky a postupovat dle stanovených termínů pro podání žádosti.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.854566753
+Maximální skóre podobnosti: 0.882247031
+Spotřeba tokenů: 1512
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Do kdy mám podat přihlášku?
+Vygenerovaná odpověď modelem: Musíte podat přihlášku nejpozději v den zápisu, který se může konat nejpozději 10. 9. 2025.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.828593791
+Maximální skóre podobnosti: 0.838246822
+Spotřeba tokenů: 1574
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: přihláška na bc.
+Vygenerovaná odpověď modelem: Z informací poskytnutých texty je zřejmé, že přihláška na bakalářské studium vyžaduje uhradit poplatek ve výši 960 Kč, který lze uhradit buď okamžitě při zadávání přihlášky. Je důležité, aby byly všechny údaje v přihlášce kompletně vyplněny a nebyly akceptovány pozdější úpravy po termínu podání a zaplacení. Doporučuje se také přiložit všechny důležité dokumenty k přihlášce.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.83379215
+Maximální skóre podobnosti: 0.846105516
+Spotřeba tokenů: 1710
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Kdy se koná přijímací zkouška?
+Vygenerovaná odpověď modelem: Přijímací zkoušky se konají v různých termínech podle jednotlivých studijních programů. Například pro magisterské studium se přijímací zkouška koná 23. až 25. 6. 2025. Pro bakalářské studium je možné prominout přijímací zkoušku na základě výsledků olympiád nebo jiných soutěží do 31. 5. 2025. Pro doktorské studium se přijímací pohovor v anglickém jazyce koná v den zkoušky. Je tedy důležité sledovat konkrétní termíny a podmínky daného studijního programu.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.837994
+Maximální skóre podobnosti: 0.866377234
+Spotřeba tokenů: 1698
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: vzor testů
+Vygenerovaná odpověď modelem: Podle poskytnutých textů lze říci, že vzor testů závisí na konkrétním přijímacím řízení a oboru studia. Například při přijímacím řízení na magisterský obor Kognitivní informatika na VŠE probíhá zkouška formou ústního pohovoru s odbornou částí obsahující testování zveřejněné látky na webových stránkách FIS. Naopak při přijímacím řízení na bakalářské studium na jiných školách se může jednat o testy z různých předmětů jako OSPVŠP, MAT, ZSV apod. Pro konkrétní informace o vzoru testů je tedy nutné se obrátit přímo na danou vysokou školu a studijní obor.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.822860718
+Maximální skóre podobnosti: 0.833686769
+Spotřeba tokenů: 1644
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Chci vědět víc o přijímacích zkouškách
+Vygenerovaná odpověď modelem: Přijímací zkoušky na Vysokou školu ekonomickou probíhají formou pohovoru v anglickém jazyce pro doktorské studium. Pro magisterské studium existuje možnost být přijat i bez přijímací zkoušky, ale musíš splňovat určené podmínky. Online zkoušku můžeš řešit z domova na počítači. Přijatí uchazeči do studia budou zapisováni online, některé programy mají přijímací zkoušku formou testu nebo pohovoru.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.836245954
+Maximální skóre podobnosti: 0.853385
+Spotřeba tokenů: 1657
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou prosím podmínky přijímacího řízení na obor UX výzkum a design?
+Vygenerovaná odpověď modelem: Podmínky přijímacího řízení na obor UX výzkum a design zahrnují alespoň základní znalost programování v R a úspěšné složení přijímací zkoušky z odborného předmětu. Další informace o podmínkách můžete najít na stránce: https://fis.vse.cz/magisterske-studium/magisterske-programy/.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.828735113
+Maximální skóre podobnosti: 0.852739036
+Spotřeba tokenů: 1656
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou podmínky pro zahraniční studenty?
+Vygenerovaná odpověď modelem: Podmínky pro zahraniční studenty zahrnují prioritizaci uchazečů do vyšších stupňů studia, do cizojazyčných programů a samoplátců před uchazeči do česky vyučovaných programů. Zahraniční studenti mohou žádat o dlouhodobé vízum nebo pobyt za účelem studia a musí splnit stanovené podmínky pro přijetí ke studiu, včetně předložení dokumentů a absolvování přijímací zkoušky.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.856724
+Maximální skóre podobnosti: 0.873806119
+Spotřeba tokenů: 1701
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Zkouška z češtiny pro cizince
+Vygenerovaná odpověď modelem: Zkouška z češtiny pro cizince je povinná pro zájemce o studium na Vysoké škole ekonomické v Praze, kteří nejsou občany České republiky nebo Slovenska a chtějí studovat v českém jazyce. Zkouška probíhá formou písemné i ústní zkoušky z českého jazyka a je důležitou součástí přijímacího řízení. Podrobnosti o obsahu zkoušky a způsobu přihlášení jsou k dispozici na webových stránkách Vysoké školy ekonomické.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.846536756
+Maximální skóre podobnosti: 0.883386254
+Spotřeba tokenů: 1613
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak dostanu vizum?
+Vygenerovaná odpověď modelem: Pro získání víza na studium v České republice musíš být zapsán ke studiu a poté se urychleně začít zařizovat vízum. Proces udělování víza trvá až 60 dní od odevzdání vízové žádosti. Potřebuješ mít připravené všechny potřebné dokumenty a zajistit si včas termín na zastupitelském úřadě České republiky. Můžeš si žádat buď o dlouhodobé vízum za účelem studia nebo o dlouhodobý pobyt za účelem studia.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.817531526
+Maximální skóre podobnosti: 0.845896423
+Spotřeba tokenů: 1688
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: mohu u vas studovat, když nejsem čech
+Vygenerovaná odpověď modelem: Ano, můžeš studovat na Vysoké škole ekonomické v Praze, i když nejsi občanem České republiky. Avšak budeš muset splnit určité podmínky, jako například složení zkoušky z českého jazyka před přijímací zkouškou. Dále si budeš muset zařídit vízum na dobu studia v České republice.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.841996312
+Maximální skóre podobnosti: 0.862865388
+Spotřeba tokenů: 1620
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Můsí mít cizinec při přijetí potvrzení o znalosti českého jazyka?
+Vygenerovaná odpověď modelem: Ano, cizinec musí mít potvrzení o znalosti českého jazyka při přijetí na Vysokou školu ekonomickou v Praze. Potvrzení o znalosti českého jazyka je důležitou součástí přijímacího procesu, a to zejména pro zahraniční zájemce o studium v českém jazyce mimo občanů Slovenské republiky.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.85003674
+Maximální skóre podobnosti: 0.884024382
+Spotřeba tokenů: 1685
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Na jaké úrovni musí mít cizinec potvrzení o znalosti českého jazyka?
+Vygenerovaná odpověď modelem: Cizinec musí mít potvrzení o znalosti českého jazyka na úrovni umožňující skládání zkoušky z českého jazyka v písemné i ústní formě pro přijetí ke studiu v českém jazyce mimo občany Slovenské republiky.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.846217513
+Maximální skóre podobnosti: 0.865321636
+Spotřeba tokenů: 1664
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak mohu získat stipendium?
+Vygenerovaná odpověď modelem: Pro získání stipendia je nutné splnit podmínky stanovené ve Stipendijním řádu dané vysoké školy. Podmínky pro přiznání stipendia a postup při podání žádosti jsou obvykle uvedeny v příslušných předpisech nebo na webových stránkách školy. Dále je důležité dodržovat stanovené termíny a požadavky pro vyplacení stipendia.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.846416235
+Maximální skóre podobnosti: 0.859367728
+Spotřeba tokenů: 1651
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: kolik stoji skolne, kdyz je mi nad 26 let
+Vygenerovaná odpověď modelem: Skolné pro studenty nad 26 let závisí na tom, zda překročí standardní dobu studia. Pokud překročí standardní dobu studia zvětšenou o jeden rok o prvních započatých 6 měsíců studia, činí poplatek 27.000 Kč. Pokud překročí standardní dobu studia zvětšenou o jeden rok o druhých započatých 6 měsíců studia, činí poplatek 27.000 Kč. A pokud překročí standardní dobu studia zvětšenou o jeden rok o třetích a každých dalších započatých 6 měsíců studia, činí poplatek 45.000 Kč.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.805794835
+Maximální skóre podobnosti: 0.839450061
+Spotřeba tokenů: 1776
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Manipulační poplatek za každou přihlášku
+Vygenerovaná odpověď modelem: Manipulační poplatek za každou přihlášku je nevratný. Poplatek za úkony spojené s přijímacím řízením je ve výši 960 Kč a lze ho uhradit buď okamžitě při zadávání přihlášky, nebo platební kartou, nebo převodem na účet. Každý program vyžaduje samostatnou elektronickou přihlášku a zaplacení poplatku.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.850680053
+Maximální skóre podobnosti: 0.891044736
+Spotřeba tokenů: 1639
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Kolik stojí MBA?
+Vygenerovaná odpověď modelem: Cena MBA není explicitně uvedena v poskytnutých textech, proto nemohu poskytnout přesnou odpověď na tuto otázku.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.816273272
+Maximální skóre podobnosti: 0.849491298
+Spotřeba tokenů: 1423
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: jak dosáhnout na ubytovací stipendium
+Vygenerovaná odpověď modelem: Pro dosažení ubytovacího stipendia je nutné splnit podmínky stanovené rektorem. Student musí být studentem studijního programu v prezenční formě studia, studovat první studijní program a mít stanovenou standardní dobu studia. Žádost o ubytovací stipendium se podává elektronicky a je nutné vyplnit údaje o bankovním spojení pro výplatu stipendia. Ubytovací stipendium se vyplácí zpětně na konci kalendářního čtvrtletí. Pro více informací se doporučuje konzultovat Stipendijní řád VŠE.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.85995245
+Maximální skóre podobnosti: 0.874526739
+Spotřeba tokenů: 1722
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: cena za semestr
+Vygenerovaná odpověď modelem: Omlouvám se, ale žádný z poskytnutých textů neposkytuje přesné informace o ceně za semestr. Můžete mi prosím poskytnout další relevantní informace nebo specifikovat dotaz? Ráda vám pomohu s odpovědí.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.813206911
+Maximální skóre podobnosti: 0.821511686
+Spotřeba tokenů: 1615
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: sociální stipendium
+Vygenerovaná odpověď modelem: Sociální stipendium je přiznáno rektorem studentovi, který splní podmínky uvedené v zákoně, ve výši stanovené v tomto ustanovení zákona. Nárok na sociální stipendium prokazuje student písemným potvrzením vydaným na jeho žádost orgánem státní sociální podpory.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.865104377
+Maximální skóre podobnosti: 0.900186062
+Spotřeba tokenů: 1583
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: kolik je doktorské stipendium?
+Vygenerovaná odpověď modelem: Doktorské stipendium má dvě části, nárokovou pravidelnou měsíční částku vyplácenou po standardní dobu studia a měsíční částku vyplácenou po stanovenou dobu akademického roku, aby nebyl překročen celkový objem přidělených účelových prostředků na doktorská stipendia. Konkrétní částky nejsou uvedeny v poskytnutých textech.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.854463279
+Maximální skóre podobnosti: 0.875500858
+Spotřeba tokenů: 1602
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízí FIS?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí několik magisterských programů, které se dělí na informatické a datové. Mezi nabízené programy patří datové programy a informatické programy. Tyto programy můžete studovat buď distančně nebo v anglickém jazyce.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.836492419
+Maximální skóre podobnosti: 0.881810665
+Spotřeba tokenů: 1395
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam datových programů
+Vygenerovaná odpověď modelem: Datové programy nabízené na Fakultě informatiky a statistiky jsou:
+1. Aplikovaná datová analytika a umělá inteligence
+2. Ekonometrie a operační výzkum
+3. Ekonomická demografie
+4. Statistika
+5. Znalostní a webové technologie
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.830700517
+Maximální skóre podobnosti: 0.85425967
+Spotřeba tokenů: 1546
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: vzor testů
+Vygenerovaná odpověď modelem: Omlouvám se, ale žádný z poskytnutých textů neposkytuje informace o vzoru testů.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.822860718
+Maximální skóre podobnosti: 0.833686769
+Spotřeba tokenů: 1681
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do bakalářského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do bakalářského programu je podmínkou dosažení úplného středního nebo úplného středního odborného vzdělání. Dále je možné, že přijímající fakulta vychází z výsledků testu v daném případě.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.844614208
+Maximální skóre podobnosti: 0.873595357
+Spotřeba tokenů: 1618
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Do kdy mám podat přihlášku?
+Vygenerovaná odpověď modelem: Termín podání přihlášky je od 30. ledna do 14. února 2025.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.846336842
+Maximální skóre podobnosti: 0.872270644
+Spotřeba tokenů: 1717
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: cena za semestr
+Vygenerovaná odpověď modelem: Omlouvám se, ale v poskytnutých textech není uvedena informace o ceně za semestr. Doporučuji se obrátit na oficiální stránky školy nebo příslušné informační zdroje pro konkrétní informace o ceně za semestr.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.813206911
+Maximální skóre podobnosti: 0.821511686
+Spotřeba tokenů: 1824
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízíte a jaké jsou podmínky pro přijetí?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí několik magisterských programů, které se dělí na informatické a datové. Podmínkou pro přijetí do magisterského studia je řádné ukončení studia alespoň v bakalářském studijním programu a úspěšné složení přijímací zkoušky z odborného předmětu. Nicméně existuje možnost být přijat i bez přijímací zkoušky, pokud jsou splněny předem dané podmínky.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.84036684
+Maximální skóre podobnosti: 0.863326132
+Spotřeba tokenů: 1539
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Můsí mít cizinec při přijetí potvrzení o znalosti českého jazyka, pokud ano, na jaké úrovni?
+Vygenerovaná odpověď modelem: Ano, cizinec musí mít potvrzení o znalosti českého jazyka při přijetí ke studiu na Vysoké škole ekonomické. Úroveň této znalosti není z textů přesně uvedena, ale je zřejmé, že zkouška z českého jazyka je součástí přijímacího řízení pro cizince.
+Verze experimentu: 1a
+Minimální skóre podobnosti: 0.859245181
+Maximální skóre podobnosti: 0.880495667
+Spotřeba tokenů: 1715
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízíte?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí několik magisterských programů, které se dělí na informatické a datové. Studenti mohou studovat distančně nebo v anglickém jazyce. Jednotlivé programy se liší svou náplní a mezi nabízené programy patří například programy datové, informatické a programy v angličtině. Pro detailní přehled a informace k jednotlivým programům je možné se podívat v sekci Programy magisterského studia na webových stránkách fakulty.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.835139811
+Maximální skóre podobnosti: 0.88032037
+Spotřeba tokenů: 1471
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké bakalářské programy nabízíte?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí 5 bakalářských programů: Aplikovaná informatika, Data Analytics, Informační média, Multimédia v ekonomické praxi a další program Data Analytics a Multimédia v ekonomické praxi, který má standardní dobu studia 3,5 roku.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.831527889
+Maximální skóre podobnosti: 0.862956166
+Spotřeba tokenů: 1346
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: co můžu u vás studovat
+Vygenerovaná odpověď modelem: Na základě poskytnutých textů je možné studovat různé obory na Vysoké škole ekonomické v Praze. V nabídce jsou magisterské programy, doktorské programy a bakalářské studium. Mezi nabízené obory patří například Statistika, Znalostní a webové technologie, Informační management a další. Pro konkrétní informace o dostupných studijních programech a přijímacím řízení je vhodné navštívit oficiální webové stránky Vysoké školy ekonomické v Praze.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.831530809
+Maximální skóre podobnosti: 0.842781305
+Spotřeba tokenů: 1549
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: z čeho si můžu vybrat k mgr studiu
+Vygenerovaná odpověď modelem: K vybrání magisterského studia si můžeš vybrat z několika programů, které nabízí Vysoká škola ekonomická v Praze (VŠE) v oblastech jako jsou finanční studia, statistika, informační management, znalostní a webové technologie a další. Každý program má své specifické požadavky a přijímací řízení, které můžeš najít na oficiálních stránkách VŠE.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.8179667
+Maximální skóre podobnosti: 0.82928884
+Spotřeba tokenů: 1350
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: chci pokračovat ve studiu
+Vygenerovaná odpověď modelem: Na základě poskytnutých textů lze říci, že pokračování ve studiu na Vysoké škole ekonomické v Praze vyžaduje splnění určitých podmínek a postupů, jako je například účast na seznamovacím kurzu, potvrzení zájmu online nebo osobní účast na zápisu. Pro doktorské studium je důležité mít potvrzení zájmu a zapsat se do studia prostřednictvím elektronického systému. Pro získání ubytovacího stipendia je nutné podat žádost elektronicky. Pro cizince je důležité začít co nejdříve zařizovat vízum na dobu studia v České republice.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.821674168
+Maximální skóre podobnosti: 0.836868465
+Spotřeba tokenů: 1593
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam datových programů
+Vygenerovaná odpověď modelem: Na základě poskytnutých textů lze identifikovat, že Fakulta informatiky a statistiky nabízí několik magisterských programů, které se dělí na informatické a datové. Konkrétní seznam datových programů není uveden, ale můžeme předpokládat, že mezi nabízenými programy patří programy zaměřené na oblast datové analýzy a správy dat. Pro přesnější informace je vhodné kontaktovat přímo fakultu nebo prozkoumat detaily jednotlivých programů na webových stránkách fakulty.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.833702683
+Maximální skóre podobnosti: 0.840485811
+Spotřeba tokenů: 1434
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam bakalářských programů?
+Vygenerovaná odpověď modelem: Seznam bakalářských programů nabízených Fakultou informatiky a statistiky je:
+1. Aplikovaná informatika
+2. Data Analytics
+3. Informační média
+4. Multimédia v ekonomické praxi
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.847527325
+Maximální skóre podobnosti: 0.855064392
+Spotřeba tokenů: 1398
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Máte nějaké MBA?
+Vygenerovaná odpověď modelem: Ano, texty se zmiňují o MBA programu "Data Analytics for Business Management" poskytovaném Vysokou školou ekonomickou v Praze (VŠE). Program nabízí intenzivní výuku formou prezenčních modulů v Praze, práci na vlastním datově zaměřeném projektu z praxe a další příležitosti pro networking. Pro přijetí je vyžadováno alespoň bakalářské vzdělání nebo jiný MBA program, aktivní zájem o svět dat, profesní CV, motivační dopis, osobní pohovor a zaplacení školného ve výši 280 000 Kč.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.814682841
+Maximální skóre podobnosti: 0.85259515
+Spotřeba tokenů: 1446
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Chtěl bych jít na doktorské studium, co mi o tom můžeš povědět?
+Vygenerovaná odpověď modelem: Z dokončených textů lze vyčíst, že doktorské studium na Vysoké škole ekonomické ve studijním oboru Statistika vyžaduje znalosti odpovídající státní závěrečné zkoušce pro magisterský obor Statistika. Program podporuje spojení teoretických znalostí s praktickými dovednostmi a mezinárodní vědeckou spolupráci. Přijímací řízení probíhá na základě znalosti tématu disertační práce a výběru školitele. Důležitým krokem je také zapsání do studia online nebo osobně na stanovený termín.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.821547
+Maximální skóre podobnosti: 0.833384275
+Spotřeba tokenů: 1524
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Distanční studium
+Vygenerovaná odpověď modelem: Distanční studium je možné absolvovat na Fakultě informatiky a statistiky (FIS) VŠE. Programy, které nabízejí distanční studium, se dělí na informatické a datové a umožňují studentům studovat buď v českém jazyce nebo v anglickém jazyce. Distanční studium připravuje kvalifikované odborníky s možností studia na dálku a flexibilním způsobem výuky.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.822559595
+Maximální skóre podobnosti: 0.834389
+Spotřeba tokenů: 1442
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do bakalářského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do bakalářského programu je zákonnou podmínkou dosažení úplného středního nebo úplného středního odborného vzdělání. Fakulta informatiky a statistiky dále pro přijímání do všech studijních programů vychází z výsledků testu v rámci Národních srovnávacích zkoušek (NSZ) organizovaných společností Scio.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.850800633
+Maximální skóre podobnosti: 0.862127185
+Spotřeba tokenů: 1584
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do magisterského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do magisterského programu je nutné mít řádně ukončené studium alespoň v bakalářském studijním programu. Dále je vyžadováno úspěšné složení přijímací zkoušky z odborného předmětu. Existuje možnost, že přijímací zkouška bude prominuta, ale to záleží na počtu uchazečů a kapacitě programu. Také je možné být přijat bez přijímací zkoušky, pokud jsou splněny předem dané podmínky a děkan fakulty prominuje zkoušku.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.853306711
+Maximální skóre podobnosti: 0.874790609
+Spotřeba tokenů: 1597
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak najdu informace k přijetí?
+Vygenerovaná odpověď modelem: Informace k přijetí na VŠE můžeš najít na webových stránkách v sekci týkající se přijímacího řízení. Měl bys se seznámit s podmínkami pro přijetí a postupem pro podání přihlášky. Důležité je také dodržet termíny stanovené pro přihlašování a případně se informovat o možnostech prominutí přijímací zkoušky v případě podání více přihlášek.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.807155073
+Maximální skóre podobnosti: 0.813504457
+Spotřeba tokenů: 1496
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: jak se k vam dostat
+Vygenerovaná odpověď modelem: Pro dosažení našeho místa můžete postupovat podle následujících kroků:
+
+1. Pokud jste zájemcem o ubytování na kolejích, můžete podat žádost a zaplatit rezervační kauci 8.000 Kč. Poté si vyplňte žádost o vydání potvrzení, které si můžete vyzvednout osobně v kanceláři Centrálního ubytování nebo nechat poslat Českou poštou.
+
+2. Pokud jste uchazečem o studium na VŠE, můžete se seznámit s informacemi týkajícími se přijímacího řízení a termínů zkoušek. Online zkoušku můžete řešit z domova na svém počítači.
+
+3. V případě, že jste cizincem a potřebujete informace ohledně víza, můžete se pokusit zajistit si termín na Zastupitelském úřadě ČR k podání žádosti o vízum. Postupujte dle pokynů uvedených na webové stránce dané ambasády.
+
+Doufáme, že tyto informace vám pomohou dostat se k nám.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.80576551
+Maximální skóre podobnosti: 0.816248238
+Spotřeba tokenů: 1513
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Je možnost prominutí přijímací zkoušky na bakaláře?
+Vygenerovaná odpověď modelem: Ano, je možné požádat o prominutí přijímací zkoušky na bakalářské studium.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.855144739
+Maximální skóre podobnosti: 0.866747558
+Spotřeba tokenů: 1428
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Je možnost prominutí přijímací zkoušky na magistra?
+Vygenerovaná odpověď modelem: Ano, je možné požádat o prominutí přijímací zkoušky na magisterské studium na Vysoké škole ekonomické v Praze. Žádost o prominutí přijímací zkoušky může být podána pouze na jeden program a můžeš o ni zažádat nejpozději do 13. 6. 2025.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.851532102
+Maximální skóre podobnosti: 0.893885911
+Spotřeba tokenů: 1492
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Do kdy mám podat přihlášku?
+Vygenerovaná odpověď modelem: Do kdy máš podat přihlášku? Máš podat přihlášku nejpozději do 30. 4. 2025.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.831379592
+Maximální skóre podobnosti: 0.843925297
+Spotřeba tokenů: 1473
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: přihláška na bc.
+Vygenerovaná odpověď modelem: Z informací poskytnutých v textech je zřejmé, že pro přijetí na bakalářský studijní program je nezbytné, aby byla částka poplatku za úkony spojené s přijímacím řízením uhrazena ve správné výši a způsobem, a zároveň musí být v přihlášce kompletně vyplněny všechny údaje. Pozdější úpravy přihlášky po termínu podání a zaplacení nebudou akceptovány. Je důležité také dodržet termíny a pokyny pro podání přihlášky.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.839327455
+Maximální skóre podobnosti: 0.850443602
+Spotřeba tokenů: 1509
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Kdy se koná přijímací zkouška?
+Vygenerovaná odpověď modelem: Přijímací zkouška se koná 23. až 25. června 2025.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.84341687
+Maximální skóre podobnosti: 0.862545967
+Spotřeba tokenů: 1367
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: vzor testů
+Vygenerovaná odpověď modelem: Z textů nebylo možné získat konkrétní informace o vzoru testů. Texty se zaměřují převážně na termíny a průběh přijímacích zkoušek na různých univerzitách. Pokud máte konkrétní dotaz ohledně vzoru testů, doporučuji se obrátit přímo na dané univerzity nebo instituce, které zkoušky pořádají.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.820897758
+Maximální skóre podobnosti: 0.834024549
+Spotřeba tokenů: 1438
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Chci vědět víc o přijímacích zkouškách
+Vygenerovaná odpověď modelem: Z informací poskytnutých texty je patrné, že přijímací zkoušky na Vysoké škole ekonomické probíhají v různých formách a termínech v závislosti na konkrétním studijním programu. Například pro magisterské studium může probíhat online bez přijímací zkoušky nebo s přijímací zkouškou v určených termínech. Pro cizince může být součástí přijímacího procesu zkouška z českého jazyka. Uchazeči o doktorské studium skládají zkoušku z českého jazyka v písemné i ústní formě a představují svůj disertační záměr. Pro bakalářské studium jsou k dispozici různé programy s vlastními postupy a termíny přijímacího řízení. Pro podrobnější informace je vhodné konkrétně vyhledat informace o přijímacích zkouškách na jednotlivých studijních programech na oficiálních webových stránkách školy.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.836132407
+Maximální skóre podobnosti: 0.853409469
+Spotřeba tokenů: 1785
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou prosím podmínky přijímacího řízení na obor UX výzkum a design?
+Vygenerovaná odpověď modelem: Podmínky přijímacího řízení na obor UX výzkum a design zahrnují alespoň základní znalost programování v R a vhodnost pro studenty, kte chtějí vstoupit do oboru UX user experience a osvojit si jeho využívání v praxi. Studenti projdou celým procesem od problému nebo nápadu, přes zjištění informací prostřednictvím uživatelského výzkumu, návrh řešení, testování, až po jeho rozpracování podle principů dobré praxe.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.831529319
+Maximální skóre podobnosti: 0.88356936
+Spotřeba tokenů: 1590
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou podmínky pro zahraniční studenty?
+Vygenerovaná odpověď modelem: Podmínky pro zahraniční studenty zahrnují posouzení zahraničního vzdělání uchazeče Ministerstvem školství, mládeže a tělovýchovy, preferenci uchazečů do vyšších stupňů studia, do cizojazyčných programů a samoplátců před uchazeči do česky vyučovaných programů. Zahraniční studenti musí také ověřit termíny pro podání žádostí a získat potřebné vízové dokumenty podle konkrétních informací poskytnutých na webových stránkách.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.857902944
+Maximální skóre podobnosti: 0.873932421
+Spotřeba tokenů: 1630
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Zkouška z češtiny pro cizince
+Vygenerovaná odpověď modelem: Podle poskytnutých textů je zřejmé, že cizinci, kteří se ucházejí o studium na Vysoké škole ekonomické v Praze a kteří nejsou občany České republiky ani Slovenska, musí úspěšně složit zkoušku z českého jazyka. Tato zkouška je organizována katedrou anglického jazyka a je součástí přijímacího řízení. Úspěšné složení zkoušky znamená získání alespoň 60 bodů. Zkouška z češtiny ověřuje schopnost porozumět textu a mluvenému projevu v českém jazyce. Podrobnosti o obsahu zkoušky a způsobu přihlášení jsou k dispozici na webových stránkách katedry anglického jazyka.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.850656569
+Maximální skóre podobnosti: 0.881907105
+Spotřeba tokenů: 1605
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak dostanu vizum?
+Vygenerovaná odpověď modelem: Pro získání víza na dobu studia v České republice je potřeba podat žádost o vízum nejpozději před koncem července. Proces udělování víza trvá až 60 dní od odevzdání vízové žádosti. Je důležité si připravit všechny potřebné dokumenty předem a postupovat dle pokynů uvedených na webových stránkách ambasády. V případě potíží s zajistěním termínu na ambasádě je možné kontaktovat příslušné úřady pro pomoc.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.813785136
+Maximální skóre podobnosti: 0.849624932
+Spotřeba tokenů: 1578
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: mohu u vas studovat, když nejsem čech
+Vygenerovaná odpověď modelem: Ano, můžete studovat na Vysoké škole ekonomické v Praze (VŠE) i jako cizinec. Existují informace a postupy pro cizince, kteří chtějí studovat v České republice, včetně informací o vízech a dalších potřebných dokumentech. Můžete se zapsat ke studiu a začít si zařizovat vízum na dobu studia v České republice. Pro více konkrétních informací se doporučuje kontaktovat příslušné úřady nebo instituce na VŠE.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.846967757
+Maximální skóre podobnosti: 0.856722
+Spotřeba tokenů: 1491
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Můsí mít cizinec při přijetí potvrzení o znalosti českého jazyka?
+Vygenerovaná odpověď modelem: Ano, cizinec musí mít při přijetí potvrzení o znalosti českého jazyka. Podle poskytnutých textů je uvedeno, že před samotnou přijímací zkouškou na VŠE bude cizinec muset složit zkoušku z českého jazyka. Zkouška je organizována katedrou anglického jazyka a úspěšné složení zkoušky znamená získání alespoň 60 bodů.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.855475545
+Maximální skóre podobnosti: 0.875504911
+Spotřeba tokenů: 1622
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Na jaké úrovni musí mít cizinec potvrzení o znalosti českého jazyka?
+Vygenerovaná odpověď modelem: Cizinec musí mít potvrzení o znalosti českého jazyka na úrovni, která zaručuje získání alespoň 60 bodů při zkoušce z českého jazyka. Tato zkouška je organizována katedrou anglického jazyka a je součástí přijímacího řízení na VŠE v Praze.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.851828456
+Maximální skóre podobnosti: 0.86934346
+Spotřeba tokenů: 1598
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak mohu získat stipendium?
+Vygenerovaná odpověď modelem: Pro získání stipendia je možné požádat o ubytovací stipendium nebo studijní stipendium na Vysoké škole ekonomické v Praze. Ubytovací stipendium se vyplácí přímo školou a žádost o něj je nutné podat elektronicky prostřednictvím žádosti o ubytovací stipendium, která je k dispozici na insis.vse.cz. Studijní stipendium může být uděleno za vynikající studijní výsledky, ocenění ze střední školy nebo talentované studenty v prvním ročníku bakalářského studia. Podrobné informace o podmínkách a postupu získání stipendia jsou uvedeny v příslušných zdrojích.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.853218079
+Maximální skóre podobnosti: 0.864717662
+Spotřeba tokenů: 1634
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: kolik stoji skolne, kdyz je mi nad 26 let
+Vygenerovaná odpověď modelem: Na základě poskytnutých textů nelze přesně určit, kolik stojí školné pro studenty starší 26 let. Texty se zaměřují spíše na poplatky spojené se studiem, standardní doby studia a různé poplatky za zahájení studia v různých programech. Pro informaci o konkrétní výši školného pro studenty starší 26 let by bylo nutné získat další relevantní informace nebo se obrátit přímo na danou vysokou školu.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.812377
+Maximální skóre podobnosti: 0.840746403
+Spotřeba tokenů: 1570
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Manipulační poplatek za každou přihlášku
+Vygenerovaná odpověď modelem: Manipulační poplatek za každou přihlášku činí 960 Kč.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.849620283
+Maximální skóre podobnosti: 0.89800787
+Spotřeba tokenů: 1474
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Kolik stojí MBA?
+Vygenerovaná odpověď modelem: MBA program na VŠE Data Analytics for Business Management stojí 280 000 Kč při platbě celé částky předem.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.819807
+Maximální skóre podobnosti: 0.864131
+Spotřeba tokenů: 1397
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: jak dosáhnout na ubytovací stipendium
+Vygenerovaná odpověď modelem: Pro získání ubytovacího stipendia na Vysoké škole ekonomické je potřeba podat elektronickou žádost o ubytovací stipendium. Žádost se podává pouze jednou, když student poprvé žádá o přiznání tohoto stipendia. Další informace k ubytovacímu stipendiu a kontaktní údaje zodpovědné osoby najdete na stránkách VŠE.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.865081191
+Maximální skóre podobnosti: 0.877946
+Spotřeba tokenů: 1483
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: cena za semestr
+Vygenerovaná odpověď modelem: Odpověď na otázku o ceně za semestr není přímo obsažena v poskytnutých textech. Texty se zaměřují spíše na poplatky spojené se studiem v akademickém roce 2024-2025, ale neobsahují konkrétní informace o ceně za semestr. Pro získání této informace by bylo nutné mít další relevantní texty nebo zdroje.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.815325737
+Maximální skóre podobnosti: 0.834922612
+Spotřeba tokenů: 1548
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: sociální stipendium
+Vygenerovaná odpověď modelem: Sociální stipendium je přiznáno rektorem studentovi, který splní podmínky uvedené v zákoně, ve výši stanovené v tomto ustanovení zákona. Výplata sociálního stipendia probíhá bankovním převodem na bankovní účet studenta zpravidla za tři měsíce zpětně. Studentovi, kterému bylo přiznáno stipendium, je povinen bez zbytečného prodlení oznámit příslušnému studijnímu oddělení všechny skutečnosti, které mají vliv na výplatu sociálního stipendia.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.869234681
+Maximální skóre podobnosti: 0.885035276
+Spotřeba tokenů: 1564
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: kolik je doktorské stipendium?
+Vygenerovaná odpověď modelem: Doktorské stipendium má dvě části: nárokovou pravidelnou měsíční částku vyplácenou v průběhu celého akademického roku po dobu 12 měsíců a nenárokovou částku přiznávanou za vynikající výsledky ve studiu, vědecké, výzkumné a pedagogické činnosti. Výše stipendia je stanovena děkanem pro daný akademický rok.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.858725846
+Maximální skóre podobnosti: 0.873259604
+Spotřeba tokenů: 1556
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízí FIS?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí několik magisterských programů, které se dělí na informatické a datové. Studenti mohou studovat také distančně nebo v anglickém jazyce. Jednotlivé programy se liší svou náplní.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.833343208
+Maximální skóre podobnosti: 0.895712495
+Spotřeba tokenů: 1386
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam datových programů
+Vygenerovaná odpověď modelem: Seznam datových programů zahrnuje:
+- Aplikovaná datová analytika a umělá inteligence
+- Data Analytics
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.833162904
+Maximální skóre podobnosti: 0.840282261
+Spotřeba tokenů: 1432
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: vzor testů
+Vygenerovaná odpověď modelem: Omlouvám se, ale žádný z poskytnutých textů neobsahuje informace o vzoru testů.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.819808066
+Maximální skóre podobnosti: 0.832582593
+Spotřeba tokenů: 1541
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do bakalářského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do bakalářského programu je zákonnou podmínkou dosažení úplného středního nebo úplného středního odborného vzdělání. Fakulta informatiky a statistiky pro přijímání do všech studijních programů vychází z výsledků testu v rámci Národních srovnávacích zkoušek NSZ organizovaných společností Scio.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.851223052
+Maximální skóre podobnosti: 0.861046493
+Spotřeba tokenů: 1543
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Do kdy mám podat přihlášku?
+Vygenerovaná odpověď modelem: Do kdy máš podat přihlášku? | Odpověď: Přihlášku musíš podat do 30. dubna 2025.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.830259144
+Maximální skóre podobnosti: 0.845964849
+Spotřeba tokenů: 1617
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: cena za semestr
+Vygenerovaná odpověď modelem: Omlouvám se, ale texty, které jste poskytl/a, se zaměřují převážně na poplatky spojené se studiem na VŠE v akademickém roce 2024/2025 a stipendia, nikoli na cenu za semestr. Mohu vám pomoci s něčím jiným?
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.815325737
+Maximální skóre podobnosti: 0.834922612
+Spotřeba tokenů: 1781
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízíte a jaké jsou podmínky pro přijetí?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí několik magisterských programů, které se dělí na informatické a datové. Studenti mohou studovat distančně nebo v anglickém jazyce. Podmínkou pro přijetí do magisterského studia je řádné ukončení studia alespoň v bakalářském studijním programu a úspěšné složení přijímací zkoušky z odborného předmětu. Můžeš se také dostat na magisterský program bez přijímací zkoušky, pokud splníš předem stanovené podmínky. Další informace o programech a podmínkách nalezneš na stránkách fakulty.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.848406553
+Maximální skóre podobnosti: 0.863363504
+Spotřeba tokenů: 1604
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Můsí mít cizinec při přijetí potvrzení o znalosti českého jazyka, pokud ano, na jaké úrovni?
+Vygenerovaná odpověď modelem: Ano, cizinec musí mít potvrzení o znalosti českého jazyka při přijetí na některé studijní programy na VŠE v Praze. Úspěšné složení zkoušky z českého jazyka znamená získání alespoň 60 bodů. Zkouška je organizována katedrou anglického jazyka a musí se na ni cizinec samostatně přihlásit.
+Verze experimentu: 1b
+Minimální skóre podobnosti: 0.862519324
+Maximální skóre podobnosti: 0.876244962
+Spotřeba tokenů: 1634
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízíte?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí několik magisterských programů, které se dělí na informatické a datové. Studenti mohou studovat buď distančně nebo v anglickém jazyce. Jednotlivé programy se liší svou náplní v rámci programu. Konkrétně jsou nabízeny programy datové, informatické a distanční programy.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.839542031
+Maximální skóre podobnosti: 0.881137729
+Spotřeba tokenů: 1361
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké bakalářské programy nabízíte?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí pro uchazeče o studium 5 bakalářských programů prezenčního studia: Aplikovaná informatika, Data Analytics, Informační média a služby, Matematické metody v ekonomii a Multimédia v ekonomické praxi. Každý z těchto programů se zaměřuje na určitou oblast a vychovává odborníky s propojením teoretických a praktických znalostí.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.840744734
+Maximální skóre podobnosti: 0.864328206
+Spotřeba tokenů: 1419
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: co můžu u vás studovat
+Vygenerovaná odpověď modelem: Na Vysoké škole ekonomické v Praze můžeš studovat bakalářské a magisterské programy. Pro přijetí do magisterského studia je potřeba mít alespoň ukončené bakalářské studium a úspěšně složit přijímací zkoušku z odborného předmětu. Zápisy přijatých uchazečů do studia probíhají online s přijímací zkouškou v určeném termínu. Můžeš se také informovat o prominutí přijímací zkoušky podle specifických podmínek uvedených na stránkách školy.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.829845965
+Maximální skóre podobnosti: 0.833505511
+Spotřeba tokenů: 1522
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: z čeho si můžu vybrat k mgr studiu
+Vygenerovaná odpověď modelem: Můžeš si vybrat magisterský program na Vysoké škole ekonomické v Praze podle svých požadavků a kariérních plánů. Podmínkou pro přijetí do magisterského studia je řádné ukončení bakalářského studia a úspěšné složení přijímací zkoušky z odborného předmětu. Můžeš se také poradit se současnými studenty magistra na fakultě nebo využít ambasadory projektu Zeptej se! Pro více informací o jednotlivých programech můžeš navštívit stránky školy.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.822648
+Maximální skóre podobnosti: 0.843925536
+Spotřeba tokenů: 1417
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: chci pokračovat ve studiu
+Vygenerovaná odpověď modelem: Podle poskytnutých informací je možné pokračovat ve studiu na různých úrovních - bakalářském, magisterském nebo doktorském. Je důležité dodržet termíny pro zápis a přijímací zkoušky, které jsou specifikovány pro každý studijní program. Pro bližší informace a postup je vhodné konzultovat příslušné odkazy a podmínky studia na dané škole.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.823070884
+Maximální skóre podobnosti: 0.825146854
+Spotřeba tokenů: 1466
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam datových programů
+Vygenerovaná odpověď modelem: Datové programy nabízené na Fakultě informatiky a statistiky zahrnují:
+
+1. Aplikovaná datová analytika a umělá inteligence
+2. Datová analytika v e-governmentu
+3. Datová analytika ve výrobních podnicích
+4. Datová analytika v marketingu a e-commerce
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.83316952
+Maximální skóre podobnosti: 0.844548821
+Spotřeba tokenů: 1131
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam bakalářských programů?
+Vygenerovaná odpověď modelem: Na fakultě je nabízeno 5 bakalářských programů: Aplikovaná informatika, Data Analytics, Informační média a služby, Matematické metody v ekonomii a Multimédia v ekonomické praxi. Další informace k nim naleznete na stránce: https://fis.vse.cz/bakalarske-studium/prijimaci-rizeni/.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.847329617
+Maximální skóre podobnosti: 0.867924094
+Spotřeba tokenů: 1408
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Máte nějaké MBA?
+Vygenerovaná odpověď modelem: Ano, na stránce databusiness.cz je zmíněn MBA program "VŠE Data Analytics for Business Management" nabízený VŠE. Program je zaměřen na spojení teorie s praxí a vytváří špičkové profesionály v oblasti vedení datové analytiky. Pro přijetí do tohoto programu je vyžadováno alespoň bakalářské vzdělání nebo jiný MBA program, aktivní zájem o svět dat a další podmínky, včetně osobního pohovoru a zaplacení školného.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.82443285
+Maximální skóre podobnosti: 0.847156107
+Spotřeba tokenů: 1301
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Chtěl bych jít na doktorské studium, co mi o tom můžeš povědět?
+Vygenerovaná odpověď modelem: Doktorské studium je ukončeno obhajobou disertační práce a absolvent získá titul doktor Ph.D. Zájemci o studium musí skládat přijímací zkoušku formou pohovoru v anglickém jazyce. Studenti mohou navázat na svou diplomovou práci a pokračovat ve své práci s vhodným školitelem nebo zvolit vlastní téma. Pro přijetí je také nutné splnit základní podmínky a ukončit studium na bakalářské úrovni. Další informace o doktorském studiu a podmínkách přijímacího řízení najdete na webových stránkách.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.830307961
+Maximální skóre podobnosti: 0.849348
+Spotřeba tokenů: 1411
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Distanční studium
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí distanční magisterské programy, které umožňují studium z pohodlí domova. Tyto programy se zaměřují na různé oblasti, jako je aplikovaná datová analytika a umělá inteligence, ekonometrie a operační výzkum, ekonomická demografie, statistika, znalostní a webové technologie a další.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.819756269
+Maximální skóre podobnosti: 0.840367317
+Spotřeba tokenů: 1234
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do bakalářského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do bakalářského programu je nutné dosáhnout úplného středního nebo úplného středního odborného vzdělání. Tato informace je uvedena na stránce https://fis.vse.cz/bakalarske-studium/prijimaci-rizeni/.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.859070718
+Maximální skóre podobnosti: 0.86969775
+Spotřeba tokenů: 1406
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do magisterského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do magisterského programu je nutné řádně ukončit studium alespoň v bakalářském studijním programu a úspěšně složit přijímací zkoušku z odborného předmětu. Dále je možné požádat o prominutí přijímací zkoušky na základě splnění určitých podmínek, jako je například úspěšné ukončení bakalářského studia na určité fakultě s vyznamenáním.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.857957423
+Maximální skóre podobnosti: 0.892393112
+Spotřeba tokenů: 1480
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak najdu informace k přijetí?
+Vygenerovaná odpověď modelem: Pro získání informací k přijetí na bakalářské nebo magisterské studium na Vysoké škole ekonomické v Praze (VŠE) je nejlepší navštívit oficiální webové stránky školy. Na stránkách najdete podrobné informace o přijímacím řízení, termínech zápisů a přijímacích zkoušek, požadavcích na přihlášku a důležité dokumenty. Pro bakalářské studium je zdroj https://fis.vse.cz/bakalarske-studium/prijimaci-rizeni/ a pro magisterské studium je zdroj https://fis.vse.cz/magisterske-studium/prijimaci-rizeni/.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.807173252
+Maximální skóre podobnosti: 0.812223375
+Spotřeba tokenů: 1516
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: jak se k vam dostat
+Vygenerovaná odpověď modelem: Pro dostání se k Vám je možné využít online zdroje uvedeného odkazu https://fis.vse.cz/bakalarske-studium/prijimaci-rizeni/.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.80257678
+Maximální skóre podobnosti: 0.810966909
+Spotřeba tokenů: 1071
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Je možnost prominutí přijímací zkoušky na bakaláře?
+Vygenerovaná odpověď modelem: Je možné prominout přijímací zkoušku na bakalářské studium pouze v případě, že jsi úspěšně ukončila bakalářské studium na Fakultě informatiky a statistiky ve stejné oblasti vzdělávání, do které podáváš přihlášku na magisterské studium a dosáhla jsi titulu Bc. nejpozději v 6. semestru studia, a v průběhu tohoto bakalářského studia jsi neměla přidělené dodatečné kreditové poukázky.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.863282561
+Maximální skóre podobnosti: 0.884603322
+Spotřeba tokenů: 1491
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Je možnost prominutí přijímací zkoušky na magistra?
+Vygenerovaná odpověď modelem: Ano, je možné požádat o prominutí přijímací zkoušky na magisterské studium podle informací z poskytnutých textů. Žádost o prominutí přijímací zkoušky může být podána na jeden program a může být schválena v případě, že uchazeč splňuje určené podmínky, například úspěšné ukončení bakalářského studia na příslušné fakultě a dosažení určitého titulu. Žádost o prominutí přijímací zkoušky je třeba doručit e-mailem na stanovenou adresu.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.866294444
+Maximální skóre podobnosti: 0.893833935
+Spotřeba tokenů: 1529
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Do kdy mám podat přihlášku?
+Vygenerovaná odpověď modelem: Musíš podat přihlášku a zaplatit poplatek nejpozději do 30. dubna 2025.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.835226119
+Maximální skóre podobnosti: 0.856818378
+Spotřeba tokenů: 1419
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: přihláška na bc.
+Vygenerovaná odpověď modelem: Podání přihlášky na bakalářské studium je možné skrz univerzitní informační systém na webu prihlasky.vse.cz. Je nutné vyplnit všechny požadované údaje včetně oboru střední školy a můžeš uvést maximálně tři programy. Platba poplatku ve výši 960 Kč musí být provedena buď okamžitě při zadávání přihlášky platební kartou, nebo převodem na účet a variabilní symbol obdržíš na e-mailovou adresu uvedenou v přihlášce. Platba musí být připsána na účet VŠE nejpozději do 30. dubna 2025.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.837881625
+Maximální skóre podobnosti: 0.856884599
+Spotřeba tokenů: 1590
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Kdy se koná přijímací zkouška?
+Vygenerovaná odpověď modelem: Přijímací zkoušky se konají od 16. do 22. června 2025.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.852260649
+Maximální skóre podobnosti: 0.863132954
+Spotřeba tokenů: 1409
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: vzor testů
+Vygenerovaná odpověď modelem: Na základě poskytnutých textů nelze poskytnout vzor testů, jelikož se jedná o informace týkající se termínů přijímacích zkoušek na vybrané fakulty. Pokud máte konkrétní dotaz ohledně obsahu testů nebo jejich struktury, doporučuji se obrátit přímo na danou fakultu nebo organizátora přijímacích zkoušek.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.823227882
+Maximální skóre podobnosti: 0.833405375
+Spotřeba tokenů: 1291
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Chci vědět víc o přijímacích zkouškách
+Vygenerovaná odpověď modelem: Přijímací zkoušky na Vysoké škole ekonomické probíhají v rámci doktorského studia, magisterského studia a bakalářského studia. Uchazeči se musí dostavit k přijímacímu pohovoru, který je veden v anglickém jazyce. Zahraniční zájemci o studium v českém jazyce musí skládat zkoušku z českého jazyka v písemné i ústní formě. Součástí přijímacího pohovoru je rozbor disertačního záměru, kde uchazeč popisuje zaměření své výzkumné činnosti a disertační práce. Uchazeči mohou požádat o možnost skládat přijímací zkoušku prostřednictvím videohovoru z vážných důvodů. V magisterském studiu je přijímací zkouška složena z odborné části a motivační části, kde obě části mají stejnou váhu. Pokud uchazeč nedosáhne minimálního počtu bodů stanoveného děkanem, neuspěje v přijímacím řízení. Zápisy přijatých uchazečů do studia probíhají online a s přijímací zkouškou v různých termínech podle jednotlivých studijních programů. Seznamovací kurz je nabízen pro nové studenty k seznámení se s programem a budoucími spolužáky.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.836225808
+Maximální skóre podobnosti: 0.861242
+Spotřeba tokenů: 1800
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou prosím podmínky přijímacího řízení na obor UX výzkum a design?
+Vygenerovaná odpověď modelem: Podmínky přijímacího řízení na obor UX výzkum a design zahrnují základní znalost programování v R a přijetí až 50 uchazečů. Studenti se připravují na vstup do oboru UX user experience a učí se využívat uživatelskou zkušenost v praxi. Studium zahrnuje proces od problému nebo nápadu přes uživatelský výzkum a návrh.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.830754161
+Maximální skóre podobnosti: 0.866081536
+Spotřeba tokenů: 1486
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou podmínky pro zahraniční studenty?
+Vygenerovaná odpověď modelem: Podmínky pro zahraniční studenty zahrnují uznání předchozího zahraničního vzdělání, kter je nutné nechat uznat pro účely studia na Vysoké škole ekonomické v Praze (VŠE). Dále je možné získat stipendium na podporu studia v zahraničí a na výzkum, vývoj a inovace prostřednictvím výběrového řízení. Navíc je stanoven poplatek za posouzení zahraničního středoškolského a vysokoškolského vzdělání jako splnění podmínky pro přijetí ke studiu ve studijním programu uskutečňovaném v českém jazyce.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.856920779
+Maximální skóre podobnosti: 0.874477088
+Spotřeba tokenů: 1595
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Zkouška z češtiny pro cizince
+Vygenerovaná odpověď modelem: Ano, z poskytnutých textů vyplývá, že cizinci, kteří studují v České republice a nejsou občany České republiky či Slovenska a jejich předchozí studium bylo alespoň v bakalářském studijním programu v jiném než českém nebo slovenském jazyce, musí složit zkoušku z českého jazyka. Tato zkouška je organizována katedrou anglického jazyka a ověřuje schopnost porozumět textu a mluvenému projevu v českém jazyce.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.865784049
+Maximální skóre podobnosti: 0.895066
+Spotřeba tokenů: 1533
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak dostanu vizum?
+Vygenerovaná odpověď modelem: Pro získání víza na dobu studia v České republice je potřeba postupovat následovně: 
+- Pokud spolupracuješ s agenturou, která ti pomáhá s přesunem do České republiky, některé kroky nemusíš číst.
+- Začni si zařizovat vízum urychleně poté, co budeš zapsán ke studiu. 
+- Zajisti si termín na Zastupitelském úřadě ČR k podání žádosti o vízum v dostatečném předstihu.
+- Podání žádosti o vízum je potřeba nejpozději před koncem července.
+- Připrav si všechny potřebné dokumenty, včetně platného cestovního dokladu, fotografie, dokladu o přijetí na vysokou školu, dokladu o ubytování, dokladu o finančním zajištění a dalších podle konkrétních požadavků.
+- Postupuj dle pokynů uvedených na webových stránkách dané ambasády.
+- V případě potíží s termínem na ambasádě, kontaktuj příslušné instituce pro pomoc.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.831431806
+Maximální skóre podobnosti: 0.851799428
+Spotřeba tokenů: 1715
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: mohu u vas studovat, když nejsem čech
+Vygenerovaná odpověď modelem: Ano, můžete studovat na Vysoké škole ekonomické v Praze (VŠE) i jako cizinec. Proces zápisu a další informace o studiu pro cizince jsou k dispozici na oficiálních stránkách VŠE.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.841864049
+Maximální skóre podobnosti: 0.855646253
+Spotřeba tokenů: 1460
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Můsí mít cizinec při přijetí potvrzení o znalosti českého jazyka?
+Vygenerovaná odpověď modelem: Ano, cizinec musí mít při přijetí potvrzení o znalosti českého jazyka. Texty uvádějí, že cizinci, kteří absolvovali své předchozí studium v jiném než českém nebo slovenském jazyce a nejsou občany České republiky či Slovenska, musí složit zkoušku z českého jazyka před samotnou přijímací zkouškou. Také je zmíněno, že v den zkoušky skládají zkoušku z českého jazyka v písemné i ústní formě.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.862530828
+Maximální skóre podobnosti: 0.880702794
+Spotřeba tokenů: 1544
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Na jaké úrovni musí mít cizinec potvrzení o znalosti českého jazyka?
+Vygenerovaná odpověď modelem: Cizinec musí mít potvrzení o znalosti českého jazyka na úrovni odpovídající státní závěrečné zkoušce pro magisterský studijní obor statistika.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.858133793
+Maximální skóre podobnosti: 0.86970216
+Spotřeba tokenů: 1443
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak mohu získat stipendium?
+Vygenerovaná odpověď modelem: Pro získání stipendia je potřeba podat žádost elektronicky přes studijní informační systém dané vysoké školy. Žádost o stipendium lze podat pouze jednou za určité časové období. Podmínky a postup pro podání žádosti o stipendium jsou obvykle uvedeny v příslušném Stipendijním řádu dané vysoké školy.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.856870532
+Maximální skóre podobnosti: 0.868961513
+Spotřeba tokenů: 1444
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: kolik stoji skolne, kdyz je mi nad 26 let
+Vygenerovaná odpověď modelem: Na základě poskytnutých textů nelze přesně určit, kolik stojí školné pro studenty starší 26 let, protože informace o specifických poplatcích pro tuto skupinu studentů nejsou uvedeny. Doporučuji se obrátit přímo na danou vysokou školu nebo studijní oddělení pro konkrétní informace ohledně školného pro studenty nad 26 let.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.815846384
+Maximální skóre podobnosti: 0.830508769
+Spotřeba tokenů: 1292
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Manipulační poplatek za každou přihlášku
+Vygenerovaná odpověď modelem: Podle poskytnutých textů není zmínka o manipulačním poplatku za každou přihlášku. Manipulační poplatek je zmíněn pouze v souvislosti s bankovními transakcemi, kde je uvedeno, že pokud banka strhne manipulační poplatek a částka na účtu bude nižší než požadovaná, uchazeč nemůže být zařazen mezi přihlášené.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.862372935
+Maximální skóre podobnosti: 0.886229515
+Spotřeba tokenů: 1492
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Kolik stojí MBA?
+Vygenerovaná odpověď modelem: MBA program Data Analytics for Business Management stojí 280 000 Kč při platbě celé částky předem. MBA program IT Management & Business Transformation powered by CIOs má školné ve výši 15,000 EU. Poplatek za MBA program International Management je 3.600 EUR za započatý akademický rok studia. Poplatek za delší studium v bakalářském nebo magisterském programu je 27.000 Kč při překročení standardní doby studia.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.834731936
+Maximální skóre podobnosti: 0.860015273
+Spotřeba tokenů: 1262
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: jak dosáhnout na ubytovací stipendium
+Vygenerovaná odpověď modelem: Pro získání ubytovacího stipendia na Vysoké škole ekonomické je nutné podat elektronickou Žádost o ubytovací stipendium, která je k dispozici na insis.vse.cz. Žádost se vyplní pouze jednou a student musí splňovat stanovené podmínky uvedené ve Stipendijním řádu VŠE. Pro další informace o ubytovacím stipendiu se můžete obrátit na paní Kristinu Kurišovou, která má na starosti ubytovací stipendia a je k dispozici na místnosti NB 39 nebo na telefonním čísle 22409 5626.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.869960725
+Maximální skóre podobnosti: 0.88322866
+Spotřeba tokenů: 1541
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: cena za semestr
+Vygenerovaná odpověď modelem: Na základě poskytnutých textů nelze přesně určit cenu za semestr, protože informace o cenách jsou uvedeny různě v souvislosti s akademickými roky, studijními programy a jazyky výuky. Pro přesné určení ceny za semestr by bylo nutné mít konkrétní informace o studijním programu a akademickém roce.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.817557931
+Maximální skóre podobnosti: 0.843251288
+Spotřeba tokenů: 1487
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: sociální stipendium
+Vygenerovaná odpověď modelem: Sociální stipendium je přiznáno rektorem studentovi, který splní podmínky uvedené v zákoně a je udělováno ve výši stanovené v tomto ustanovení zákona. Student, který má nárok na sociální stipendium, může podat žádost elektronicky přes ní centrum InSIS nejpozději do konce října každého kalendářního roku. Sociální stipendium se vyplácí bankovním převodem na bankovní účet studenta zpravidla za tři měsíce zpětně.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.881390214
+Maximální skóre podobnosti: 0.890271127
+Spotřeba tokenů: 1480
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: kolik je doktorské stipendium?
+Vygenerovaná odpověď modelem: Doktorské stipendium má dvě části - nárokovou pravidelnou měsíční částku vyplácenou po celý akademický rok a nenárokovou částku přiznávanou za vynikající výsledky ve studiu a ve vědecké, výzkumné a pedagogické činnosti. Konkrétní částky nejsou uvedeny v poskytnutých textech.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.866534233
+Maximální skóre podobnosti: 0.885030448
+Spotřeba tokenů: 1434
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízí FIS?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí několik magisterských programů, kter se dělí na informatické a datové. Studenti mohou studovat distančně nebo v anglickém jazyce. Jednotlivé programy se liší svou náplní v rámci programu.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.84523946
+Maximální skóre podobnosti: 0.891823351
+Spotřeba tokenů: 1329
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam datových programů
+Vygenerovaná odpověď modelem: Seznam datových programů na Fakultě informatiky a statistiky zahrnuje:
+1. Aplikovaná datová analytika a umělá inteligence
+2. Ekonometrie a operační výzkum
+3. Ekonomická demografie
+4. Statistika
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.832841635
+Maximální skóre podobnosti: 0.844100177
+Spotřeba tokenů: 1260
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: vzor testů
+Vygenerovaná odpověď modelem: Omlouvám se, ale žádný z poskytnutých textů neobsahuje informace o vzoru testů.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.823227882
+Maximální skóre podobnosti: 0.833405375
+Spotřeba tokenů: 1426
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do bakalářského programu?
+Vygenerovaná odpověď modelem: Požadavkem pro přijetí do bakalářského programu je dosažení úplného středního nebo úplného středního odborného vzdělání. Tato informace je uvedena na stránce fakulty informatiky a statistiky.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.859746277
+Maximální skóre podobnosti: 0.868936062
+Spotřeba tokenů: 1399
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Do kdy mám podat přihlášku?
+Vygenerovaná odpověď modelem: Musíš podat přihlášku nejpozději do 30. dubna 2025.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.835226119
+Maximální skóre podobnosti: 0.856818378
+Spotřeba tokenů: 1412
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: cena za semestr
+Vygenerovaná odpověď modelem: Odpověď: Cena za každý další započatý semestr studia v bakalářském nebo magisterském studijním programu v případě, že doba studia počítaná v semestrech překročila standardní dobu studia, je 2.500 EUR.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.817557931
+Maximální skóre podobnosti: 0.843251288
+Spotřeba tokenů: 1519
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízíte a jaké jsou podmínky pro přijetí?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí několik magisterských programů, které se dělí na informatické a datové. Studium může být absolvováno distančně nebo v anglickém jazyce. Podmínkou pro přijetí do magisterského studia je řádné ukončení studia alespoň v bakalářském studijním programu a úspěšné složení přijímací zkoušky z odborného předmětu.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.848581851
+Maximální skóre podobnosti: 0.878015935
+Spotřeba tokenů: 1426
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Můsí mít cizinec při přijetí potvrzení o znalosti českého jazyka, pokud ano, na jaké úrovni?
+Vygenerovaná odpověď modelem: Ano, cizinec musí mít potvrzení o znalosti českého jazyka při přijetí ke studiu na VŠE. Potvrzení je vyžadováno, pokud cizinec absolvoval své předchozí studium alespoň v bakalářském studijním programu v jiném než českém nebo slovenském jazyce a není občanem České republiky či Slovenska. Zkouška z českého jazyka je součástí přijímacího procesu a musí být složena v písemné i ústní formě.
+Verze experimentu: 1c
+Minimální skóre podobnosti: 0.868364811
+Maximální skóre podobnosti: 0.879184604
+Spotřeba tokenů: 1568
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízíte?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí několik magisterských programů, které se dělí na informatické a datové. Mezi nabízené programy patří Aplikovaná datová analytika a umělá inteligence, Ekonometrie a operační výzkum, Ekonomická demografie a další. Studenti mohou studovat jak prezenčně, tak i distančně nebo v anglickém jazyce. Pro více informací doporučuji navštívit oficiální webové stránky fakulty na adrese https://fis.vse.cz/magisterske-studium/magisterske-programy/.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.839776397
+Maximální skóre podobnosti: 0.880034268
+Spotřeba tokenů: 1374
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké bakalářské programy nabízíte?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí 5 bakalářských programů: Aplikovaná informatika, Data Analytics, Informační média a služby, Matematické metody v ekonomii a Multimédia v ekonomické praxi.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.836235046
+Maximální skóre podobnosti: 0.852309585
+Spotřeba tokenů: 1270
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: co můžu u vás studovat
+Vygenerovaná odpověď modelem: Na Vysoké škole ekonomické můžeš studovat různé programy v oblasti informatiky a statistiky, jako jsou například Information Systems Management a Economic Data Analysis. Pro přijetí do bakalářského programu je vyžadováno úplné střední nebo úplné střední odborné vzdělání. Pro magisterský program můžeš být přijata i bez přijímací zkoušky, pokud splňuješ předem stanovené podmínky. Pro více informací navštivte oficiální webové stránky školy.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.835272431
+Maximální skóre podobnosti: 0.840109766
+Spotřeba tokenů: 1452
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: z čeho si můžu vybrat k mgr studiu
+Vygenerovaná odpověď modelem: K přihlášce na magisterské studium si můžeš vybrat jednu preferovanou specializaci, kterou uvedeš v přihlášce. Na Fakultě informatiky a statistiky VŠE je možné studovat například statistiku a pravděpodobnost, ekonomickou statistiku, demografii, informační systémy management nebo ekonomickou analýzu dat.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.82497406
+Maximální skóre podobnosti: 0.83766669
+Spotřeba tokenů: 1363
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: chci pokračovat ve studiu
+Vygenerovaná odpověď modelem: Podle poskytnutých textů můžete pokračovat ve studiu doktorského nebo magisterského programu na Vysoké škole ekonomické. Pro doktorské studium je nutné skládat přijímací zkoušku formou pohovoru v anglickém jazyce a představit svůj disertační záměr. Zápis bude probíhat online od 30. ledna do 14. února 2025. Pro magisterské studium se zápis provádí online nebo s přijímací zkouškou v červnu 2025. Dále je možné se zúčastnit seznamovacího kurzu, kde získáte užitečné informace o studijním programu a seznámíte se s budoucími spolužáky.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.821051955
+Maximální skóre podobnosti: 0.835025251
+Spotřeba tokenů: 1517
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam datových programů
+Vygenerovaná odpověď modelem: Seznam datových programů nabízených na Fakultě informatiky a statistiky zahrnuje:
+- Aplikovaná datová analytika a umělá inteligence
+- Ekonomická demogra
+- Datová analytika v e-governmentu
+- Datová analytika ve výrobních podnicích
+- Datová analytika v marketingu a e-commerce
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.826877058
+Maximální skóre podobnosti: 0.838087857
+Spotřeba tokenů: 1279
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam bakalářských programů?
+Vygenerovaná odpověď modelem: Bakalářské programy nabízené na Fakultě informatiky a statistiky jsou:
+1. Aplikovaná informatika
+2. Data Analytics
+3. Informační média a služby
+4. Matematické metody v ekonomii
+5. Multimédia v ekonomické praxi.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.847303867
+Maximální skóre podobnosti: 0.849332333
+Spotřeba tokenů: 1320
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Máte nějaké MBA?
+Vygenerovaná odpověď modelem: Ano, z textů vyplývá, že existuje program nazvaný "Data Analytics for Business Management" (Data Analytics pro řízení podnikání) na Vysoké škole ekonomické (VŠE) v Praze. Tento program nabízí spojení teorie s praxí a poskytuje účastníkům možnost pracovat na reálných projektech s akademickými kapacitami z VŠE, SCET UC Berkeley a odborníky z partnerských firem. Program vytváří profesionály v oblasti vedení datové analytiky s bohatou sítí kontaktů v oboru.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.830109179
+Maximální skóre podobnosti: 0.838023186
+Spotřeba tokenů: 1403
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Chtěl bych jít na doktorské studium, co mi o tom můžeš povědět?
+Vygenerovaná odpověď modelem: Doktorské studium na Fakultě informatiky a statistiky má za cíl připravit vysoce kvalifikované pracovníky pro vědeckou práci, kteří budou rozvíjet teorie a výzkum ve vybrané oblasti. Studium probíhá podle individuálního studijního plánu pod vedením školitele a může trvat maximálně 5 let. Přijímací zkouška se skládá formou pohovoru v anglickém jazyce, případně z českého jazyka pro zahraniční zájemce. Součástí přijímacího pohovoru je rozbor disertačního záměru. Po úspěšném absolvování obhajoby disertační práce získáte titul doktor Ph.D.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.828585088
+Maximální skóre podobnosti: 0.845608652
+Spotřeba tokenů: 1540
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Distanční studium
+Vygenerovaná odpověď modelem: Distanční studium je možné absolvovat na Fakultě informatiky a statistiky, kde nabízejí programy magisterského studia v oblasti informatických a datových disciplín. Studenti se mohou specializovat například na podnikovou informatiku nebo datovou analytiku a umělou inteligenci. Distanční studium umožňuje studentům flexibilitu ve studiu a je určeno pro ty, kteří preferují vzdělávání na dálku.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.822994709
+Maximální skóre podobnosti: 0.83295691
+Spotřeba tokenů: 1122
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do bakalářského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do bakalářského programu je nutné dosáhnout úplného středního nebo úplného středního odborného vzdělání. Fakulta informatiky a statistiky pro přijímání do všech studijních programů vychází z výsledků testu v rámci Národních srovnávacích zkoušek organizovaných společností Scio. Přijímací zkouška se skládá z testu z Obecných studijních předpokladů.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.856746197
+Maximální skóre podobnosti: 0.869885266
+Spotřeba tokenů: 1458
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do magisterského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do magisterského programu je nutné řádně ukončit studium alespoň v bakalářském studijním programu. Dále je třeba úspěšně složit přijímací zkoušku z odborného předmětu. Pokud jsi absolvovala své předchozí studium alespoň v bakalářském studijním programu v jiném než českém nebo slovenském jazyce a nejsi občanem České republiky či Slovenska, musíš úspěšně složit zkoušku z českého jazyka. Dále je možné být přijat i bez přijímací zkoušky, pokud splňuješ předem stanovené podmínky a děkan fakulty ti ji prominuje.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.863709927
+Maximální skóre podobnosti: 0.873557031
+Spotřeba tokenů: 1518
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak najdu informace k přijetí?
+Vygenerovaná odpověď modelem: Informace k přijetí na magisterský program na VŠE jsou uvedené na adrese fis.vse.cz. Můžeš podat maximálně dvě přihlášky, přičemž v každé z nich uvedeš jednu preferovanou specializaci. K přihlášce je důležité přiložit všechny potřebné dokumenty. Pokud splňuješ předem dané podmínky, můžeš být přijata i bez přijímací zkoušky. Pro více informací se můžeš obrátit na danou fakultu.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.813993335
+Maximální skóre podobnosti: 0.828527272
+Spotřeba tokenů: 1275
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: jak se k vam dostat
+Vygenerovaná odpověď modelem: Pro získání dalších informací a kontaktování osob zodpovědných za ubytovací stipendium na VŠE, můžete vyhledat Stipendijní řád VŠE, kde naleznete potřebné informace. Paní Kristina Kurišová, která má na starosti ubytovací stipendia, je k dispozici v místnosti NB 39 na telefonním čísle 22409 5626 nebo na místní lince 5626.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.806996584
+Maximální skóre podobnosti: 0.824644506
+Spotřeba tokenů: 1016
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Je možnost prominutí přijímací zkoušky na bakaláře?
+Vygenerovaná odpověď modelem: Ano, je možné požádat o prominutí přijímací zkoušky na bakalářské studium v případě, že jsi absolvovala bakalářské studium s vyznamenáním na jiné fakultě VŠE nebo na jiné vysoké škole. Žádost o prominutí přijímací zkoušky je třeba doručit e-mailem paní Hudcové a bude posuzována individuálně.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.867281437
+Maximální skóre podobnosti: 0.879407525
+Spotřeba tokenů: 1432
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Je možnost prominutí přijímací zkoušky na magistra?
+Vygenerovaná odpověď modelem: Ano, je možné požádat o prominutí přijímací zkoušky na magisterské studium do 13. 6. 2025, pokud jsi studentkou jiné fakulty VŠE nebo jiných vysokých škol a jsi absolvovala bakalářské studium s vyznamenáním. Tato žádost bude posuzována individuálně a je třeba ji doručit e-mailem paní Hudcové.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.870541692
+Maximální skóre podobnosti: 0.894483387
+Spotřeba tokenů: 1392
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Do kdy mám podat přihlášku?
+Vygenerovaná odpověď modelem: Podat přihlášku můžeš nejpozději do 30. dubna 2025.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.832677722
+Maximální skóre podobnosti: 0.841885209
+Spotřeba tokenů: 1378
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: přihláška na bc.
+Vygenerovaná odpověď modelem: Pro přihlášení na bakalářský studijní program na VŠE je nutné podat přihlášku a zaplatit příslušný poplatek. Přihlášku můžeš podat skrz univerzitní informační systém na webu prihlasky.vse.cz. Do přijímacího řízení můžeš podat pouze jednu přihlášku a je nutné vyplnit všechny požadované údaje včetně oboru střední školy. V přihlášce lze uvést maximálně tři programy, přičemž pořadí programů je závazné a nelze jej dodatečně upravovat. Přijímací zkoušky se budou konat v prosinci 2024 a květnu 2025, přičemž starší testy nebudou akceptovány. Nezapomeň k přihlášce přiložit všechny důležité dokumenty.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.838036478
+Maximální skóre podobnosti: 0.843680203
+Spotřeba tokenů: 1581
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Kdy se koná přijímací zkouška?
+Vygenerovaná odpověď modelem: Přijímací zkouška se koná v rámci přijímacího řízení na daný studijní program. Pro bakalářské studium je možné prominout přijímací zkoušku podle určitých podmínek, zatímco pro magisterské studium je přijímací zkouška rozdělena na odbornou část a motivační část. Přesné termíny konání přijímacích zkoušek nejsou uvedeny v poskytnutých textech. Doporučuji se obrátit na příslušnou fakultu nebo konkrétní studijní program pro informace o termínech a podmínkách přijímacích zkoušek.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.851267695
+Maximální skóre podobnosti: 0.860660434
+Spotřeba tokenů: 1525
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: vzor testů
+Vygenerovaná odpověď modelem: Odpověď na otázku o vzoru testů není obsažena v poskytnutých textech.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.826911092
+Maximální skóre podobnosti: 0.834000707
+Spotřeba tokenů: 1075
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Chci vědět víc o přijímacích zkouškách
+Vygenerovaná odpověď modelem: Přijímací zkoušky na Vysoké škole ekonomické probíhají formou pohovoru v anglickém jazyce. Zahraniční zájemci o studium v českém jazyce mimo občanů Slovenské republiky v den zkoušky skládají zkoušku z českého jazyka v písemné i ústní formě. Součástí přijímacího pohovoru je rozbor disertačního záměru, kde uchazeč popisuje představu o zaměření své výzkumné činnosti. Přijímací zkouška může být prominuta za určitých podmínek, například pokud uchazeč již úspěšně ukončil studium na fakultě.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.840615273
+Maximální skóre podobnosti: 0.858734131
+Spotřeba tokenů: 1530
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou prosím podmínky přijímacího řízení na obor UX výzkum a design?
+Vygenerovaná odpověď modelem: Podmínkou přijetí do bakalářského studijního programu UX výzkum a design je dosažení úplného středního nebo úplného středního odborného vzdělání. Fakulta informatiky a statistiky dále vychází z výsledků testu v rámci Národních srovnávacích zkoušek (NSZ) organizovaných společností Scio přijímací zkouška z Obecných studijních předpokladů (OSP). Na test se uchazeč hlásí sám na webových stránkách.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.838257194
+Maximální skóre podobnosti: 0.855306625
+Spotřeba tokenů: 1465
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou podmínky pro zahraniční studenty?
+Vygenerovaná odpověď modelem: Podmínky pro zahraniční studenty zahrnují potřebu ověření dokumentů, získání platného cestovního dokladu, fotografie, dokladu o přijetí na vysokou školu, dokladu o ubytování, dokladu o finančním zajištění, a obdobného výpisu z rejstříku trestů. Dále je třeba poslat úředně ověřenou kopii diplomu nebo obdobného dokladu o ukončení studia, případně úředně ověřenou kopii dodatku k diplomu nebo výpis o vykonaných zkouškách. Všechny dokumenty je třeba přeložit do českého nebo anglického jazyka podle potřeby. Výsledek posouzení bude uchazeči sdělen emailem a zaslán také přímo fakultě.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.863193929
+Maximální skóre podobnosti: 0.874477088
+Spotřeba tokenů: 1499
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Zkouška z češtiny pro cizince
+Vygenerovaná odpověď modelem: Pro cizince, kteří se ucházejí o studium na Vysoké škole ekonomické, je požadováno složení zkoušky z českého jazyka. Tato zkouška je placená a organizována katedrou anglického jazyka. Uchazeči se musí samostatně přihlásit a úspěšně ji složit, aby mohli pokračovat v přijímacím řízení. Podrobnosti o obsahu zkoušky a způsobu přihlášení jsou k dispozici na webových stránkách katedry anglického jazyka.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.850613952
+Maximální skóre podobnosti: 0.891875148
+Spotřeba tokenů: 1507
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak dostanu vizum?
+Vygenerovaná odpověď modelem: Pro získání víza na dobu studia v České republice je potřeba postupovat podle určitých kroků. Nejprve si musíš zařídit všechny potřebné dokumenty, jako platný cestovní doklad, fotografii, doklad o přijetí na vysokou školu, doklad o ubytování, doklad o finančním zajištění a obdobný výpis z rejstříku trestů. Poté musíš podat žádost o vízum na zastupitelském úřadě České republiky a zaplatit správní poplatek. Samotný proces udělování víza může trvat až 60 dní od odevzdání žádosti. Je důležité mít všechny dokumenty v českém jazyce nebo úředně přeložené, pokud jsou v jiném jazyce.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.835439622
+Maximální skóre podobnosti: 0.853548706
+Spotřeba tokenů: 1570
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: mohu u vas studovat, když nejsem čech
+Vygenerovaná odpověď modelem: Ano, můžete studovat na Vysoké škole ekonomické v Praze, i když nejste občanem České republiky. Nicméně budete muset splnit určité podmínky, jako například úspěšné složení zkoušky z českého jazyka, pokud jste absolvovali předchozí studium v jiném než českém nebo slovenském jazyce. Další informace o podmínkách pro studium cizinců naleznete na oficiálních stránkách Vysoké školy ekonomické.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.842312098
+Maximální skóre podobnosti: 0.850552619
+Spotřeba tokenů: 1464
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Můsí mít cizinec při přijetí potvrzení o znalosti českého jazyka?
+Vygenerovaná odpověď modelem: Ano, cizinec, který absolvoval své předchozí studium alespoň v bakalářském studijním programu v jiném než českém nebo slovenském jazyce a není občanem České republiky či Slovenska, musí před samotnou přijímací zkouškou složit zkoušku z českého jazyka. Tato informace je uvedena v textu ze zdroje https://fis.vse.cz/magisterske-studium/informace-pro-cizince-mgr/.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.86440438
+Maximální skóre podobnosti: 0.874225914
+Spotřeba tokenů: 1481
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Na jaké úrovni musí mít cizinec potvrzení o znalosti českého jazyka?
+Vygenerovaná odpověď modelem: Cizinec musí mít potvrzení o znalosti českého jazyka na úrovni, která mu umožní absolvovat zkoušku z českého jazyka při přijímacím řízení na Vysokou školu ekonomickou v Praze (VŠE). Tato zkouška je povinná pro zájemce o studium na bakalářské nebo magisterské úrovni, kteří absolvovali své předchozí studium v jiném než českém nebo slovenském jazyce a nejsou občany České republiky či Slovenska.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.857993126
+Maximální skóre podobnosti: 0.872546196
+Spotřeba tokenů: 1478
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak mohu získat stipendium?
+Vygenerovaná odpověď modelem: Pro získání ubytovacího stipendia na Vysoké škole ekonomické je nutné podat elektronickou žádost o stipendium, která je k dispozici na insis.vse.cz. Podmínky pro podání žádosti o ubytovací stipendium a další informace naleznete ve Stipendijním řádu VŠE. Ubytovací stipendia má na starosti paní Kristina Kurišová, kterou můžete kontaktovat na telefonním čísle 22409 5626 nebo místní lince 5626.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.862885535
+Maximální skóre podobnosti: 0.866758525
+Spotřeba tokenů: 1171
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: kolik stoji skolne, kdyz je mi nad 26 let
+Vygenerovaná odpověď modelem: Na základě poskytnutých textů není možné přesně určit, kolik stojí školné pro studenty starší 26 let. Texty se zaměřují na různé aspekty studia, stipendií a poplatků spojených se studiem na VŠE, ale neobsahují informace o specifickém školném pro studenty starší 26 let. Pro přesné zjištění této informace by bylo nezbytné provést další vyhledávání nebo se obrátit přímo na VŠE.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.809999585
+Maximální skóre podobnosti: 0.827985168
+Spotřeba tokenů: 1124
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Manipulační poplatek za každou přihlášku
+Vygenerovaná odpověď modelem: Manipulační poplatek za každou přihlášku není zmíněn v poskytnutých textech.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.855103672
+Maximální skóre podobnosti: 0.881984353
+Spotřeba tokenů: 1360
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Kolik stojí MBA?
+Vygenerovaná odpověď modelem: MBA stojí 280 000 Kč při platbě celé částky předem nebo 15,000 EUR, pokud je zaplaceno jednorázově.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.82171756
+Maximální skóre podobnosti: 0.837136209
+Spotřeba tokenů: 961
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: jak dosáhnout na ubytovací stipendium
+Vygenerovaná odpověď modelem: Pro dosažení ubytovacího stipendia je nutné podat elektronickou Žádost o ubytovací stipendium, která je k dispozici na insis.vse.cz. Další informace k ubytovacímu stipendiu a podmínky pro podání žádosti naleznete ve Stipendijním řádu VŠE. Ubytovací stipendium vyplácí přímo Vysoká škola ekonomická a má na starosti paní Kristina Kurišová.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.87550807
+Maximální skóre podobnosti: 0.88322866
+Spotřeba tokenů: 1228
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: cena za semestr
+Vygenerovaná odpověď modelem: Podle poskytnutých textů je cena za semestr studia v bakalářském nebo magisterském studijním programu v případě, že doba studia překročila standardní dobu, stanovena na 500 EUR za započatý akademický rok studia.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.817448199
+Maximální skóre podobnosti: 0.849264443
+Spotřeba tokenů: 1271
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: sociální stipendium
+Vygenerovaná odpověď modelem: Sociální stipendium je přiznáno rektorem studentovi, který splní podmínky uvedené v zákoně, ve výši stanovené v tomto ustanovení zákona. Při splnění podmínek je studentovi přiznáno stipendium. Uplatnění sociálního stipendia je dále spojeno s oznámením všech skutečností, které mohou mít vliv na výplatu tohoto stipendia příslušnému studijnímu oddělení.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.888100266
+Maximální skóre podobnosti: 0.890271127
+Spotřeba tokenů: 1252
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: kolik je doktorské stipendium?
+Vygenerovaná odpověď modelem: Doktorské stipendium má dvě části - nárokovou pravidelnou měsíční částku vyplácenou po celý akademický rok a nenárokovou částku přiznanou za vynikající výsledky ve studiu a ve vědecké, výzkumné a pedagogické činnosti. Konkrétní částky nejsou uvedeny v poskytnutých textech.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.873162389
+Maximální skóre podobnosti: 0.885030448
+Spotřeba tokenů: 1329
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízí FIS?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí několik magisterských programů, které se dělí na informatické a datové. Mezi nabízené programy patří Aplikovaná datová analytika a umělá inteligence, Ekonometrie a operační výzkum, Ekonomická demogra. Tyto programy mohou být studovány distančně nebo v anglickém jazyce.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.847357273
+Maximální skóre podobnosti: 0.887776315
+Spotřeba tokenů: 1314
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam datových programů
+Vygenerovaná odpověď modelem: Seznam datových programů zahrnuje:
+1. Aplikovaná datová analytika a umělá inteligence
+2. Ekonometrie a operační výzkum
+3. Ekonomická demogra
+4. Datová analytika v e-governmentu
+5. Datová analytika ve výrobních podnicích
+6. Datová analytika v marketingu a e-commerce
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.826877058
+Maximální skóre podobnosti: 0.838087857
+Spotřeba tokenů: 1440
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: vzor testů
+Vygenerovaná odpověď modelem: Omlouvám se, ale žádný z poskytnutých textů neposkytuje informace o vzoru testů.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.826911092
+Maximální skóre podobnosti: 0.834000707
+Spotřeba tokenů: 1368
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do bakalářského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do bakalářského programu je nutné dosáhnout úplného středního nebo úplného středního odborného vzdělání. Fakulta informatiky a statistiky pro přijímání do všech studijních programů vychází z výsledků testu v rámci Národních srovnávacích zkoušek organizovaných společností Scio. Přijímací zkouška se skládá z testu z Obecných studijních předpokladů.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.856746197
+Maximální skóre podobnosti: 0.869885266
+Spotřeba tokenů: 1458
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Do kdy mám podat přihlášku?
+Vygenerovaná odpověď modelem: Do přijímacího řízení můžeš podat pouze jednu přihlášku. Přihlášku musíš podat a poplatek uhradit nejpozději do 30. dubna 2025.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.832677722
+Maximální skóre podobnosti: 0.841885209
+Spotřeba tokenů: 1619
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: cena za semestr
+Vygenerovaná odpověď modelem: Omlouvám se, ale informace poskytnuté v textech neobsahují přesnou cenu za semestr studia. Pokud máte konkrétní dotaz ohledně cen za studium, doporučuji se obrátit přímo na příslušný úřad nebo instituci poskytující informace o cenách studia.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.817448199
+Maximální skóre podobnosti: 0.849264443
+Spotřeba tokenů: 1595
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízíte a jaké jsou podmínky pro přijetí?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí několik magisterských programů, které se dělí na informatické a datové. Mezi nabízené programy patří Aplikovaná datová analytika a umělá inteligence, Ekonometrie a operační výzkum, a Ekonomická demografie. Podmínky pro přijetí mohou zahrnovat splnění předem stanovených podmínek, jako je úspěšné ukončení bakalářského studia na Fakultě. Přijímací zkoušku je možné prominout v určitých případech, například pokud jste úspěšně absolvovali bakalářské studium s vyznamenáním na jiné fakultě VŠE nebo na jiné vysoké škole.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.858011782
+Maximální skóre podobnosti: 0.865097463
+Spotřeba tokenů: 1466
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Můsí mít cizinec při přijetí potvrzení o znalosti českého jazyka, pokud ano, na jaké úrovni?
+Vygenerovaná odpověď modelem: Ano, cizinec musí mít potvrzení o znalosti českého jazyka při přijetí ke studiu na VŠE (Vysoká škola ekonomická) v České republice. Z textu vyplývá, že zkouška z českého jazyka je požadována pro uchazeče, kteří absolvovali předchozí studium v jiném než českém nebo slovenském jazyce a nejsou občany České republiky či Slovenska. Zkouška je organizována katedrou anglického jazyka a je placená. Není však specifikováno, na jaké úrovni musí být tato zkouška složena.
+Verze experimentu: 1d
+Minimální skóre podobnosti: 0.868013918
+Maximální skóre podobnosti: 0.88190949
+Spotřeba tokenů: 1523
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízíte?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí několik magisterských programů, kter se dělí na informatické a datové. Mezi datové programy patří Aplikovaná datová analytika a umělá inteligence, Ekonometrie a operační výzkum, Ekonomická demografie, Statistika, Znalostní a webové technologie. Mezi informatické programy patří Aplikovaná datová analytika a umělá inteligence, Business ana. Nabízejí také distanční programy a programy v angličtině.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.839614511
+Maximální skóre podobnosti: 0.87686795
+Spotřeba tokenů: 1237
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké bakalářské programy nabízíte?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí 5 bakalářských programů: Aplikovaná informatika, Data Analytics, Informační média a služby, Matematické metody v ekonomii a Multimédia v ekonomické praxi. Více informací k nim naleznete na stránce Programy bakalářského studia na webu fakulty.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.83602
+Maximální skóre podobnosti: 0.856014907
+Spotřeba tokenů: 1144
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: co můžu u vás studovat
+Vygenerovaná odpověď modelem: Na Vysoké škole ekonomické (VŠE) můžeš studovat magisterské a doktorské studijní programy. Pro magisterské studium je možné být přijat bez přijímací zkoušky, ale můžeš podat odvolání proti rozhodnutí o nepřijetí. Zápisy přijatých uchazečů do studia probíhají online. Pro doktorské studium je nutné skládat přijímací zkoušku formou pohovoru v anglickém jazyce, případně zkoušku z českého jazyka pro zahraniční zájemce. Další informace o studijních programech a podmínkách přijímacího řízení najdeš na oficiálních stránkách VŠE.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.831623852
+Maximální skóre podobnosti: 0.837122
+Spotřeba tokenů: 1280
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: z čeho si můžu vybrat k mgr studiu
+Vygenerovaná odpověď modelem: K vybrání pro magisterské studium si můžeš vybrat z následujících možností:
+
+- Pokud jsi studentkou jiné fakulty VŠE nebo jiné vysoké školy a absolvovala jsi bakalářské studium s vyznamenáním, můžeš zažádat o prominutí přijímací zkoušky nejpozději do 13. 6. 2025.
+- Pokud máš vše pro přijetí na fakultu Řádným ukončením studia alespoň v bakalářském studijním programu.
+- Můžeš také získat uznání předchozího studia v České republice, pokud jsi studovala bakalářské či magisterské studium v zahraničí.
+
+Tyto jsou některé z možností, ze kterých si můžeš vybrat pro magisterské studium.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.821628511
+Maximální skóre podobnosti: 0.822997212
+Spotřeba tokenů: 1298
+
+--------------------------------------------------
+Původní uživatelský dotaz: chci pokračovat ve studiu
+Vygenerovaná odpověď modelem: Podle poskytnutých textů je možné pokračovat ve studiu na VŠE tím, že projevíš zájem o dodatečné přijetí podáním odvolání proti rozhodnutí o nepřijetí. Zápisy přijatých uchazečů do studia proběhnou online bez přijímací zkoušky v červnu 2025. Dále je uvedeno, že na seznamovacím kurzu získáš užitečné informace ohledně svého studijního programu, seznámíš se s budoucími spolužáky a zároveň si odneseš spoustu nových zážitků.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.824332237
+Maximální skóre podobnosti: 0.830108881
+Spotřeba tokenů: 991
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam datových programů
+Vygenerovaná odpověď modelem: Datové programy nabízené na Fakultě informatiky a statistiky zahrnují:
+- Aplikovaná datová analytika a umělá inteligence
+- Ekonometrie a operační výzkum
+- Ekonomická demografie
+- Statistika
+- Znalostní a webové technologie
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.832128882
+Maximální skóre podobnosti: 0.836398065
+Spotřeba tokenů: 917
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam bakalářských programů?
+Vygenerovaná odpověď modelem: Bakalářské programy nabízené na Vysoké škole ekonomické jsou:
+- Aplikovaná informatika
+- Data Analytics
+- Informační média a služby
+- Matematické metody v ekonomii
+- Multimédia v ekonomické praxi
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.849827826
+Maximální skóre podobnosti: 0.860958397
+Spotřeba tokenů: 872
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Máte nějaké MBA?
+Vygenerovaná odpověď modelem: Ano, mám informace o MBA programu zaměřeném na datovou analytiku a business management poskytovaném ve spolupráci s VŠE a SCET UC Berkeley. Program nabízí spojení teorie s praxí a umožňuje účastníkům pracovat na reálných projektech s akademickými kapacitami a odborníky z partnerských firem. Školné činí 280 000 Kč při platbě celé částky předem.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.823424399
+Maximální skóre podobnosti: 0.84008652
+Spotřeba tokenů: 1069
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Chtěl bych jít na doktorské studium, co mi o tom můžeš povědět?
+Vygenerovaná odpověď modelem: Na doktorské studium je potřeba projít přijímacím řízením, které zahrnuje výběr disertační práce a školitele, skládání přijímací zkoušky formou pohovoru v anglickém jazyce (případně zkoušky z českého jazyka pro zahraniční zájemce), a rozbor disertačního záměru během pohovoru. Poté je nutné potvrdit zájem o zápis do studia online od 30. ledna do 14. února 2025, případně osobně 17. února 2025. Zapsání do doktorského studia proběhne 17. února 2025 pro ty, kteří potvrdí zájem online nebo se dostaví osobně.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.829233646
+Maximální skóre podobnosti: 0.837345839
+Spotřeba tokenů: 1420
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Distanční studium
+Vygenerovaná odpověď modelem: Distanční forma studia je nabízena v rámci programu Podniková informatika, který připravuje odborníky schopné řídit podnikovou informatiku a pracovat ve vývoji a provozu ISICT. Studenti se v tomto programu naučí modelovat a optimalizovat podnikové procesy, řídit projekty a analyzovat data.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.823909342
+Maximální skóre podobnosti: 0.832804918
+Spotřeba tokenů: 870
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do bakalářského programu?
+Vygenerovaná odpověď modelem: Na základě poskytnutých textů není uvedeno, jaké jsou přesné požadavky na přijetí do bakalářského programu. Texty se zaměřují převážně na magisterské studium a informace pro cizince. Doporučuji se obrátit na oficiální webové stránky dané vysoké školy nebo příslušného úřadu pro konkrétní informace o požadavcích na přijetí do bakalářského programu.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.862552941
+Maximální skóre podobnosti: 0.87069875
+Spotřeba tokenů: 1203
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do magisterského programu?
+Vygenerovaná odpověď modelem: Požadavky na přijetí do magisterského programu zahrnují možnost podání pouze jedné přihlášky ke studiu na fakultu a možnost prominutí přijímací zkoušky na programy, na které je to možné, pokud je splněna určitá podmínka. Studenti budou přijímáni dle dosaženého průměru a kapacitních možností programu. Dále je možné zažádat o prominutí přijímací zkoušky do určitého data i jako studentka jiné fakulty VŠE nebo jiné vysoké školy, pokud bylo bakalářské studium ukončeno s vyznamenáním. Existují však výjimky, kdy přijímací zkouška nemůže být prominuta, například pro absolventy určitých oborů nebo programů. Je také důležité prokázat řádné ukončení bakalářského studia a dodržet stanovené termíny pro podání žádostí a dalších dokumentů.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.867037416
+Maximální skóre podobnosti: 0.882088244
+Spotřeba tokenů: 1455
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak najdu informace k přijetí?
+Vygenerovaná odpověď modelem: Informace k přijetí na magisterské studium na VŠE můžeš najít na stránce https://fis.vse.cz/magisterske-studium/prijimaci-rizeni/. Zde jsou uvedeny termíny přijímacích zkoušek, možnost podání odvolání proti rozhodnutí o nepřijetí a informace o seznamovacím kurzu.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.811591089
+Maximální skóre podobnosti: 0.826049685
+Spotřeba tokenů: 1144
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: jak se k vam dostat
+Vygenerovaná odpověď modelem: Pro získání informací o přijímacím řízení, vízovém režimu a platebních podmínkách na Vysoké škole ekonomické v Praze můžete navštívit oficiální webové stránky školy na těchto adresách:
+
+Bakalářské studium: https://fis.vse.cz/bakalarske-studium/informace-pro-cizince/
+Magisterské studium: https://fis.vse.cz/magisterske-studium/informace-pro-cizince-mgr/
+Přijímací řízení: https://fis.vse.cz/bakalarske-studium/prijimaci-rizeni/
+
+Pro podrobnější informace a konkrétní postup se doporučuje postupovat dle instrukcí uvedených na těchto webových stránkách nebo v případě potřeby kontaktovat příslušné úřady či instituce.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.814351797
+Maximální skóre podobnosti: 0.81843245
+Spotřeba tokenů: 1188
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Je možnost prominutí přijímací zkoušky na bakaláře?
+Vygenerovaná odpověď modelem: Na základě poskytnutých textů není zmínka o možnosti prominutí přijímací zkoušky na bakalářské studium. Texty se zaměřují na možnost prominutí přijímací zkoušky na magisterské studium a podmínky spojené s tímto procesem.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.872697353
+Maximální skóre podobnosti: 0.877480567
+Spotřeba tokenů: 1121
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Je možnost prominutí přijímací zkoušky na magistra?
+Vygenerovaná odpověď modelem: Ano, je možnost prominutí přijímací zkoušky na magisterské studium podle uvedených informací. Žádost o prominutí přijímací zkoušky může být podána nejpozději do 13. 6. 2025 a je třeba ji doručit e-mailem paní Hudcové. Je však důležité si ověřit, zda splňuješ podmínky pro prominutí zkoušky, které jsou specifikovány v textech, například výjimky týkající se určitých oborů a programů.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.881169677
+Maximální skóre podobnosti: 0.887601912
+Spotřeba tokenů: 1012
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Do kdy mám podat přihlášku?
+Vygenerovaná odpověď modelem: Musíš podat přihlášku nejpozději do 30. 4. 2025.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.836912096
+Maximální skóre podobnosti: 0.83987093
+Spotřeba tokenů: 1101
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: přihláška na bc.
+Vygenerovaná odpověď modelem: Omlouvám se, ale ve zdrojových textech není uvedena informace týkající se přihlášky na bakalářské studium. Texty se soustředí na přijímací řízení a postup při přihlašování na magisterské studium. Pokud máte konkrétní otázku ohledně přihlášky na bakalářské studium, doporučuji se obrátit přímo na danou vysokou školu, na kterou se chcete přihlásit, nebo prozkoumat webové stránky této instituce.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.839259207
+Maximální skóre podobnosti: 0.851322532
+Spotřeba tokenů: 1236
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Kdy se koná přijímací zkouška?
+Vygenerovaná odpověď modelem: Přijímací zkouška se koná 23. až 25. června 2025.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.854097843
+Maximální skóre podobnosti: 0.858154953
+Spotřeba tokenů: 1020
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: vzor testů
+Vygenerovaná odpověď modelem: Z textů nelze jednoznačně určit, kde byste mohli najít vzor testů. Doporučuji se podívat na webové stránky konkrétních institucí, které pořádají zkoušky, nebo se obrátit přímo na ně pro informace o dostupných vzorech testů.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.827961
+Maximální skóre podobnosti: 0.833036363
+Spotřeba tokenů: 692
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Chci vědět víc o přijímacích zkouškách
+Vygenerovaná odpověď modelem: Přijímací zkoušky se skládají z odborné části a motivační části. Pokud neuspěješ v odborné části, tak nejdeš dál v přijímacím řízení. Pokud úspěšně projdeš odbornou částí, pokračuješ motivační částí. Celkový výsledek přijímací zkoušky je poté stanoven jako souhrn obou částí, přičemž mají stejnou váhu. Okruhy k přijímacím zkouškám jsou specifikovány děkanem pro daný studijní program. Zkoušky mohou probíhat online z domova na počítači a zápisy přijatých uchazečů do studia se konají online v určených termínech. Na seznamovacím kurzu získáš užitečné informace o tvém studijním programu a seznámíš se s budoucími spolužáky.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.845297337
+Maximální skóre podobnosti: 0.85269773
+Spotřeba tokenů: 1075
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou prosím podmínky přijímacího řízení na obor UX výzkum a design?
+Vygenerovaná odpověď modelem: Podmínkou přijímacího řízení na obor UX výzkum a design je vhodné pro studenty, kteří chtějí vstoupit do oboru UX user experience uživatelská zkušenost a osvojit si jeho využívání v praxi. Konkrétní informace o přijímacím řízení, například požadavky na přihlášku nebo termíny, nejsou z textu přímo zřejmé. Doporučuji se obrátit na oficiální webové stránky daného magisterského programu nebo přijímacího řízení pro podrobnější informace.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.835040808
+Maximální skóre podobnosti: 0.872000813
+Spotřeba tokenů: 1243
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou podmínky pro zahraniční studenty?
+Vygenerovaná odpověď modelem: Podmínky pro zahraniční studenty zahrnují posuzování uchazečů Ministerstvem školství, mládeže a tělovýchovy na základě kritérií, kterými jsou přednost pro uchazeče do vyšších stupňů studia, do cizojazyčných programů a pro samoplátce před uchazeči do česky vyučovaných programů. Dále je nutné nahlásit adresu pobytu v České republice, pokud má zahraniční student dlouhodobé vízum za účelem studia. Uchazeči, kteří studovali střední školu v zahraničí, musí nechat uznat své předchozí vzdělání v ČR a mohou požádat o uznání předchozího studia pro účely studia na VŠE nebo o nostrifikaci maturitního vysvědčení v ČR. V případě přihlášky ke studiu ve studijním programu uskutečňovaném v českém jazyce se platí poplatek, zatímco v případě studijního programu v cizím jazyce je posouzení zahraničního vzdělání bezplatné.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.8681674
+Maximální skóre podobnosti: 0.869751155
+Spotřeba tokenů: 1566
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Zkouška z češtiny pro cizince
+Vygenerovaná odpověď modelem: Pro absolvování magisterského studia na VŠE v České republice cizinci, kteří studovali předchozí studium v jiném než českém nebo slovenském jazyce a nejsou občany České republiky či Slovenska, musí složit zkoušku z českého jazyka. Tato zkouška je organizována katedrou anglického jazyka a je placená. Úspěšné složení zkoušky vyžaduje získání alespoň 60 bodů a ověřuje schopnost porozumět textu a mluvenému projevu v českém jazyce. Podrobnosti o obsahu zkoušky a způsobu přihlášení jsou k dispozici na webu katedry anglického jazyka.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.864144146
+Maximální skóre podobnosti: 0.898815453
+Spotřeba tokenů: 1151
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak dostanu vizum?
+Vygenerovaná odpověď modelem: Pro získání víza na studium v České republice je potřeba postupovat následovně:
+
+1. Po zápisu ke studiu si musíš urychleně začít zařizovat vízum na dobu svého studia v České republice. Pro oba typy žádostí (dlouhodobé vízum za účelem studia nebo dlouhodobý pobyt za účelem studia) potřebuješ platný cestovní doklad, fotografii a doklad o přijetí na VŠE.
+
+2. Samotný proces udělování víza trvá dle zákona až 60 dní, takže je důležité mít všechny potřebné dokumenty připravené včas.
+
+3. Pokud máš problém zajistit si termín na ambasádě, můžeš kontaktovat VŠE a pokusit se být nominován do vízového režimu student.
+
+4. Informace o postupu získání víza a potřebných dokumentech si ověř na webových stránkách ambasády České republiky a dodržuj instrukce uvedené na těchto stránkách.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.837846816
+Maximální skóre podobnosti: 0.849008679
+Spotřeba tokenů: 1502
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: mohu u vas studovat, když nejsem čech
+Vygenerovaná odpověď modelem: Ano, můžeš studovat na Vysoké škole ekonomické (VŠE) v České republice i jako cizinec. Před samotným přijetím na studium bys však musel splnit určité podmínky, jako například složení zkoušky z českého jazyka, pokud jsi dosud studoval v jiném než českém nebo slovenském jazyce. Dále bys také musel nechat uznat své předchozí vzdělání, pokud jsi studoval střední školu v zahraničí.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.844727039
+Maximální skóre podobnosti: 0.849422812
+Spotřeba tokenů: 1215
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Můsí mít cizinec při přijetí potvrzení o znalosti českého jazyka?
+Vygenerovaná odpověď modelem: Ano, cizinec musí mít při přijetí potvrzení o znalosti českého jazyka, protože je uvedeno, že před samotnou přijímací zkouškou bude muset složit zkoušku z českého jazyka, která ověří schopnost porozumět textu a mluvenému projevu v českém jazyce.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.87512356
+Maximální skóre podobnosti: 0.88107115
+Spotřeba tokenů: 1299
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Na jaké úrovni musí mít cizinec potvrzení o znalosti českého jazyka?
+Vygenerovaná odpověď modelem: Cizinec musí mít potvrzení o znalosti českého jazyka na úrovni získání alespoň 60 bodů. Toto potvrzení je získáno úspěšným složením zkoušky z českého jazyka, která ověřuje schopnost porozumět textu a mluvenému projevu v českém jazyce.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.865892828
+Maximální skóre podobnosti: 0.875004828
+Spotřeba tokenů: 1297
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak mohu získat stipendium?
+Vygenerovaná odpověď modelem: Pro získání ubytovacího stipendia na Vysoké škole ekonomické je nutné podat elektronickou žádost o stipendium, která je k dispozici na insis.vse.cz. V žádosti se vyplní pouze údaje o bankovním spojení pro výplatu ubytovacího stipendia. Další informace k ubytovacímu stipendiu naleznete ve Stipendijním řádu VŠE. Ubytovací stipendium vyplácí přímo Vysoká škola ekonomická a má na starosti paní Kristina Kurišová.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.860381961
+Maximální skóre podobnosti: 0.862155
+Spotřeba tokenů: 1161
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: kolik stoji skolne, kdyz je mi nad 26 let
+Vygenerovaná odpověď modelem: Podle poskytnutých textů nelze přesně určit, kolik stojí školné pro osobu starší 26 let. Texty se zabývají poplatky spojenými se studiem a podmínkami pro přijetí na konkrétní studijní programy, ale neobsahují informace o školném pro studenty starší 26 let. Pro konkrétní informace o školném pro studenty nad 26 let by bylo nutné provést další rešerši nebo se obrátit přímo na danou vysokou školu.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.813155
+Maximální skóre podobnosti: 0.817193508
+Spotřeba tokenů: 1182
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Manipulační poplatek za každou přihlášku
+Vygenerovaná odpověď modelem: Manipulační poplatek za každou přihlášku není povolen. Pokud banka strhne manipulační poplatek a částka na účtu bude nižší než požadovaná, uchazeč nebude zařazen mezi přihlášené.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.859592319
+Maximální skóre podobnosti: 0.888706207
+Spotřeba tokenů: 1259
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Kolik stojí MBA?
+Vygenerovaná odpověď modelem: MBA program na VŠE Data Analytics for Business Management stojí 280 000 Kč při platbě celé částky předem.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.83611387
+Maximální skóre podobnosti: 0.86013037
+Spotřeba tokenů: 971
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: jak dosáhnout na ubytovací stipendium
+Vygenerovaná odpověď modelem: Pro získání ubytovacího stipendia je nutné splnit několik podmínek uvedených ve Stipendijním řádu VŠE. Student musí být studujícím programu v prezenční formě studia, nesmí pobírat ubytovací stipendium na jiné vysoké škole, a musí studovat ve standardní době studia. Dále je třeba mít trvalý pobyt mimo místo studia (např. v Praze) a prokázat nárok na stipendium písemným potvrzením orgánu státní sociální podpory. Žádost o ubytovací stipendium se podává elektronicky pouze jednou, když student žádá o přiznání stipendia poprvé. Pro další informace kontaktujte paní Kristinu Kurišovou, která má na starosti ubytovací stipendia na VŠE.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.863692343
+Maximální skóre podobnosti: 0.866460502
+Spotřeba tokenů: 1198
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: cena za semestr
+Vygenerovaná odpověď modelem: Na základě poskytnutých textů nelze přesně určit cenu za semestr, protože informace o konkrétní ceně za jeden semestr nejsou uvedeny. Texty se zaměřují spíše na poplatky spojené se studiem v různých typech studijních programů a akademických letech. Pro zjištění ceny za jeden semestr by bylo potřeba konkrétní informace o poplatcích za semestr, které nejsou obsaženy v poskytnutých textech.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.817363739
+Maximální skóre podobnosti: 0.827700377
+Spotřeba tokenů: 1291
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: sociální stipendium
+Vygenerovaná odpověď modelem: Sociální stipendium je přiznáno rektorem studentovi, který splní podmínky uvedené v zákoně, ve výši stanovené v tomto ustanovení zákona. Nárok na stipendium prokazuje student písemným potvrzením vydaným na jeho žádost orgánem státní sociální podpory. Potvrzení pro účely přiznání stipendia platí po dobu 21 měsíců.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.877871931
+Maximální skóre podobnosti: 0.88554281
+Spotřeba tokenů: 1285
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: kolik je doktorské stipendium?
+Vygenerovaná odpověď modelem: Doktorské stipendium má dvě části - nárokovou pravidelnou měsíční částku vyplácenou po celý akademický rok a nenárokovou částku udělovanou za vynikající výsledky ve studiu a ve vědecké, výzkumné a pedagogické činnosti.具体金额由院长确定。
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.873103321
+Maximální skóre podobnosti: 0.884453833
+Spotřeba tokenů: 1136
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízí FIS?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí několik magisterských programů, které se dělí na informatické a datové. Mezi datové programy patří Aplikovaná datová analytika a umělá inteligence, Ekonometrie a operační výzkum, Ekonomická demografie, Statistika, Znalostní a webové technologie. Mezi informatické programy patří Aplikovaná datová analytika a umělá inteligence a Business analytics. Nabízí také možnost studia distančně nebo v anglickém jazyce.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.847245693
+Maximální skóre podobnosti: 0.883043587
+Spotřeba tokenů: 1208
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam datových programů
+Vygenerovaná odpověď modelem: Datové programy nabízené na Fakultě informatiky a statistiky jsou: Aplikovaná datová analytika a umělá inteligence, Ekonometrie a operační výzkum, Ekonomická demografie, Statistika a Znalostní a webové technologie.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.832128882
+Maximální skóre podobnosti: 0.836398065
+Spotřeba tokenů: 1114
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: vzor testů
+Vygenerovaná odpověď modelem: Omlouvám se, ale žádné informace o vzoru testů nejsou obsaženy v poskytnutých textech.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.827411
+Maximální skóre podobnosti: 0.832810521
+Spotřeba tokenů: 943
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do bakalářského programu?
+Vygenerovaná odpověď modelem: Na základě poskytnutých textů není možné zjistit přesné požadavky na přijetí do bakalářského programu. Texty se věnují především magisterskému studiu a postupům spojeným s přijímacím řízením, seznamovacím kurzem a uznáním předchozího studia. Pro konkrétní informace o požadavcích na přijetí do bakalářského programu je třeba se obrátit na příslušné webové stránky instituce nabízející daný program nebo se informovat přímo u dané fakulty.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.862552941
+Maximální skóre podobnosti: 0.87069875
+Spotřeba tokenů: 1238
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Do kdy mám podat přihlášku?
+Vygenerovaná odpověď modelem: Do kdy máš podat přihlášku? Podle poskytnutých textů musí být platba poplatku za úkony spojené s přijímacím řízením připsána na účet VŠE nejpozději do 30. 4. 2025. Je důležité zajistit, aby platba byla provedena včas a podání přihlášky bylo kompletní v souladu s požadavky stanovenými na webových stránkách instituce.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.836912096
+Maximální skóre podobnosti: 0.83987093
+Spotřeba tokenů: 1445
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: cena za semestr
+Vygenerovaná odpověď modelem: Odpověď: Cena za každý další započatý semestr studia v bakalářském nebo magisterském programu činí 2.500 EUR.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.817363739
+Maximální skóre podobnosti: 0.827700377
+Spotřeba tokenů: 1602
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízíte a jaké jsou podmínky pro přijetí?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí následující magisterské programy: 
+- Aplikovaná datová analytika a umělá inteligence
+- Ekonometrie a operační výzkum
+- Ekonomická demografie
+- Statistika
+- Znalostní a webové technologie
+
+Podmínky pro přijetí na tyto programy zahrnují výběr programu podle vlastních požadavků a kariérních plánů, studium buď distančně nebo v anglickém jazyce, a dodržení termínů a postupů přijímacího řízení stanovených fakultou. Pro detailnější informace doporučuji prostudovat oficiální stránky fakulty a informace k přijímacímu řízení.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.862808883
+Maximální skóre podobnosti: 0.868627131
+Spotřeba tokenů: 1320
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Můsí mít cizinec při přijetí potvrzení o znalosti českého jazyka, pokud ano, na jaké úrovni?
+Vygenerovaná odpověď modelem: Ano, cizinec musí při přijetí složit zkoušku z českého jazyka. Úspěšné složení zkoušky znamená získání alespoň 60 bodů a ověří schopnost porozumět textu a mluvenému projevu v českém jazyce.
+Verze experimentu: 1e
+Minimální skóre podobnosti: 0.878955245
+Maximální skóre podobnosti: 0.884960592
+Spotřeba tokenů: 1293
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízíte?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí několik magisterských programů, které se dělí na informatické a datové. Mezi datové programy patří například Aplikovaná datová analytika a umělá inteligence, Ekonometrie a operační výzkum, Ekonomická demografie, Statistika, Znalostní a webové technologie. Mezi informatické programy pak patří například Business analýza, Informační management, Kognitivní informatika, UX výzkum a design, Vývoj informačních systémů. Dále je možné studovat distančně například program Podniková informatika nebo programy v angličtině.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.845464408
+Maximální skóre podobnosti: 0.872682273
+Spotřeba tokenů: 1110
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké bakalářské programy nabízíte?
+Vygenerovaná odpověď modelem: Fakulta nabízí 5 bakalářských programů: Aplikovaná informatika, Data Analytics, Informační média a služby, Matematické metody v ekonomii a Multimédia v ekonomické praxi.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.83888346
+Maximální skóre podobnosti: 0.851938128
+Spotřeba tokenů: 764
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: co můžu u vás studovat
+Vygenerovaná odpověď modelem: Na základě poskytnutých textů je možné studovat bakalářské studium a doktorské studium na Vysoké škole ekonomické. Pro bližší informace o nabízených studijních programech a podmínkách přijímacích řízení je vhodné navštívit oficiální webové stránky školy na adrese https://fis.vse.cz/bakalarske-studium/prijimaci-rizeni/ a https://fis.vse.cz/doktorske-studium/prijimaci-rizeni/.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.83024317
+Maximální skóre podobnosti: 0.837222576
+Spotřeba tokenů: 765
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: z čeho si můžu vybrat k mgr studiu
+Vygenerovaná odpověď modelem: K vybrání magisterského studia můžete zvolit program, který vyhovuje vašim zájmům a kvalifikacím. Pro přijetí na magisterské studium je obvykle vyžadováno alespoň bakalářské vzdělání, aktivní zájem o danou problematiku, doložení profesního CV, motivační dopis a úspěšné absolvování přijímacího pohovoru. Školné za magisterské studium se může lišit podle konkrétního programu a instituce, a může být například ve výši 280 000 Kč, jak je uvedeno v jednom z poskytnutých textů. Doporučuji se podrobně seznámit s podmínkami a nabídkou magisterských programů, abyste mohli provést informované rozhodnutí.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.824413657
+Maximální skóre podobnosti: 0.826522768
+Spotřeba tokenů: 919
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: chci pokračovat ve studiu
+Vygenerovaná odpověď modelem: Chcete-li pokračovat ve studiu, je důležité se řídit informacemi poskytnutými ve zdrojích, které jste uvedl. Pro doktorské studium je potřeba splnit určité požadavky, včetně zkoušek z jazyků a předložení disertačního záměru. Důležité je také dodržet termíny pro online zápis a potvrzení zájmu. V případě nejasností se můžete obrátit na uvedené kontakty.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.82751137
+Maximální skóre podobnosti: 0.831603408
+Spotřeba tokenů: 1137
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam datových programů
+Vygenerovaná odpověď modelem: Datové programy nabízené na Fakultě informatiky a statistiky jsou:
+
+1. Aplikovaná datová analytika a umělá inteligence
+2. Ekonometrie a operační výzkum
+3. Ekonomická demografie
+4. Statistika
+5. Znalostní a webové technologie
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.827389061
+Maximální skóre podobnosti: 0.832785904
+Spotřeba tokenů: 1007
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam bakalářských programů?
+Vygenerovaná odpověď modelem: Bakalářské programy z textů nejsou přímo uvedeny. Jediná zmínka o bakalářském vzdělání je ve spojitosti s podmínkami pro přijetí do MBA programu, který vyžaduje ukončené alespoň bakalářské vzdělání nebo jiný MBA program.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.849797845
+Maximální skóre podobnosti: 0.850334942
+Spotřeba tokenů: 417
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Máte nějaké MBA?
+Vygenerovaná odpověď modelem: Ano, mám informace o MBA programech, zejména o MBA programu zaměřeném na data analytics pro business management poskytovaném VŠE. Program vyžaduje alespoň bakalářské vzdělání nebo dokončený jiný MBA program, aktivní zájem o svět dat, doložení profesního životopisu a motivačního dopisu, osobní pohovor a úhradu školného ve výši 280 000 Kč při platbě celé částky předem. Program nabízí pravidelné networkingové akce, harmonogram studia a možnost účasti na různých událostech spojených se světem dat.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.838076949
+Maximální skóre podobnosti: 0.84638083
+Spotřeba tokenů: 876
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Chtěl bych jít na doktorské studium, co mi o tom můžeš povědět?
+Vygenerovaná odpověď modelem: Pro získání informací o přijímacím řízení na doktorské studium je důležité postupovat krok za krokem. Prvním krokem je výběr tématu disertační práce a školitele, který je klíčovým prvkem pro vstup na doktorské studium. Každý zájemce musí skládat přijímací zkoušku formou pohovoru v anglickém jazyce. Zahraniční zájemci o studium v českém jazyce mimo občany Slovenské republiky skládají zkoušku z českého jazyka v písemné i ústní formě. Součástí přijímacího pohovoru je rozbor disertačního záměru, kde uchazeč popisuje zaměření své výzkumné činnosti a disertační práce. Poté je nutné se dostavit k zápisu do studia, který probíhá online formou od 30. ledna do 14. února 2025. Pokud nezapsaní studenti mají možnost se zapsat osobně 17. února 2025. V případě nejasností a dotazů ohledně doktorského studia je možné se obrátit na kontakty uvedené na stránce.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.838955641
+Maximální skóre podobnosti: 0.83925
+Spotřeba tokenů: 1379
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Distanční studium
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí distanční programy magisterského studia, které zahrnují například Podnikovou informatiku. Distanční studium umožňuje studentům studovat z pohodlí jejich domova nebo jiného místa a často je flexibilnější ohledně časového plánu studia.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.826061606
+Maximální skóre podobnosti: 0.83770144
+Spotřeba tokenů: 989
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do bakalářského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do bakalářského programu je zákonnou podmínkou dosažení úplného středního nebo úplného středního odborného vzdělání. Fakulta informatiky a statistiky pro přijímání do všech studijních programů vychází z výsledků testu v rámci Národních srovnávacích z.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.861400723
+Maximální skóre podobnosti: 0.865872622
+Spotřeba tokenů: 1127
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do magisterského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do magisterského programu je nutné řádně ukončit studium alespoň v bakalářském studijním programu. Dále je potřeba úspěšně složit přijímací zkoušku z odborného předmětu. Je také uvedeno, že přijímací zkouška nemůže být prominuta pro absolventy určitých oborů a programů.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.874425709
+Maximální skóre podobnosti: 0.882258594
+Spotřeba tokenů: 1112
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak najdu informace k přijetí?
+Vygenerovaná odpověď modelem: Informace k přijetí do studia můžeš najít na oficiálních webových stránkách školy na adrese https://fis.vse.cz/magisterske-studium/prijimaci-rizeni/. Zde se dozvíš o termínech přijímacích zkoušek, možnostech dodatečného přijetí a dalších důležitých informacích týkajících se přijímacího řízení.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.81435442
+Maximální skóre podobnosti: 0.816097915
+Spotřeba tokenů: 753
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: jak se k vam dostat
+Vygenerovaná odpověď modelem: Pro získání informací o přijímacím řízení na bakalářské studium se můžete obrátit na zdroj https://fis.vse.cz/bakalarske-studium/prijimaci-rizeni/. Pro informace o přijímacím řízení na doktorské studium navštivte zdroj https://fis.vse.cz/doktorske-studium/prijimaci-rizeni/. Tam naleznete potřebné kontakty pro další informace.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.818367839
+Maximální skóre podobnosti: 0.822406173
+Spotřeba tokenů: 333
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Je možnost prominutí přijímací zkoušky na bakaláře?
+Vygenerovaná odpověď modelem: Podle poskytnutých textů je možné požádat o prominutí přijímací zkoušky na magisterské studium, ale není zmíněno možnost prominutí přijímací zkoušky na bakalářské studium.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.865042865
+Maximální skóre podobnosti: 0.885879934
+Spotřeba tokenů: 1047
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Je možnost prominutí přijímací zkoušky na magistra?
+Vygenerovaná odpověď modelem: Ano, je možné požádat o prominutí přijímací zkoušky na magisterské studium do 13. 6. 2025, pokud jsi studentkou jiné fakulty VŠE nebo jiné vysoké školy a jsi absolventkou bakalářského studia s vyznamenáním. Tato žádost bude posuzována individuálně a je třeba ji doručit e-mailem paní Hudcové.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.866507173
+Maximální skóre podobnosti: 0.894554436
+Spotřeba tokenů: 1144
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Do kdy mám podat přihlášku?
+Vygenerovaná odpověď modelem: Musíš podat přihlášku nejpozději do 30. dubna 2025.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.841830075
+Maximální skóre podobnosti: 0.854754746
+Spotřeba tokenů: 1084
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: přihláška na bc.
+Vygenerovaná odpověď modelem: Pro přihlášku na bakalářské studium je nutné podat pouze jednu přihlášku a zaplatit poplatek ve výši 960 Kč. Přihlášku můžeš podat skrz univerzitní informační systém na webu prihlasky.vse.cz a musíš vyplnit všechny požadované údaje včetně oboru střední školy. K přihlášce je také nutné přiložit všechny důležité dokumenty. Platba poplatku musí být připsána na účet VŠE nejpozději do 30. dubna 2025. Zařazení mezi přihlášené je podmíněno úhradou poplatku ve stanovené výši a kompletním vyplněním všech údajů v přihlášce.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.844970524
+Maximální skóre podobnosti: 0.854648113
+Spotřeba tokenů: 1294
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Kdy se koná přijímací zkouška?
+Vygenerovaná odpověď modelem: Přijímací zkouška se koná buď formou testu vyplňovaného na počítači nebo ústním pohovorem podle programu studia. Pro doktorské studium se koná zkouška z českého jazyka v písemné i ústní formě a přijímací pohovor zahrnuje rozbor Disertačního záměru. Pro magisterské studium se koná přijímací zkouška dle obsahu zveřejněného na webových stránkách FIS.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.858083427
+Maximální skóre podobnosti: 0.858375669
+Spotřeba tokenů: 1127
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: vzor testů
+Vygenerovaná odpověď modelem: Z textů nevyplývá přímo informace o vzoru testů, které jsou používány. Texty se spíše zaměřují na informace o termínech zkoušek, jejich délce, čase začátku a cenách a poplatcích za zkoušky. Pro získání konkrétního vzoru testů by bylo vhodné kontaktovat organizátory zkoušek nebo provést další průzkum na webových stránkách uvedených zdrojů.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.826418042
+Maximální skóre podobnosti: 0.82859987
+Spotřeba tokenů: 779
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Chci vědět víc o přijímacích zkouškách
+Vygenerovaná odpověď modelem: Přijímací zkoušky pro doktorské studium probíhají formou pohovoru v anglickém jazyce a každý zájemce o studium musí tuto zkoušku složit. Pro magisterské studium je uvedeno, že přijímací zkouška s výjimkou programu Kognitivní informatika má formu testu vyplňovaného na počítači. Pro program Kognitivní informatika probíhá přijímací zkouška formou ústního pohovoru, který má dvě základní části - odbornou a motivační. V odborné části jsou testovány znalosti z oblasti informatiky a v motivační části je zkoumána motivace ke studiu v daném programu.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.854103625
+Maximální skóre podobnosti: 0.856084049
+Spotřeba tokenů: 1245
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou prosím podmínky přijímacího řízení na obor UX výzkum a design?
+Vygenerovaná odpověď modelem: Podmínky přijímacího řízení na obor UX výzkum a design zahrnují znalost programování v R a úspěšné absolvování přijímací zkoušky formou pohovoru v anglickém jazyce.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.847292542
+Maximální skóre podobnosti: 0.875956655
+Spotřeba tokenů: 1110
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou podmínky pro zahraniční studenty?
+Vygenerovaná odpověď modelem: Podmínky pro zahraniční studenty zahrnují možnost žádat o dlouhodobé vízum nebo pobyt za účelem studia. K tomu je potřeba mít platný cestovní doklad, fotografii, doklad o přijetí na vysokou školu, doklad o ubytování, doklad o finančním zajištění, doklad obdobný výpisu z rejstříku trestů, zaplatit správní poplatek a mít komplexní zdravotní pojištění sjednané u VZP Pojišťovny. Všechny dokumenty musí být podány v českém jazyce nebo úředně přeloženy do češtiny.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.864862
+Maximální skóre podobnosti: 0.867065609
+Spotřeba tokenů: 1211
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Zkouška z češtiny pro cizince
+Vygenerovaná odpověď modelem: Pro cizince, kteří absolvovali své předchozí studium alespoň v bakalářském studijním programu v jiném než českém nebo slovenském jazyce a nejsou občany České republiky či Slovenska, je vyžadováno složení zkoušky z českého jazyka před samotnou přijímací zkouškou. Zkouška je organizována katedrou anglického jazyka a musí se na ni cizinci samostatně přihlásit. Úspěšné složení zkoušky znamená získání alespoň 60 bodů a ověřuje schopnost porozumět textu a mluvenému projevu v českém jazyce. Další podrobnosti o obsahu zkoušky a způsobu přihlášení jsou k dispozici na webu katedry anglického jazyka.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.864190221
+Maximální skóre podobnosti: 0.874941349
+Spotřeba tokenů: 1264
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak dostanu vizum?
+Vygenerovaná odpověď modelem: Pro získání víza za účelem studia nebo dlouhodobého pobytu za účelem studia musíš mít několik dokumentů připravených. Mezi tyto dokumenty patří platný cestovní doklad, fotografie, doklad o přijetí na vysokou školu, doklad o ubytování, doklad o finančním zajištění, obdobný výpis z rejstříku trestů, zaplacení správního poplatku a platné zdravotní pojištění. Všechny dokumenty musí být podány v českém jazyce, případně přeloženy úředně. Dále je důležité ověřit si konkrétní informace na webových stránkách příslušných úřadů.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.847095
+Maximální skóre podobnosti: 0.847623169
+Spotřeba tokenů: 1270
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: mohu u vas studovat, když nejsem čech
+Vygenerovaná odpověď modelem: Ano, můžeš studovat na Vysoké škole ekonomické v Praze i jako cizinec. Je důležité dodržet příslušné postupy ohledně nahlášení adresy pobytu a dalších administrativních úkonů, jak je uvedeno v poskytnutých textech. Pro více informací doporučuji navštívit oficiální webový portál pro cizince MVČR nebo se obrátit na příslušné úřady.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.841797888
+Maximální skóre podobnosti: 0.845107555
+Spotřeba tokenů: 659
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Můsí mít cizinec při přijetí potvrzení o znalosti českého jazyka?
+Vygenerovaná odpověď modelem: Ano, cizinec musí mít potvrzení o znalosti českého jazyka při přijetí, jak je uvedeno v textu: "Zahraniční zájemci o studium v českém jazyce mimo občanů Slovenské republiky v den zkoušky skládají zkoušku z českého jazyka v písemné i ústní formě."
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.867705107
+Maximální skóre podobnosti: 0.871782243
+Spotřeba tokenů: 1117
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Na jaké úrovni musí mít cizinec potvrzení o znalosti českého jazyka?
+Vygenerovaná odpověď modelem: Cizinec musí mít potvrzení o znalosti českého jazyka na úrovni umožňující skládání zkoušky z českého jazyka v písemné i ústní formě. Tato informace je uvedena v textu z odkazu https://fis.vse.cz/doktorske-studium/prijimaci-rizeni/.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.855522871
+Maximální skóre podobnosti: 0.870836914
+Spotřeba tokenů: 1104
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak mohu získat stipendium?
+Vygenerovaná odpověď modelem: Stipendium můžete získat na základě splnění podmínek uvedených v zákoně a potvrzením od orgánu státní sociální podpory, které prokáže, že příjem rodiny nepřevýšil stanovenou hranici. Stipendium může být uděleno i na podporu studia v zahraničí nebo na účast na mezinárodních akcích spojených se studiem. Pro konkrétní informace o stipendiu se můžete obrátit na příslušný orgán na vaší vysoké škole.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.860435069
+Maximální skóre podobnosti: 0.870025933
+Spotřeba tokenů: 1189
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: kolik stoji skolne, kdyz je mi nad 26 let
+Vygenerovaná odpověď modelem: Na základě poskytnutých textů nelze přesně určit, kolik stojí školné pro studenty starší 26 let. Texty obsahují informace o poplatcích spojených se studiem, ale neobsahují specifické informace o školném pro studenty starší 26 let. Doporučuji se obrátit přímo na příslušnou vysokou školu nebo instituci, která poskytuje konkrétní informace o školném pro studenty v daném věku.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.823384643
+Maximální skóre podobnosti: 0.831081092
+Spotřeba tokenů: 1237
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Manipulační poplatek za každou přihlášku
+Vygenerovaná odpověď modelem: Manipulační poplatek za každou přihlášku není povolen. Pokud banka strhne manipulační poplatek a částka na účtu je nižší než požadovaná, tak dotyčná osoba nemůže být zařazena mezi přihlášené.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.874048889
+Maximální skóre podobnosti: 0.89260906
+Spotřeba tokenů: 1146
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Kolik stojí MBA?
+Vygenerovaná odpověď modelem: MBA program stojí 280 000 Kč při platbě celé částky předem.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.838590443
+Maximální skóre podobnosti: 0.860808
+Spotřeba tokenů: 708
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: jak dosáhnout na ubytovací stipendium
+Vygenerovaná odpověď modelem: Pro získání ubytovacího stipendia je nutné splnit určité podmínky uvedené v příslušném Stipendijním řádu VŠE. Student musí být zapsán v prezenční formě studia, nesmí mít trvalý pobyt v okrese, kde studuje, a musí podat žádost elektronicky pouze jednou. Ubytovací stipendium je udělováno od prvního dne kalendářního měsíce, ve kterém student podá žádost, a to do konce kalendářního čtvrtletí. Pro další informace a konkrétní postup se můžete obrátit na paní Kristinu Kurišovou, která má na starosti ubytovací stipendia na VŠE.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.871612132
+Maximální skóre podobnosti: 0.880928159
+Spotřeba tokenů: 1224
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: cena za semestr
+Vygenerovaná odpověď modelem: Z textů vyplývá, že cena za semestr studia v bakalářském nebo magisterském programu v případě, že doba studia překročí standardní dobu, činí 2.500 EUR za každý další započatý semestr. Pro studenty zapsané ke studiu od akademického roku 2018/2019 a dříve ve studijním programu uskutečňovaném v cizím jazyce činí poplatek za započatý akademický rok studia ve standardní době 3.800 EUR v bakalářském nebo magisterském programu a 500 EUR v doktorském programu. Pro studenty zapsané ke studiu od akademického roku 2023/2024 a později ve studijním programu uskutečňovaném v cizím jazyce činí poplatek za započatý akademický rok studia ve standardní době 5.000 EUR v bakalářském nebo magisterském programu.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.824335396
+Maximální skóre podobnosti: 0.837528527
+Spotřeba tokenů: 1286
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: sociální stipendium
+Vygenerovaná odpověď modelem: Sociální stipendium je přiznáno rektorem studentovi, který splní podmínky uvedené v zákoně, ve výši stanovené v tomto ustanovení zákona. Student prokazuje nárok na stipendium písemným potvrzením vydaným orgánem státní sociální podpory, který přídavek udělil, a že příjem rodiny nepřevýšil stanovený limit. Potvrzení platí po určitou dobu a student může nárok uplatnit pouze jednou za dané časové období.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.880659401
+Maximální skóre podobnosti: 0.885437071
+Spotřeba tokenů: 1173
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: kolik je doktorské stipendium?
+Vygenerovaná odpověď modelem: Doktorské stipendium má dvě části: nárokovou pravidelnou měsíční částku vyplácenou po dobu celého akademického roku (12 měsíců) a nenárokovou částku přiznávanou za vynikající výsledky ve studiu a ve vědecké, výzkumné a pedagogické činnosti. Výše stipendia je stanovena děkanem pro daný akademický rok.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.885671258
+Maximální skóre podobnosti: 0.888571322
+Spotřeba tokenů: 1014
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízí FIS?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí několik magisterských programů, které se dělí na informatické a datové. Mezi datové programy patří Aplikovaná datová analytika a umělá inteligence, Ekonometrie a operační výzkum, Ekonomická demografie, Statistika, Znalostní a webové technologie. Mezi informatické programy patří Aplikovaná datová analytika a umělá inteligence, Business analýza IST, Business Intelligence IST, Informační management, Kognitivní informatika, Řízení podnikové informatiky IST, UX výzkum a design IST, Vývoj informačních systémů IST, Znalostní a webové technologie. Dále nabízí distanční program Podniková informatika a programy v angličtině.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.848008931
+Maximální skóre podobnosti: 0.882266402
+Spotřeba tokenů: 1001
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam datových programů
+Vygenerovaná odpověď modelem: Seznam datových programů nabízených Fakultou informatiky a statistiky zahrnuje: Aplikovaná datová analytika a umělá inteligence, Ekonometrie a operační výzkum, Ekonomická demografie, Statistika, Znalostní a webové technologie.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.826490164
+Maximální skóre podobnosti: 0.832458258
+Spotřeba tokenů: 1277
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: vzor testů
+Vygenerovaná odpověď modelem: Omlouvám se, ale poskytnuté texty se nezmiňují o vzoru testů.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.826418042
+Maximální skóre podobnosti: 0.82859987
+Spotřeba tokenů: 1054
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do bakalářského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do bakalářského programu je nutné dosáhnout úplného středního nebo úplného středního odborného vzdělání. Fakulta informatiky a statistiky také pro přijímání do všech studijních programů vychází z výsledků testu v rámci Národních srovnávacích z.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.859495699
+Maximální skóre podobnosti: 0.865353227
+Spotřeba tokenů: 1122
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Do kdy mám podat přihlášku?
+Vygenerovaná odpověď modelem: Do kdy máš podat přihlášku? | Odpověď: Přihlášku musíš podat nejpozději do 30. dubna 2025.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.841830075
+Maximální skóre podobnosti: 0.854754746
+Spotřeba tokenů: 1267
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: cena za semestr
+Vygenerovaná odpověď modelem: Omlouvám se, ale texty poskytnuté k tématu poplatků spojených se studiem na VŠE neobsahují přesné informace o ceně za semestr. Doporučuji se podívat na oficiální stránky VŠE nebo se obrátit přímo na studijní oddělení pro konkrétní informace o ceně za semestr.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.824335396
+Maximální skóre podobnosti: 0.837528527
+Spotřeba tokenů: 1360
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízíte a jaké jsou podmínky pro přijetí?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí programy datové, informatické a programy v angličtině. Podmínkou pro přijetí do magisterského studia je řádné ukončení studia alespoň v bakalářském studijním programu a úspěšné složení přijímací zkoušky z odborného předmětu. Další informace o programech a podmínkách naleznete na stránkách fakulty.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.863984346
+Maximální skóre podobnosti: 0.866799176
+Spotřeba tokenů: 1135
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Můsí mít cizinec při přijetí potvrzení o znalosti českého jazyka, pokud ano, na jaké úrovni?
+Vygenerovaná odpověď modelem: Ano, cizinec musí mít potvrzení o znalosti českého jazyka při přijetí na Vysokou školu ekonomickou v Praze. Podle poskytnutých textů je součástí přijímacího procesu zkouška z českého jazyka v písemné i ústní formě. Úroveň znalosti českého jazyka, kterou je potřeba pro studium, není v poskytnutých textech specifikována.
+Verze experimentu: 1f
+Minimální skóre podobnosti: 0.86527884
+Maximální skóre podobnosti: 0.881386638
+Spotřeba tokenů: 1153
+
+--------------------------------------------------
+
+
