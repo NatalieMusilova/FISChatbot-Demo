@@ -24,3 +24,6 @@ Data pro systém jsou získávána pomocí webového scrapingu. Proces zahrnuje:
 
 2. **Čištění dat**:  
    - Data jsou očištěna od HTML tagů a nežádoucích znaků, aby byla připravena pro další zpracování. Používají se metody Pythonu jako `strip()`, `replace()` nebo regulární výrazy.
+  
+   - ![image](https://github.com/user-attachments/assets/c69ce3b0-e5a4-42f5-857d-9ca3615b05b6)
+
