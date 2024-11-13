@@ -1,0 +1,1691 @@
+
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízíte?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí následující magisterské programy:
+
+1. Aplikovaná datová analytika a umělá inteligence
+2. Ekonometrie a operační výzkum
+3. Ekonomická demografie
+4. Statistika
+5. Znalostní a webové technologie
+6. Business analýza (IST)
+7. Business Intelligence (IST)
+8. Informační management
+9. Kognitivní informatika
+10. Řízení podnikové informatiky
+11. UX výzkum a design
+12. Vývoj informačních systémů
+13. Podniková informatika (pouze distanční forma)
+14. Management of Business Informatics (Information Systems Management)
+15. Data & Business (Information Systems Management)
+16. Master in Official Statistics (Economic Data Analysis)
+17. Data Analysis and Modelling (Economic Data Analysis)
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.861402512
+Maximální skóre podobnosti: 0.909397364
+Spotřeba tokenů: 1036
+Spotřeba tokenů - Vstupní (prompt): 805
+Spotřeba tokenů - Výstupní (completion): 231
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké bakalářské programy nabízíte?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky (FIS) nabízí následující bakalářské programy v prezenční formě v českém jazyce:
+- Aplikovaná informatika
+- Data Analytics
+- Informační média a služby
+- Matematické metody v ekonomii
+- Multimédia v ekonomické praxi
+
+A také bakalářský program Economic Data Science v anglickém jazyce.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.850653946
+Maximální skóre podobnosti: 0.877583385
+Spotřeba tokenů: 702
+Spotřeba tokenů - Vstupní (prompt): 583
+Spotřeba tokenů - Výstupní (completion): 119
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: co můžu u vás studovat
+Vygenerovaná odpověď modelem: Na Fakultě informatiky a statistiky (FIS) můžete studovat bakalářské, magisterské a doktorské programy v různých oborech informatiky, statistiky a ekonometrie. Nabízíme také MBA program zaměřený na propojení teoretických znalostí s praktickými dovednostmi v oblasti datové analytiky a informačních technologií. Studium může být v prezenční, distanční nebo kombinované formě a vyučovací jazyky jsou český a anglický. Pro zahraniční studenty platí stejné akademické požadavky jako pro domácí uchazeče a musí splnit požadavky přijímacího řízení včetně případných testů nebo pohovorů specifických pro daný program.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.844846249
+Maximální skóre podobnosti: 0.908067763
+Spotřeba tokenů: 1039
+Spotřeba tokenů - Vstupní (prompt): 796
+Spotřeba tokenů - Výstupní (completion): 243
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: z čeho si můžu vybrat k mgr studiu
+Vygenerovaná odpověď modelem: Pro magisterské studium na FIS si můžete vybrat z datových a informatických oborů. Tyto obory jsou dostupné ve formě prezenční i distanční a vyučují se v jazycích českém a anglickém.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.855402946
+Maximální skóre podobnosti: 0.869231701
+Spotřeba tokenů: 992
+Spotřeba tokenů - Vstupní (prompt): 919
+Spotřeba tokenů - Výstupní (completion): 73
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: chci pokračovat ve studiu
+Vygenerovaná odpověď modelem: Pokud chcete pokračovat ve studiu na Fakultě informatiky a statistiky, můžete zvážit bakalářský, magisterský nebo doktorský program nabízený na FIS. Pro každý typ programu jsou stanoveny specifické přijímací zkoušky, které je nutné úspěšně absolvovat. Pro bližší informace o jednotlivých programech a přijímacích řízeních se doporučuje kontaktovat příslušné pracovníky na fakultě.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.827134311
+Maximální skóre podobnosti: 0.86400342
+Spotřeba tokenů: 881
+Spotřeba tokenů - Vstupní (prompt): 725
+Spotřeba tokenů - Výstupní (completion): 156
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam datových programů
+Vygenerovaná odpověď modelem: - Aplikovaná datová analytika a umělá inteligence
+- Ekonometrie a operační výzkum
+- Statistika
+- Data & Business (Information Systems Management)
+- Master in Official Statistics (Economic Data Analysis)
+- Data Analysis and Modelling (Economic Data Analysis)
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.814422965
+Maximální skóre podobnosti: 0.878334045
+Spotřeba tokenů: 673
+Spotřeba tokenů - Vstupní (prompt): 602
+Spotřeba tokenů - Výstupní (completion): 71
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam bakalářských programů?
+Vygenerovaná odpověď modelem: Seznam bakalářských programů na Fakultě informatiky a statistiky (FIS) v prezenční formě zahrnuje:
+1. Aplikovaná informatika
+2. Data Analytics
+3. Informační média a služby
+4. Matematické metody v ekonomii
+5. Multimédia v ekonomické praxi
+6. Economic Data Science
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.863556504
+Maximální skóre podobnosti: 0.886645794
+Spotřeba tokenů: 676
+Spotřeba tokenů - Vstupní (prompt): 576
+Spotřeba tokenů - Výstupní (completion): 100
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Máte nějaké MBA?
+Vygenerovaná odpověď modelem: Ano, na Fakultě informatiky a statistiky (FIS) Vysoké školy ekonomické v Praze nabízíme dva MBA programy: Data & Analytics for Business Management a IT Management & Business Transformation.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.816313922
+Maximální skóre podobnosti: 0.843559563
+Spotřeba tokenů: 1069
+Spotřeba tokenů - Vstupní (prompt): 1012
+Spotřeba tokenů - Výstupní (completion): 57
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Chtěl bych jít na doktorské studium, co mi o tom můžeš povědět?
+Vygenerovaná odpověď modelem: Na Fakultě informatiky a statistiky (FIS) Vysoké školy ekonomické v Praze nabízíme doktorské programy zaměřené na výzkum v oblastech informatiky, statistiky a ekonometrie. Standardní délka studia je 4 roky, s možností prodloužení na maximálně 5 let. Doktorské studium může být absolvováno v prezenční, kombinované nebo distanční formě v jazycích českém nebo anglickém. Doktorandi obdrží základní měsíční částku nárokové složky stipendia ve výši 8 000 Kč, která se po úspěšném složení státní doktorské zkoušky zvyšuje o 1 000 Kč měsíčně. Kromě toho mohou doktorandi získat nenárokové stipendium na základě jejich aktivity na katedře a fakultě, například účastí v programu „Podpora disertačního výzkumu“, který nabízí navýšení stipendia až o 10 000 Kč měsíčně na dobu 6 měsíců, s možností opakování během celé standardní doby studia. Stipendium je osvobozeno od daně.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.84324795
+Maximální skóre podobnosti: 0.847130477
+Spotřeba tokenů: 1080
+Spotřeba tokenů - Vstupní (prompt): 701
+Spotřeba tokenů - Výstupní (completion): 379
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Distanční studium
+Vygenerovaná odpověď modelem: Na FIS je možné absolvovat distanční program Podniková informatika na magisterské úrovni. Tento program je poskytován v českém jazyce.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.834534287
+Maximální skóre podobnosti: 0.892273486
+Spotřeba tokenů: 474
+Spotřeba tokenů - Vstupní (prompt): 426
+Spotřeba tokenů - Výstupní (completion): 48
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do bakalářského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do bakalářského programu na Fakultě informatiky a statistiky (FIS) je nutné mít ukončené středoškolské vzdělání s maturitní zkouškou. Uchazeči dále skládají přijímací zkoušku formou testu Obecných studijních předpokladů (OSP) v rámci Národních srovnávacích zkoušek organizovaných společností Scio. V některých případech může být přijímací zkouška prominuta na základě vynikajících studijních výsledků ze střední školy nebo úspěchů v soutěžích.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.865229547
+Maximální skóre podobnosti: 0.908678472
+Spotřeba tokenů: 809
+Spotřeba tokenů - Vstupní (prompt): 598
+Spotřeba tokenů - Výstupní (completion): 211
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do magisterského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do magisterského programu na Fakultě informatiky a statistiky (FIS) je nutné řádně ukončit studium alespoň v bakalářském studijním programu. Dále je potřeba úspěšně složit přijímací zkoušku z odborného předmětu, pokud není splněno prominutí této zkoušky na základě předem daných podmínek.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.872677207
+Maximální skóre podobnosti: 0.91870296
+Spotřeba tokenů: 646
+Spotřeba tokenů - Vstupní (prompt): 516
+Spotřeba tokenů - Výstupní (completion): 130
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak najdu informace k přijetí?
+Vygenerovaná odpověď modelem: Pro získání informací k přijetí na Fakultu informatiky a statistiky můžete navštívit oficiální webové stránky fakulty https://fis.vse.cz. Zde naleznete podrobnosti o požadavcích na přijetí, termínech a podmínkách pro bakalářské i magisterské programy. Konkrétní informace o přijímacím řízení pro magisterské programy najdete zde: https://fis.vse.cz/magisterske-studium/prijimaci-rizeni/ a pro bakalářské programy zde: https://fis.vse.cz/bakalarske-studium/prijimaci-rizeni/
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.840303
+Maximální skóre podobnosti: 0.910427034
+Spotřeba tokenů: 815
+Spotřeba tokenů - Vstupní (prompt): 624
+Spotřeba tokenů - Výstupní (completion): 191
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: jak se k vam dostat
+Vygenerovaná odpověď modelem: Pro získání informací o přijímacím řízení, vízech ke studiu v České republice nebo ubytovacích stipendiích na Fakultě informatiky a statistiky (FIS) Vysoké školy ekonomické (VŠE) se doporučuje navštívit oficiální webové stránky FIS VŠE. Zde naleznete podrobné informace o jednotlivých procesech a kontaktní údaje pro případné dotazy. Dále můžete využít možnost konzultace s pracovníky studijního oddělení FIS VŠE, kteří vám rádi poskytnou potřebné informace a poradí vám s vašimi dotazy.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.83223778
+Maximální skóre podobnosti: 0.915510416
+Spotřeba tokenů: 918
+Spotřeba tokenů - Vstupní (prompt): 711
+Spotřeba tokenů - Výstupní (completion): 207
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Je možnost prominutí přijímací zkoušky na bakaláře?
+Vygenerovaná odpověď modelem: Ano, je možné požádat o prominutí přijímací zkoušky na bakalářské studium na Fakultě informatiky a statistiky (FIS) VŠE. Uchazeč o bakalářské studium může požádat o prominutí přijímací zkoušky, pokud do 30. 4. 2025 doloží požadovaný průměr známek písemnou žádostí nebo katalogovým listem.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.879580319
+Maximální skóre podobnosti: 0.934796214
+Spotřeba tokenů: 995
+Spotřeba tokenů - Vstupní (prompt): 858
+Spotřeba tokenů - Výstupní (completion): 137
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Je možnost prominutí přijímací zkoušky na magistra?
+Vygenerovaná odpověď modelem: Ano, je možné prominout přijímací zkoušku na magisterské studium na FIS VŠE za splnění určitých podmínek. Absolvent bakalářského studia na FIS VŠE může požádat o prominutí přijímací zkoušky do navazujícího magisterského studia, pokud splňuje určité podmínky, jako je úspěšné ukončení bakalářského studia ve stejné oblasti vzdělávání, nedostání dodatečných kreditových poukázek během bakalářského studia a dosažení průměrného prospěchu do 2,00 po skončení pátého semestru studia. Tato možnost je také otevřena absolventům bakalářského studia s vyznamenáním z jiných fakult VŠE nebo jiných vysokých škol, pokud podají žádost nejpozději do stanoveného termínu.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.892531633
+Maximální skóre podobnosti: 0.938339531
+Spotřeba tokenů: 1070
+Spotřeba tokenů - Vstupní (prompt): 777
+Spotřeba tokenů - Výstupní (completion): 293
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Do kdy mám podat přihlášku?
+Vygenerovaná odpověď modelem: Pro bakalářské a magisterské programy na Fakultě informatiky a statistiky je nutné podat přihlášku do 30. 4. 2025. Pro doktorské programy je termín podání přihlášky stanoven na 9. 12. 2024. Pro MBA programy přijímáme přihlášky pro akademický rok 2025. Tedy do kdy máte podat přihlášku závisí na konkrétním programu, na který se chcete přihlásit.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.833258748
+Maximální skóre podobnosti: 0.94370234
+Spotřeba tokenů: 571
+Spotřeba tokenů - Vstupní (prompt): 425
+Spotřeba tokenů - Výstupní (completion): 146
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: přihláška na bc.
+Vygenerovaná odpověď modelem: Pro podání přihlášky na bakalářský program na FIS je nutné využít univerzitní informační systém dostupný na webu https://prihlasky.vse.cz. V každém kole přijímacího řízení lze podat pouze jednu přihlášku, kde je možné uvést až tři studijní programy v pořadí podle preferencí uchazeče. Poplatek za podání přihlášky činí 960 Kč. Uchazeči mohou také požádat o prominutí přijímací zkoušky do 30. 4. 2025, pokud splní požadovaný průměr známek a podají písemnou žádost nebo katalogový list.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.874538898
+Maximální skóre podobnosti: 0.922305167
+Spotřeba tokenů: 711
+Spotřeba tokenů - Vstupní (prompt): 495
+Spotřeba tokenů - Výstupní (completion): 216
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Kdy se koná přijímací zkouška?
+Vygenerovaná odpověď modelem: Pro bakalářské programy se přijímací zkouška koná v následujících termínech: 7. 12. 2024, 13. 1. 2025, 1. 2. 2025, 1. 3. 2025, 29. 3. 2025, 26. 4. 2025 a 17. 5. 2025. Pro magisterské programy se přijímací zkouška koná 23. až 25. 6. 2025. Pro doktorské programy je termín přijímací zkoušky stanoven na 30. 1. 2025.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.848947108
+Maximální skóre podobnosti: 0.905897498
+Spotřeba tokenů: 789
+Spotřeba tokenů - Vstupní (prompt): 619
+Spotřeba tokenů - Výstupní (completion): 170
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: vzor testů
+Vygenerovaná odpověď modelem: Pro přípravu na přijímací řízení do bakalářských programů Fakulty informatiky a statistiky můžete využít vzorové testy Obecných studijních předpokladů (OSP), které poskytuje společnost Scio na svých webových stránkách. Pro magisterské programy vzorové testy nejsou k dispozici.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.819476426
+Maximální skóre podobnosti: 0.925816774
+Spotřeba tokenů: 1049
+Spotřeba tokenů - Vstupní (prompt): 937
+Spotřeba tokenů - Výstupní (completion): 112
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Chci vědět víc o přijímacích zkouškách
+Vygenerovaná odpověď modelem: Pro bakalářské programy na Fakultě informatiky a statistiky je přijímací zkouškou test Obecných studijních předpokladů (OSP) organizovaný společností Scio. Termíny pro tento test jsou stanoveny na 7. 12. 2024, 13. 1. 2025, 1. 2. 2025, 1. 3. 2025, 29. 3. 2025, 26. 4. 2025 a 17. 5. 2025. Pro magisterské programy je přijímací zkouška založena na testu odborných znalostí, který se koná 23. až 25. 6. 2025. Pro obor Kognitivní informatika je zkouška formou ústního pohovoru s motivační částí. Přijímací řízení do doktorských programů zahrnuje odbornou a jazykovou zkoušku, která se koná 30. 1. 2025. Uchazeči o bakalářské studium mohou požádat o prominutí přijímací zkoušky do 30. 4. 2025, pokud splní požadovaný průměr známek a podají písemnou žádost nebo katalogový list.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.842149556
+Maximální skóre podobnosti: 1.00147784
+Spotřeba tokenů: 968
+Spotřeba tokenů - Vstupní (prompt): 604
+Spotřeba tokenů - Výstupní (completion): 364
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou prosím podmínky přijímacího řízení na obor UX výzkum a design?
+Vygenerovaná odpověď modelem: Pro přijetí do magisterské specializace UX výzkum a design na FIS je nutné mít ukončené bakalářské vzdělání a úspěšně složit přijímací zkoušku z odborného předmětu, která zahrnuje okruhy: současné trendy UX designu softwaru, Design Thinking při tvorbě softwaru a uživatelský výzkum. Přijímací zkoušky se konají v různých termínech, a pro tento obor je uveden termín 23. až 25. 6. 2025.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.828102529
+Maximální skóre podobnosti: 0.950038
+Spotřeba tokenů: 817
+Spotřeba tokenů - Vstupní (prompt): 647
+Spotřeba tokenů - Výstupní (completion): 170
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou podmínky pro zahraniční studenty?
+Vygenerovaná odpověď modelem: Pro zahraniční studenty, kteří se chtějí hlásit na FIS, platí následující podmínky:
+
+1. Zahraniční studenti musí splňovat stejné akademické požadavky jako domácí uchazeči.
+2. Přijímací řízení zahrnuje testy nebo pohovory podle konkrétního programu.
+3. Uchazeči o studium v anglickém jazyce musí doložit dostatečnou znalost angličtiny a uhradit školné za studium v anglickém jazyce.
+4. Uchazeči o studium v češtině, kteří nejsou rodilými mluvčími nebo nemají předchozí vzdělání v českém či slovenském jazyce, musí prokázat dostatečnou znalost češtiny.
+5. Uchazeči o studium ve studijním programu v českém jazyce musí zaplatit poplatek 960 Kč za posouzení zahraničního středoškolského nebo vysokoškolského vzdělání.
+6. Zahraniční uchazeči o bakalářské studium v českém jazyce musí doložit znalost češtiny na úrovni minimálně B2 podle CEFR.
+7. Uchazeči o magisterské studium, kteří nejsou občany České republiky nebo Slovenska a neabsolvovali předchozí studium v českém či slovenském jazyce, musí úspěšně složit zkoušku z českého jazyka organizovanou Katedrou anglického jazyka VŠE a dosáhnout alespoň 60 % bodů.
+8. Pro získání víza ke studiu v České republice je nutné být přijat ke studiu a následně co nejdříve zahájit proces žádosti o vízum, které může trvat až 60 dnů.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.84553
+Maximální skóre podobnosti: 0.909090221
+Spotřeba tokenů: 1416
+Spotřeba tokenů - Vstupní (prompt): 848
+Spotřeba tokenů - Výstupní (completion): 568
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Zkouška z češtiny pro cizince
+Vygenerovaná odpověď modelem: Zahraniční uchazeči o magisterské studium na FIS, kteří nejsou občany České republiky nebo Slovenska a neabsolvovali předchozí studium v českém či slovenském jazyce, musí úspěšně složit zkoušku z českého jazyka organizovanou Katedrou anglického jazyka VŠE. Tato zkouška je zpoplatněna a pro úspěšné složení je nutné dosáhnout alespoň 60 % bodů.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.857963681
+Maximální skóre podobnosti: 0.93360877
+Spotřeba tokenů: 1002
+Spotřeba tokenů - Vstupní (prompt): 848
+Spotřeba tokenů - Výstupní (completion): 154
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak dostanu vizum?
+Vygenerovaná odpověď modelem: Pro získání víza ke studiu v České republice je nutné být přijat ke studiu na Fakultě informatiky a statistiky a následně co nejdříve zahájit proces žádosti o vízum. Doba vyřízení víza může trvat až 60 dnů od podání žádosti. Je důležité mít připraveny všechny potřebné dokumenty a včas si sjednat termín na zastupitelském úřadě České republiky. Můžete žádat buď o dlouhodobé vízum za účelem studia, nebo o povolení k dlouhodobému pobytu za účelem studia.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.814362109
+Maximální skóre podobnosti: 0.93910718
+Spotřeba tokenů: 955
+Spotřeba tokenů - Vstupní (prompt): 756
+Spotřeba tokenů - Výstupní (completion): 199
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: mohu u vas studovat, když nejsem čech
+Vygenerovaná odpověď modelem: Ano, jako zahraniční student můžete studovat na Fakultě informatiky a statistiky (FIS) Vysoké školy ekonomické v Praze (VŠE). Přijímací řízení zahrnuje testy nebo pohovory podle konkrétního programu. Uchazeči o studium v anglickém jazyce musí doložit dostatečnou znalost angličtiny a uhradit školné za studium v anglickém jazyce. Uchazeči o studium v češtině, kteří nejsou rodilými mluvčími nebo nemají předchozí vzdělání v českém či slovenském jazyce, musí prokázat dostatečnou znalost češtiny. Pro bakalářské studium je potřeba znalost češtiny na úrovni minimálně B2 podle Společného evropského referenčního rámce pro jazyky (CEFR). Pro magisterské studium je nutné úspěšně složit zkoušku z českého jazyka organizovanou Katedrou anglického jazyka VŠE. Jazyky vyučování na FIS jsou český a anglický.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.846732855
+Maximální skóre podobnosti: 0.893504858
+Spotřeba tokenů: 1214
+Spotřeba tokenů - Vstupní (prompt): 868
+Spotřeba tokenů - Výstupní (completion): 346
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Můsí mít cizinec při přijetí potvrzení o znalosti českého jazyka?
+Vygenerovaná odpověď modelem: Ano, cizinec musí mít potvrzení o znalosti českého jazyka při přijetí na FIS. Pro bakalářské studium je vyžadována znalost češtiny na úrovni minimálně B2 podle Společného evropského referenčního rámce pro jazyky (CEFR), kterou lze prokázat certifikátem nebo jiným relevantním dokladem. Pro magisterské studium cizinci musí úspěšně složit zkoušku z českého jazyka organizovanou Katedrou anglického jazyka VŠE, pokud nejsou občany České republiky nebo Slovenska a nemají předchozí studium v českém či slovenském jazyce.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.847631276
+Maximální skóre podobnosti: 0.906833768
+Spotřeba tokenů: 1081
+Spotřeba tokenů - Vstupní (prompt): 863
+Spotřeba tokenů - Výstupní (completion): 218
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Na jaké úrovni musí mít cizinec potvrzení o znalosti českého jazyka?
+Vygenerovaná odpověď modelem: Cizinec musí mít potvrzení o znalosti českého jazyka minimálně na úrovni B2 podle Společného evropského referenčního rámce pro jazyky (CEFR) pro bakalářské studium na FIS. Pro magisterské studium je vyžadováno úspěšné složení zkoušky z českého jazyka organizované Katedrou anglického jazyka VŠE, kde je nutné dosáhnout alespoň 60 % bodů.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.835663259
+Maximální skóre podobnosti: 0.912264585
+Spotřeba tokenů: 1006
+Spotřeba tokenů - Vstupní (prompt): 861
+Spotřeba tokenů - Výstupní (completion): 145
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak mohu získat stipendium?
+Vygenerovaná odpověď modelem: Na Fakultě informatiky a statistiky existuje několik typů stipendií, které mohou studenti získat na základě svých studijních výsledků, finanční situace nebo konkrétních žádostí. Prospěchové stipendium je určeno studentům s vynikajícími studijními výsledky, sociální stipendium je poskytováno studentům v obtížné finanční situaci a mimořádné stipendium může být uděleno na základě konkrétních kritérií, jako jsou výjimečné studijní nebo vědecké výsledky. Zvláštní stipendia jsou také dostupná pro studenty, kteří se účastní zahraničních studijních pobytů. Podmínky a postup pro žádost o jednotlivá stipendia jsou uvedeny ve Stipendijním řádu VŠE, který je dostupný na adrese https://www.vse.cz/predpisy/stipendijni-rad-vse/. Pro získání sociálního stipendia je nutné splnit podmínky stanovené zákonem o vysokých školách a podat žádost přes informační systém InSIS do konce října.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.887831807
+Maximální skóre podobnosti: 0.921237
+Spotřeba tokenů: 1390
+Spotřeba tokenů - Vstupní (prompt): 1019
+Spotřeba tokenů - Výstupní (completion): 371
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: kolik stoji skolne, kdyz je mi nad 26 let
+Vygenerovaná odpověď modelem: Pokud je Vám nad 26 let a studujete na Fakultě informatiky a statistiky v českém jazyce a nepřekročíte standardní dobu studia zvětšenou o jeden rok, studium je pro Vás bezplatné. Pokud však překročíte tuto standardní dobu studia, bude Vám účtován poplatek ve výši 27 000 Kč za každých započatých 6 měsíců studia.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.816681147
+Maximální skóre podobnosti: 0.940693
+Spotřeba tokenů: 934
+Spotřeba tokenů - Vstupní (prompt): 803
+Spotřeba tokenů - Výstupní (completion): 131
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Manipulační poplatek za každou přihlášku
+Vygenerovaná odpověď modelem: Manipulační poplatek za každou přihlášku na Fakultu informatiky a statistiky činí 960 Kč.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.832937956
+Maximální skóre podobnosti: 0.952225566
+Spotřeba tokenů: 407
+Spotřeba tokenů - Vstupní (prompt): 369
+Spotřeba tokenů - Výstupní (completion): 38
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Kolik stojí MBA?
+Vygenerovaná odpověď modelem: MBA program "Data & Analytics for Business Management" stojí 280 000 Kč při platbě celé částky předem. MBA program "IT Management & Business Transformation" stojí 15 000 EUR.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.839552701
+Maximální skóre podobnosti: 0.871622145
+Spotřeba tokenů: 605
+Spotřeba tokenů - Vstupní (prompt): 553
+Spotřeba tokenů - Výstupní (completion): 52
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: jak dosáhnout na ubytovací stipendium
+Vygenerovaná odpověď modelem: Pro získání ubytovacího stipendia na Vysoké škole ekonomické je nutné splnit několik podmínek uvedených ve Stipendijním řádu VŠE. Student musí být studujícím programu v prezenční formě studia, nesmí pobírat ubytovací stipendium na jiné vysoké škole, a musí studovat ve standardní době studia. Dále je třeba mít trvalý pobyt mimo místo Prahu. Žádost se podává elektronicky prostřednictvím integrovaného studijního informačního systému (InSIS) pouze jednou, když student žádá o přiznání stipendia poprvé. Pro další informace kontaktujte paní Kristinu Kurišovou, která má na starosti ubytovací stipendia na VŠE.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.874220729
+Maximální skóre podobnosti: 0.982631087
+Spotřeba tokenů: 1224
+Spotřeba tokenů - Vstupní (prompt): 976
+Spotřeba tokenů - Výstupní (completion): 248
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: cena za semestr
+Vygenerovaná odpověď modelem: Cena za semestr studia na Fakultě informatiky a statistiky se liší podle typu studijního programu a jazyka výuky. Pro studium v českém jazyce je školné zdarma, pokud student nepřekročí standardní dobu studia zvětšenou o jeden rok. Po překročení této doby se platí poplatek 27 000 Kč za každých započatých 6 měsíců studia. Pro studium v anglickém jazyce je cena za semestr 2 500 EUR. Pro MBA programy je celkové školné za celé studium 280 000 Kč pro program MBA Data & Analytics for Business Management při platbě celé částky předem, a 15 000 EUR pro program MBA IT Management & Business Transformation.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.799775183
+Maximální skóre podobnosti: 0.947230101
+Spotřeba tokenů: 1069
+Spotřeba tokenů - Vstupní (prompt): 862
+Spotřeba tokenů - Výstupní (completion): 207
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: sociální stipendium
+Vygenerovaná odpověď modelem: Pro získání sociálního stipendia na Vysoké škole ekonomické v Praze musí student splnit podmínky podle § 91 odst. 3 zákona o vysokých školách. Stipendium je vypláceno od prvního dne kalendářního měsíce, kdy student podá žádost, a je přiznáno na celý akademický rok s výjimkou měsíců srpen a září. Žádost je nutné podat do konce října přes informační systém InSIS. Výplata stipendia probíhá bankovním převodem se zpožděním tří měsíců. Přerušení studia může ovlivnit nárok na stipendium.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.872421265
+Maximální skóre podobnosti: 0.964716434
+Spotřeba tokenů: 1188
+Spotřeba tokenů - Vstupní (prompt): 968
+Spotřeba tokenů - Výstupní (completion): 220
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: kolik je doktorské stipendium?
+Vygenerovaná odpověď modelem: Základní měsíční částka nárokové složky doktorského stipendia na Fakultě informatiky a statistiky (FIS) Vysoké školy ekonomické v Praze činí 8 000 Kč. Po úspěšném složení státní doktorské zkoušky se tato částka zvyšuje o 1 000 Kč měsíčně.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.863622308
+Maximální skóre podobnosti: 1.00119364
+Spotřeba tokenů: 966
+Spotřeba tokenů - Vstupní (prompt): 849
+Spotřeba tokenů - Výstupní (completion): 117
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízí FIS?
+Vygenerovaná odpověď modelem: FIS nabízí následující magisterské programy:
+
+1. Aplikovaná datová analytika a umělá inteligence
+2. Ekonometrie a operační výzkum
+3. Ekonomická demografie
+4. Statistika
+5. Znalostní a webové technologie
+6. Business analýza (IST)
+7. Business Intelligence (IST)
+8. Informační management
+9. Kognitivní informatika
+10. Řízení podnikové informatiky
+11. UX výzkum a design
+12. Vývoj informačních systémů
+13. Podniková informatika (pouze distanční forma)
+14. Management of Business Informatics (Information Systems Management)
+15. Data & Business (Information Systems Management)
+16. Master in Official Statistics (Economic Data Analysis)
+17. Data Analysis and Modelling (Economic Data Analysis)
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.853138626
+Maximální skóre podobnosti: 0.899679661
+Spotřeba tokenů: 1029
+Spotřeba tokenů - Vstupní (prompt): 806
+Spotřeba tokenů - Výstupní (completion): 223
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam datových programů
+Vygenerovaná odpověď modelem: Seznam datových programů na Fakultě informatiky a statistiky (FIS) zahrnuje:
+
+1. Aplikovaná datová analytika a umělá inteligence
+2. Ekonometrie a operační výzkum
+3. Ekonomická demografie
+4. Statistika
+5. Znalostní a webové technologie
+6. Data & Business (Information Systems Management)
+7. Master in Official Statistics (Economic Data Analysis)
+8. Data Analysis and Modelling (Economic Data Analysis)
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.812816143
+Maximální skóre podobnosti: 0.876783073
+Spotřeba tokenů: 992
+Spotřeba tokenů - Vstupní (prompt): 863
+Spotřeba tokenů - Výstupní (completion): 129
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: vzor testů
+Vygenerovaná odpověď modelem: Omlouvám se, ale na Fakultě informatiky a statistiky (FIS) nejsou k dispozici žádné vzorové testy pro magisterské programy. Pro přípravu na přijímací řízení do bakalářských programů můžete využít vzorové testy Obecných studijních předpokladů (OSP), které poskytuje společnost Scio na svých webových stránkách.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.819476426
+Maximální skóre podobnosti: 0.925816774
+Spotřeba tokenů: 1485
+Spotřeba tokenů - Vstupní (prompt): 1356
+Spotřeba tokenů - Výstupní (completion): 129
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do bakalářského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do bakalářského programu na FIS je nutné mít ukončené středoškolské vzdělání s maturitní zkouškou. Uchazeči dále skládají přijímací zkoušku formou testu Obecných studijních předpokladů (OSP) v rámci Národních srovnávacích zkoušek organizovaných společností Scio. V některých případech může být přijímací zkouška prominuta na základě vynikajících studijních výsledků ze střední školy nebo úspěchů v soutěžích.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.865229547
+Maximální skóre podobnosti: 0.908678472
+Spotřeba tokenů: 796
+Spotřeba tokenů - Vstupní (prompt): 598
+Spotřeba tokenů - Výstupní (completion): 198
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Do kdy mám podat přihlášku?
+Vygenerovaná odpověď modelem: Pro bakalářské a magisterské programy na Fakultě informatiky a statistiky je nutné podat přihlášku do 30. 4. 2025. Pro doktorské programy je termín podání přihlášky stanoven na 9. 12. 2024. Pro MBA programy přijímáme přihlášky pro akademický rok 2025. Manipulační poplatek za podání přihlášky na FIS činí 960 Kč.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.833258748
+Maximální skóre podobnosti: 0.94370234
+Spotřeba tokenů: 803
+Spotřeba tokenů - Vstupní (prompt): 671
+Spotřeba tokenů - Výstupní (completion): 132
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: cena za semestr
+Vygenerovaná odpověď modelem: Cena za jeden semestr studia na Fakultě informatiky a statistiky se liší podle typu programu a jazyka výuky. Pokud student studuje v českém jazyce a nepřekročí standardní dobu studia zvětšenou o jeden rok, studium je bezplatné. V případě překročení této doby se platí poplatek 27 000 Kč za každých započatých 6 měsíců studia. Pro studenty studující v anglickém jazyce je školné ve výši 2 500 EUR za semestr. Pro MBA programy konkrétně platí, že školné za celé studium v programu MBA Data & Analytics for Business Management činí 280 000 Kč při platbě celé částky předem a v programu MBA IT Management & Business Transformation je školné 15 000 EUR.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.799775183
+Maximální skóre podobnosti: 0.947230101
+Spotřeba tokenů: 1510
+Spotřeba tokenů - Vstupní (prompt): 1277
+Spotřeba tokenů - Výstupní (completion): 233
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízíte a jaké jsou podmínky pro přijetí?
+Vygenerovaná odpověď modelem: Na Fakultě informatiky a statistiky (FIS) nabízíme následující magisterské programy:
+
+1. Aplikovaná datová analytika a umělá inteligence
+2. Ekonometrie a operační výzkum
+3. Ekonomická demografie
+4. Statistika
+5. Znalostní a webové technologie
+6. Data & Business (Information Systems Management)
+7. Master in Official Statistics (Economic Data Analysis)
+8. Data Analysis and Modelling (Economic Data Analysis)
+
+Pro přijetí do magisterského programu je nutné mít ukončené bakalářské studium a úspěšně složit přijímací zkoušku z odborného předmětu, pokud není splněno prominutí této zkoušky na základě předem daných podmínek. Jazyky vyučování jsou český a anglický a programy mohou být v prezenční nebo distanční formě.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.860317707
+Maximální skóre podobnosti: 0.883123
+Spotřeba tokenů: 858
+Spotřeba tokenů - Vstupní (prompt): 591
+Spotřeba tokenů - Výstupní (completion): 267
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Můsí mít cizinec při přijetí potvrzení o znalosti českého jazyka, pokud ano, na jaké úrovni?
+Vygenerovaná odpověď modelem: Ano, cizinec musí při přijetí doložit znalost českého jazyka na minimální úrovni B2 podle Společného evropského referenčního rámce pro jazyky (CEFR). Tuto znalost lze prokázat certifikátem nebo jiným relevantním dokladem.
+Verze experimentu: 2a
+Minimální skóre podobnosti: 0.848360419
+Maximální skóre podobnosti: 0.914571166
+Spotřeba tokenů: 968
+Spotřeba tokenů - Vstupní (prompt): 874
+Spotřeba tokenů - Výstupní (completion): 94
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízíte?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí následující magisterské programy:
+
+1. Aplikovaná datová analytika a umělá inteligence
+2. Ekonometrie a operační výzkum
+3. Ekonomická demografie
+4. Statistika
+5. Znalostní a webové technologie
+6. Data & Business (Information Systems Management)
+7. Master in Official Statistics (Economic Data Analysis)
+8. Data Analysis and Modelling (Economic Data Analysis)
+9. Business analýza (IST)
+10. Business Intelligence (IST)
+11. Informační management
+12. Kognitivní informatika
+13. Řízení podnikové informatiky
+14. UX výzkum a design
+15. Vývoj informačních systémů
+16. Podniková informatika (pouze distanční forma)
+17. Management of Business Informatics (Information Systems Management)
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.884523749
+Maximální skóre podobnosti: 0.913817942
+Spotřeba tokenů: 800
+Spotřeba tokenů - Vstupní (prompt): 569
+Spotřeba tokenů - Výstupní (completion): 231
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké bakalářské programy nabízíte?
+Vygenerovaná odpověď modelem: Nabízíme následující bakalářské programy v prezenční formě:
+- Aplikovaná informatika
+- Data Analytics
+- Informační média a služby
+- Matematické metody v ekonomii
+- Multimédia v ekonomické praxi
+- Economic Data Science
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.865989327
+Maximální skóre podobnosti: 0.877395689
+Spotřeba tokenů: 458
+Spotřeba tokenů - Vstupní (prompt): 375
+Spotřeba tokenů - Výstupní (completion): 83
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: co můžu u vás studovat
+Vygenerovaná odpověď modelem: Na Fakultě informatiky a statistiky (FIS) můžete studovat bakalářské, magisterské, doktorské a MBA programy. 
+
+- Bakalářské programy nabízejí různé obory v prezenční formě v českém nebo anglickém jazyce.
+- Magisterské programy se zaměřují na datové a informatické obory a mohou být v prezenční nebo distanční formě v českém nebo anglickém jazyce.
+- Doktorské programy jsou zaměřené na výzkum v oblastech informatiky, statistiky a ekonometrie a jsou v prezenční nebo kombinované formě v českém nebo anglickém jazyce.
+- MBA program je zaměřený na propojení teoretických znalostí s praktickými dovednostmi v oblasti datové analytiky a informačních technologií a je v prezenční formě v českém a anglickém jazyce.
+
+Pro zahraniční studenty platí stejné akademické požadavky jako pro domácí studenty. Přijímací řízení zahrnuje testy nebo pohovory podle konkrétního programu a zahraniční uchazeči musí prokázat dostatečnou znalost angličtiny nebo češtiny podle jazyka výuky.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.851958215
+Maximální skóre podobnosti: 0.910643697
+Spotřeba tokenů: 980
+Spotřeba tokenů - Vstupní (prompt): 597
+Spotřeba tokenů - Výstupní (completion): 383
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: z čeho si můžu vybrat k mgr studiu
+Vygenerovaná odpověď modelem: Pro magisterské studium na FIS si můžete vybrat z datových a informatických oborů. Studium může být realizováno ve formě prezenční nebo distanční a vyučovací jazyky jsou český a anglický.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.857325077
+Maximální skóre podobnosti: 0.867153108
+Spotřeba tokenů: 856
+Spotřeba tokenů - Vstupní (prompt): 781
+Spotřeba tokenů - Výstupní (completion): 75
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: chci pokračovat ve studiu
+Vygenerovaná odpověď modelem: Pro pokračování ve studiu na Fakultě informatiky a statistiky (FIS) je nutné projít přijímacím řízením odpovídajícím zvolenému programu. Pro bakalářské programy je třeba skládat test Obecných studijních předpokladů (OSP) organizovaný společností Scio. Pro magisterské programy je přijímací zkouška založena na testu odborných znalostí. Pro obor Kognitivní informatika je součástí zkoušky i ústní pohovor s motivační částí. Pro doktorské programy je zapotřebí projít odbornou a jazykovou zkouškou. Pro bližší informace a podrobnosti o přijímacím řízení se doporučuje kontaktovat příslušné pracovníky fakulty.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.83000195
+Maximální skóre podobnosti: 0.862456739
+Spotřeba tokenů: 758
+Spotřeba tokenů - Vstupní (prompt): 517
+Spotřeba tokenů - Výstupní (completion): 241
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam datových programů
+Vygenerovaná odpověď modelem: - Aplikovaná datová analytika a umělá inteligence
+- Ekonometrie a operační výzkum
+- Statistika
+- Znalostní a webové technologie
+- Data & Business (Information Systems Management)
+- Master in Official Statistics (Economic Data Analysis)
+- Data Analysis and Modelling (Economic Data Analysis)
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.873713553
+Maximální skóre podobnosti: 0.876783073
+Spotřeba tokenů: 536
+Spotřeba tokenů - Vstupní (prompt): 453
+Spotřeba tokenů - Výstupní (completion): 83
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam bakalářských programů?
+Vygenerovaná odpověď modelem: Seznam bakalářských programů na Fakultě informatiky a statistiky (FIS) v prezenční formě zahrnuje následující programy:
+- Aplikovaná informatika
+- Data Analytics
+- Informační média a služby
+- Matematické metody v ekonomii
+- Multimédia v ekonomické praxi
+- Economic Data Science
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.869967282
+Maximální skóre podobnosti: 0.887181401
+Spotřeba tokenů: 515
+Spotřeba tokenů - Vstupní (prompt): 413
+Spotřeba tokenů - Výstupní (completion): 102
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Máte nějaké MBA?
+Vygenerovaná odpověď modelem: Ano, na Fakultě informatiky a statistiky Vysoké školy ekonomické nabízíme dva MBA programy. Jedním z nich je program "Data & Analytics for Business Management", zaměřený na datovou analytiku a aplikaci v podnikání. Druhým programem je "IT Management & Business Transformation", který je orientován na řízení IT a transformaci podnikových procesů. Každý z těchto programů má své specifické zaměření, délku trvání a cenu.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.818757176
+Maximální skóre podobnosti: 0.844598114
+Spotřeba tokenů: 839
+Spotřeba tokenů - Vstupní (prompt): 696
+Spotřeba tokenů - Výstupní (completion): 143
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Chtěl bych jít na doktorské studium, co mi o tom můžeš povědět?
+Vygenerovaná odpověď modelem: Na Fakultě informatiky a statistiky (FIS) Vysoké školy ekonomické v Praze můžeš absolvovat doktorské studium zaměřené na výzkum v oblastech informatiky, statistiky a ekonometrie. Doktorské studium může být v prezenční nebo kombinované formě a probíhá v českém a anglickém jazyce. Základní měsíční částka nárokové složky doktorského stipendia činí 8 000 Kč a po úspěšném složení státní doktorské zkoušky se zvyšuje o 1 000 Kč měsíčně. Stipendium je vypláceno po dobu standardní doby studia, maximálně po dobu 4 let, a je osvobozeno od daně. Kromě nárokové složky můžeš získat i nenárokové stipendium na základě své aktivity na katedře a fakultě, například účastí v programu „Podpora disertačního výzkumu“, který nabízí navýšení stipendia až o 10 000 Kč měsíčně na dobu 6 měsíců, s možností opakování během celé standardní doby studia.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.84483552
+Maximální skóre podobnosti: 0.848718286
+Spotřeba tokenů: 992
+Spotřeba tokenů - Vstupní (prompt): 624
+Spotřeba tokenů - Výstupní (completion): 368
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Distanční studium
+Vygenerovaná odpověď modelem: Na FIS je dostupný distanční program Podniková informatika na magisterské úrovni.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.837026954
+Maximální skóre podobnosti: 0.892273486
+Spotřeba tokenů: 218
+Spotřeba tokenů - Vstupní (prompt): 190
+Spotřeba tokenů - Výstupní (completion): 28
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do bakalářského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do bakalářského programu na Fakultě informatiky a statistiky je nutné mít ukončené středoškolské vzdělání s maturitní zkouškou. Uchazeči dále skládají přijímací zkoušku formou testu Obecných studijních předpokladů (OSP) v rámci Národních srovnávacích zkoušek organizovaných společností Scio. V některých případech může být přijímací zkouška prominuta na základě vynikajících studijních výsledků ze střední školy nebo úspěchů v soutěžích.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.870580435
+Maximální skóre podobnosti: 0.908678472
+Spotřeba tokenů: 618
+Spotřeba tokenů - Vstupní (prompt): 411
+Spotřeba tokenů - Výstupní (completion): 207
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do magisterského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do magisterského programu na Fakultě informatiky a statistiky (FIS) je nutné řádně ukončit studium alespoň v bakalářském studijním programu. Dále je potřeba úspěšně složit přijímací zkoušku z odborného předmětu, pokud není splněno prominutí této zkoušky na základě předem daných podmínek.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.88455528
+Maximální skóre podobnosti: 0.91870296
+Spotřeba tokenů: 508
+Spotřeba tokenů - Vstupní (prompt): 378
+Spotřeba tokenů - Výstupní (completion): 130
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak najdu informace k přijetí?
+Vygenerovaná odpověď modelem: Pro získání informací k přijetí na Fakultu informatiky a statistiky (FIS) lze navštívit oficiální webové stránky fakulty https://fis.vse.cz. Zde jsou uvedeny podrobnosti o požadavcích na přijetí, termínech a podmínkách pro bakalářské i magisterské programy. Konkrétní informace o přijímacím řízení pro magisterské programy najdete zde: https://fis.vse.cz/magisterske-studium/prijimaci-rizeni/ a pro bakalářské programy zde: https://fis.vse.cz/bakalarske-studium/prijimaci-rizeni/
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.844076395
+Maximální skóre podobnosti: 0.910427034
+Spotřeba tokenů: 619
+Spotřeba tokenů - Vstupní (prompt): 425
+Spotřeba tokenů - Výstupní (completion): 194
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: jak se k vam dostat
+Vygenerovaná odpověď modelem: Pro získání informací o přijímacím řízení na Fakultu informatiky a statistiky je nejlepší navštívit oficiální webové stránky fakulty. Zde naleznete podrobné informace o požadavcích pro bakalářské a magisterské studium, včetně informací o přijímacích zkouškách a termínech. Dále můžete kontaktovat studijní oddělení fakulty prostřednictvím uvedených kontaktních údajů, kde vám rádi poskytnou další informace a odpoví na vaše dotazy týkající se studia na Fakultě informatiky a statistiky.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.833887815
+Maximální skóre podobnosti: 0.915510416
+Spotřeba tokenů: 673
+Spotřeba tokenů - Vstupní (prompt): 472
+Spotřeba tokenů - Výstupní (completion): 201
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Je možnost prominutí přijímací zkoušky na bakaláře?
+Vygenerovaná odpověď modelem: Ano, je možné požádat o prominutí přijímací zkoušky na bakalářské studium na FIS VŠE, pokud uchazeč do 30. dubna 2025 doloží požadovaný průměr známek písemnou žádostí nebo katalogovým listem.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.90795517
+Maximální skóre podobnosti: 0.934796214
+Spotřeba tokenů: 757
+Spotřeba tokenů - Vstupní (prompt): 664
+Spotřeba tokenů - Výstupní (completion): 93
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Je možnost prominutí přijímací zkoušky na magistra?
+Vygenerovaná odpověď modelem: Ano, je možné požádat o prominutí přijímací zkoušky na magisterské studium na FIS VŠE za splnění určitých podmínek. Absolvent bakalářského studia na FIS VŠE může být prominut přijímací zkoušky do navazujícího magisterského studia, pokud splňuje stanovené podmínky týkající se úspěšného ukončení bakalářského studia ve stejné oblasti vzdělávání, absolvování studia bez dodatečných kreditových poukázek a dosažení průměrného prospěchu do 2,00 po skončení pátého semestru bakalářského programu. Absolventi bakalářského studia s vyznamenáním z jiných fakult VŠE nebo jiných vysokých škol mohou také požádat o prominutí přijímací zkoušky, pokud podají žádost nejpozději do 13. června 2025. Je důležité si však uvědomit, že existují určité výjimky, kdy prominutí přijímací zkoušky není možné, například pro absolventy určitých programů nebo oborů.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.901842654
+Maximální skóre podobnosti: 0.938339531
+Spotřeba tokenů: 1040
+Spotřeba tokenů - Vstupní (prompt): 661
+Spotřeba tokenů - Výstupní (completion): 379
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Do kdy mám podat přihlášku?
+Vygenerovaná odpověď modelem: Pro bakalářské a magisterské programy na Fakultě informatiky a statistiky je nutné podat přihlášku do 30. 4. 2025. Pro doktorské programy je termín podání přihlášky stanoven na 9. 12. 2024. Pro MBA programy přijímáme přihlášky pro akademický rok 2025.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.861401856
+Maximální skóre podobnosti: 0.94370234
+Spotřeba tokenů: 331
+Spotřeba tokenů - Vstupní (prompt): 226
+Spotřeba tokenů - Výstupní (completion): 105
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: přihláška na bc.
+Vygenerovaná odpověď modelem: Přihlášku do bakalářského programu na FIS lze podat přes univerzitní informační systém na webu https://prihlasky.vse.cz. V každém kole přijímacího řízení lze podat pouze jednu přihlášku. V přihlášce lze uvést až tři studijní programy v pořadí podle preferencí uchazeče, přičemž pořadí je závazné a nelze je později měnit. Uvedení druhého a třetího programu není povinné. Poplatek za podání přihlášky činí 960 Kč.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.875131786
+Maximální skóre podobnosti: 0.922305167
+Spotřeba tokenů: 595
+Spotřeba tokenů - Vstupní (prompt): 410
+Spotřeba tokenů - Výstupní (completion): 185
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Kdy se koná přijímací zkouška?
+Vygenerovaná odpověď modelem: Pro magisterské studium se přijímací zkouška koná 23. až 25. 6. 2025. Pro bakalářské programy jsou uznávané termíny testů Obecných studijních předpokladů (OSP) od společnosti Scio následující: 7. 12. 2024, 13. 1. 2025, 1. 2. 2025, 1. 3. 2025, 29. 3. 2025, 26. 4. 2025 a 17. 5. 2025. Pro doktorské studium je termín přijímací zkoušky stanoven na 30. 1. 2025.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.873625457
+Maximální skóre podobnosti: 0.905897498
+Spotřeba tokenů: 699
+Spotřeba tokenů - Vstupní (prompt): 512
+Spotřeba tokenů - Výstupní (completion): 187
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: vzor testů
+Vygenerovaná odpověď modelem: Pro přípravu na přijímací řízení do bakalářských programů můžete využít vzorové testy Obecných studijních předpokladů (OSP), které poskytuje společnost Scio na svých webových stránkách. Vzorové testy pro magisterské programy nejsou k dispozici. Na magisterský obor Kognitivní informatika se testy nekonají; přijímací zkouška probíhá formou ústního pohovoru.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.836954057
+Maximální skóre podobnosti: 0.925816774
+Spotřeba tokenů: 606
+Spotřeba tokenů - Vstupní (prompt): 457
+Spotřeba tokenů - Výstupní (completion): 149
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Chci vědět víc o přijímacích zkouškách
+Vygenerovaná odpověď modelem: Přijímací zkoušky na Fakultu informatiky a statistiky se liší podle typu programu. Pro bakalářské programy uchazeči skládají test Obecných studijních předpokladů (OSP), organizovaný společností Scio. Pro magisterské programy se přijímací zkouška skládá z testu odborných znalostí. Na obor Kognitivní informatika zkouška probíhá formou ústního pohovoru a zahrnuje i motivační část. Přijímací řízení do doktorských programů zahrnuje odbornou a jazykovou zkoušku.
+
+Přijímací zkoušky se konají v různých termínech podle jednotlivých studijních programů. Pro magisterské studium se přijímací zkouška koná 23. až 25. 6. 2025. Pro bakalářské programy jsou uznávané termíny testů Obecných studijních předpokladů (OSP) od společnosti Scio následující: 7. 12. 2024, 13. 1. 2025, 1. 2. 2025, 1. 3. 2025, 29. 3. 2025, 26. 4. 2025 a 17. 5. 2025. Pro doktorské studium je termín přijímací zkoušky stanoven na 30. 1. 2025.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.861145735
+Maximální skóre podobnosti: 1.00147784
+Spotřeba tokenů: 931
+Spotřeba tokenů - Vstupní (prompt): 519
+Spotřeba tokenů - Výstupní (completion): 412
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou prosím podmínky přijímacího řízení na obor UX výzkum a design?
+Vygenerovaná odpověď modelem: Pro přijetí do magisterské specializace UX výzkum a design na FIS je nutné mít ukončené bakalářské vzdělání a úspěšně složit přijímací zkoušku z odborného předmětu, která zahrnuje okruhy: současné trendy UX designu softwaru, Design Thinking při tvorbě softwaru a uživatelský výzkum.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.832185
+Maximální skóre podobnosti: 0.950038
+Spotřeba tokenů: 536
+Spotřeba tokenů - Vstupní (prompt): 417
+Spotřeba tokenů - Výstupní (completion): 119
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou podmínky pro zahraniční studenty?
+Vygenerovaná odpověď modelem: Pro zahraniční studenty, kteří se chtějí hlásit na FIS, platí následující podmínky:
+
+1. Zahraniční studenti musí splňovat stejné akademické požadavky jako domácí uchazeči.
+2. Přijímací řízení zahrnuje testy nebo pohovory podle konkrétního programu.
+3. Uchazeči o studium v anglickém jazyce musí doložit dostatečnou znalost angličtiny a uhradit školné za studium v anglickém jazyce.
+4. Uchazeči o studium v češtině, kteří nejsou rodilými mluvčími nebo nemají předchozí vzdělání v českém či slovenském jazyce, musí prokázat dostatečnou znalost češtiny.
+5. Uchazeči o studium ve studijním programu v českém jazyce musí zaplatit poplatek 960 Kč za posouzení zahraničního středoškolského nebo vysokoškolského vzdělání.
+6. Zahraniční uchazeči o bakalářské studium v českém jazyce musí doložit znalost češtiny na úrovni minimálně B2 podle CEFR.
+7. Uchazeči o magisterské studium, kteří nejsou občany České republiky nebo Slovenska a neabsolvovali předchozí studium v českém či slovenském jazyce, musí úspěšně složit zkoušku z českého jazyka organizovanou Katedrou anglického jazyka VŠE a dosáhnout alespoň 60 % bodů.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.857908547
+Maximální skóre podobnosti: 0.909090221
+Spotřeba tokenů: 1157
+Spotřeba tokenů - Vstupní (prompt): 659
+Spotřeba tokenů - Výstupní (completion): 498
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Zkouška z češtiny pro cizince
+Vygenerovaná odpověď modelem: Zahraniční uchazeči o magisterské studium na FIS, kteří nejsou občany České republiky nebo Slovenska a nemají předchozí studium v českém či slovenském jazyce, musí úspěšně složit zkoušku z českého jazyka organizovanou Katedrou anglického jazyka VŠE. Tato zkouška je zpoplatněna a pro úspěšné složení je nutné dosáhnout alespoň 60 % bodů.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.86413908
+Maximální skóre podobnosti: 0.93360877
+Spotřeba tokenů: 808
+Spotřeba tokenů - Vstupní (prompt): 657
+Spotřeba tokenů - Výstupní (completion): 151
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak dostanu vizum?
+Vygenerovaná odpověď modelem: Pro získání víza ke studiu v České republice je nutné být přijat ke studiu na Fakultu informatiky a statistiky a následně co nejdříve zahájit proces žádosti o vízum. Doba vyřízení víza může trvat až 60 dnů od podání žádosti. Je důležité mít připraveny všechny potřebné dokumenty a včas si sjednat termín na zastupitelském úřadě České republiky. Můžete žádat buď o dlouhodobé vízum za účelem studia, nebo o povolení k dlouhodobému pobytu za účelem studia.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.819363654
+Maximální skóre podobnosti: 0.93910718
+Spotřeba tokenů: 670
+Spotřeba tokenů - Vstupní (prompt): 471
+Spotřeba tokenů - Výstupní (completion): 199
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: mohu u vas studovat, když nejsem čech
+Vygenerovaná odpověď modelem: Ano, jako zahraniční student můžete studovat na Fakultě informatiky a statistiky (FIS) Vysoké školy ekonomické v Praze. Přijímací řízení pro zahraniční studenty zahrnuje specifické požadavky týkající se znalosti jazyka a absolvování příslušných zkoušek. Pro bakalářské studium v českém jazyce je vyžadována znalost češtiny na úrovni minimálně B2 podle Společného evropského referenčního rámce pro jazyky (CEFR). Pro magisterské studium je třeba úspěšně složit zkoušku z českého jazyka organizovanou Katedrou anglického jazyka VŠE. Pro studium v anglickém jazyce je potřeba prokázat dostatečnou znalost angličtiny a uhradit školné za studium v anglickém jazyce.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.85022229
+Maximální skóre podobnosti: 0.893504858
+Spotřeba tokenů: 937
+Spotřeba tokenů - Vstupní (prompt): 660
+Spotřeba tokenů - Výstupní (completion): 277
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Můsí mít cizinec při přijetí potvrzení o znalosti českého jazyka?
+Vygenerovaná odpověď modelem: Ano, cizinec musí mít při přijetí potvrzení o znalosti českého jazyka. Pro bakalářské studium je potřeba doložit znalost češtiny na minimální úrovni B2 podle Společného evropského referenčního rámce pro jazyky (CEFR). Pro magisterské studium je pak potřeba úspěšně složit zkoušku z českého jazyka organizovanou Katedrou anglického jazyka VŠE, pokud uchazeč neabsolvoval předchozí studium v českém či slovenském jazyce.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.86444509
+Maximální skóre podobnosti: 0.906833768
+Spotřeba tokenů: 851
+Spotřeba tokenů - Vstupní (prompt): 674
+Spotřeba tokenů - Výstupní (completion): 177
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Na jaké úrovni musí mít cizinec potvrzení o znalosti českého jazyka?
+Vygenerovaná odpověď modelem: Cizinec musí mít potvrzení o znalosti českého jazyka minimálně na úrovni B2 podle Společného evropského referenčního rámce pro jazyky (CEFR).
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.840452313
+Maximální skóre podobnosti: 0.912264585
+Spotřeba tokenů: 732
+Spotřeba tokenů - Vstupní (prompt): 672
+Spotřeba tokenů - Výstupní (completion): 60
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak mohu získat stipendium?
+Vygenerovaná odpověď modelem: Na Fakultě informatiky a statistiky existují různé typy stipendií, jako jsou prospěchová, sociální, mimořádná a zvláštní stipendia pro studenty účastnící se zahraničních studijních pobytů. Pro získání stipendia je nutné splnit určité podmínky uvedené ve Stipendijním řádu VŠE. Prospěchové stipendium je určeno studentům s vynikajícími studijními výsledky, sociální stipendium je pro studenty v obtížné finanční situaci a mimořádné stipendium může být uděleno na základě konkrétní žádosti za výjimečné výsledky. Žádost o stipendium se podává dle postupu uvedeného ve Stipendijním řádu VŠE.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.897933185
+Maximální skóre podobnosti: 0.921237
+Spotřeba tokenů: 968
+Spotřeba tokenů - Vstupní (prompt): 709
+Spotřeba tokenů - Výstupní (completion): 259
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: kolik stoji skolne, kdyz je mi nad 26 let
+Vygenerovaná odpověď modelem: Pokud vám je nad 26 let a překročíte standardní dobu studia zvětšenou o jeden rok na Fakultě informatiky a statistiky (FIS) Vysoké školy ekonomické v Praze, bude vám účtováno 27 000 Kč za každých započatých 6 měsíců studia v českém jazyce.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.84737283
+Maximální skóre podobnosti: 0.940693
+Spotřeba tokenů: 678
+Spotřeba tokenů - Vstupní (prompt): 571
+Spotřeba tokenů - Výstupní (completion): 107
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Manipulační poplatek za každou přihlášku
+Vygenerovaná odpověď modelem: Manipulační poplatek za podání přihlášky na Fakultu informatiky a statistiky činí 960 Kč.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.844450355
+Maximální skóre podobnosti: 0.952225566
+Spotřeba tokenů: 267
+Spotřeba tokenů - Vstupní (prompt): 231
+Spotřeba tokenů - Výstupní (completion): 36
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Kolik stojí MBA?
+Vygenerovaná odpověď modelem: Omlouvám se, ale v poskytnutých textech není uvedena informace o ceně MBA programu na Fakultě informatiky a statistiky (FIS) Vysoké školy ekonomické v Praze. Pro aktuální informace o ceně tohoto programu doporučuji kontaktovat přímo příslušné oddělení nebo navštívit oficiální webové stránky FIS.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.840472937
+Maximální skóre podobnosti: 0.871622145
+Spotřeba tokenů: 536
+Spotřeba tokenů - Vstupní (prompt): 422
+Spotřeba tokenů - Výstupní (completion): 114
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: jak dosáhnout na ubytovací stipendium
+Vygenerovaná odpověď modelem: Pro získání ubytovacího stipendia na Vysoké škole ekonomické je nutné splnit několik podmínek uvedených ve Stipendijním řádu VŠE. Student musí být studujícím programu v prezenční formě studia, nesmí pobírat ubytovací stipendium na jiné vysoké škole, a musí studovat ve standardní době studia. Dále je třeba mít trvalý pobyt mimo místo Prahu. Žádost se podává elektronicky prostřednictvím integrovaného studijního informačního systému (InSIS) pouze jednou, když student žádá o přiznání stipendia poprvé. Pro další informace kontaktujte paní Kristinu Kurišovou, která má na starosti ubytovací stipendia na VŠE.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.899090469
+Maximální skóre podobnosti: 0.982631087
+Spotřeba tokenů: 914
+Spotřeba tokenů - Vstupní (prompt): 666
+Spotřeba tokenů - Výstupní (completion): 248
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: cena za semestr
+Vygenerovaná odpověď modelem: Cena za semestr studia na Fakultě informatiky a statistiky se liší podle typu studijního programu a jazyka výuky. Studium v českém jazyce je bezplatné, pokud student nepřekročí standardní dobu studia zvětšenou o jeden rok. Po překročení této doby se platí poplatek 27 000 Kč za každých započatých 6 měsíců studia. Studium v anglickém jazyce má školné ve výši 2 500 EUR za semestr. Pro MBA programy činí celkové školné za celé studium v programu MBA Data & Analytics for Business Management 280 000 Kč při platbě celé částky předem, a v programu MBA IT Management & Business Transformation 15 000 EUR.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.820630908
+Maximální skóre podobnosti: 0.947230101
+Spotřeba tokenů: 838
+Spotřeba tokenů - Vstupní (prompt): 623
+Spotřeba tokenů - Výstupní (completion): 215
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: sociální stipendium
+Vygenerovaná odpověď modelem: Pro získání sociálního stipendia na Vysoké škole ekonomické v Praze je nutné splnit podmínky podle § 91 odst. 3 zákona o vysokých školách. Stipendium je vypláceno od prvního dne kalendářního měsíce, kdy student podá žádost, a je přiznáno na celý akademický rok s výjimkou měsíců srpen a září. Žádost je třeba podat do konce října prostřednictvím informačního systému InSIS. Výplata probíhá bankovním převodem se zpožděním tří měsíců. Přerušení studia může ovlivnit nárok na stipendium.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.877113342
+Maximální skóre podobnosti: 0.964716434
+Spotřeba tokenů: 883
+Spotřeba tokenů - Vstupní (prompt): 658
+Spotřeba tokenů - Výstupní (completion): 225
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: kolik je doktorské stipendium?
+Vygenerovaná odpověď modelem: Základní měsíční částka nárokové složky doktorského stipendia na Fakultě informatiky a statistiky (FIS) Vysoké školy ekonomické v Praze činí 8 000 Kč. Po úspěšném složení státní doktorské zkoušky se tato částka zvyšuje o 1 000 Kč měsíčně. Takže celkové doktorské stipendium se postupně zvyšuje podle úspěšného průběhu studia.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.864191175
+Maximální skóre podobnosti: 1.00119364
+Spotřeba tokenů: 718
+Spotřeba tokenů - Vstupní (prompt): 564
+Spotřeba tokenů - Výstupní (completion): 154
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízí FIS?
+Vygenerovaná odpověď modelem: FIS nabízí následující magisterské programy:
+
+1. Aplikovaná datová analytika a umělá inteligence
+2. Ekonometrie a operační výzkum
+3. Ekonomická demografie
+4. Statistika
+5. Znalostní a webové technologie
+6. Data & Business (Information Systems Management)
+7. Master in Official Statistics (Economic Data Analysis)
+8. Data Analysis and Modelling (Economic Data Analysis)
+9. Business analýza (IST)
+10. Business Intelligence (IST)
+11. Informační management
+12. Kognitivní informatika
+13. Řízení podnikové informatiky
+14. UX výzkum a design
+15. Vývoj informačních systémů
+16. Podniková informatika (pouze distanční forma)
+17. Management of Business Informatics (Information Systems Management)
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.868712366
+Maximální skóre podobnosti: 0.899679661
+Spotřeba tokenů: 793
+Spotřeba tokenů - Vstupní (prompt): 570
+Spotřeba tokenů - Výstupní (completion): 223
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam datových programů
+Vygenerovaná odpověď modelem: Seznam datových magisterských programů na FIS zahrnuje:
+
+1. Aplikovaná datová analytika a umělá inteligence
+2. Ekonometrie a operační výzkum
+3. Ekonomická demografie
+4. Statistika
+5. Znalostní a webové technologie
+6. Data & Business (Information Systems Management)
+7. Master in Official Statistics (Economic Data Analysis)
+8. Data Analysis and Modelling (Economic Data Analysis)
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.873713553
+Maximální skóre podobnosti: 0.876783073
+Spotřeba tokenů: 834
+Spotřeba tokenů - Vstupní (prompt): 714
+Spotřeba tokenů - Výstupní (completion): 120
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: vzor testů
+Vygenerovaná odpověď modelem: Pro přípravu na přijímací řízení do bakalářských programů na Fakultě informatiky a statistiky můžete využít vzorové testy Obecných studijních předpokladů (OSP), které poskytuje společnost Scio na svých webových stránkách. Pro magisterské programy vzorové testy k dispozici nejsou. Na magisterský obor Kognitivní informatika se testy nekonají, přijímací zkouška probíhá formou ústního pohovoru.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.836954057
+Maximální skóre podobnosti: 0.925816774
+Spotřeba tokenů: 617
+Spotřeba tokenů - Vstupní (prompt): 457
+Spotřeba tokenů - Výstupní (completion): 160
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do bakalářského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do bakalářského programu na Fakultě informatiky a statistiky je nutné mít ukončené středoškolské vzdělání s maturitní zkouškou. Uchazeči dále skládají přijímací zkoušku formou testu Obecných studijních předpokladů (OSP) v rámci Národních srovnávacích zkoušek organizovaných společností Scio. V některých případech může být přijímací zkouška prominuta na základě vynikajících studijních výsledků ze střední školy nebo úspěchů v soutěžích.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.870580435
+Maximální skóre podobnosti: 0.908678472
+Spotřeba tokenů: 618
+Spotřeba tokenů - Vstupní (prompt): 411
+Spotřeba tokenů - Výstupní (completion): 207
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Do kdy mám podat přihlášku?
+Vygenerovaná odpověď modelem: Do 30. 4. 2025.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.861401856
+Maximální skóre podobnosti: 0.94370234
+Spotřeba tokenů: 492
+Spotřeba tokenů - Vstupní (prompt): 481
+Spotřeba tokenů - Výstupní (completion): 11
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: cena za semestr
+Vygenerovaná odpověď modelem: Cena za semestr studia na Fakultě informatiky a statistiky v anglickém jazyce je 2 500 EUR.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.820630908
+Maximální skóre podobnosti: 0.947230101
+Spotřeba tokenů: 959
+Spotřeba tokenů - Vstupní (prompt): 926
+Spotřeba tokenů - Výstupní (completion): 33
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízíte a jaké jsou podmínky pro přijetí?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí následující magisterské programy:
+
+1. Aplikovaná datová analytika a umělá inteligence
+2. Ekonometrie a operační výzkum
+3. Ekonomická demografie
+4. Statistika
+5. Znalostní a webové technologie
+6. Data & Business (Information Systems Management)
+7. Master in Official Statistics (Economic Data Analysis)
+8. Data Analysis and Modelling (Economic Data Analysis)
+
+Pro přijetí do magisterského programu je nutné mít ukončené bakalářské studium a úspěšně složit přijímací zkoušku z odborného předmětu, pokud není splněno prominutí této zkoušky na základě předem daných podmínek.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.865579188
+Maximální skóre podobnosti: 0.883123
+Spotřeba tokenů: 604
+Spotřeba tokenů - Vstupní (prompt): 383
+Spotřeba tokenů - Výstupní (completion): 221
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Můsí mít cizinec při přijetí potvrzení o znalosti českého jazyka, pokud ano, na jaké úrovni?
+Vygenerovaná odpověď modelem: Ano, cizinec musí mít potvrzení o znalosti českého jazyka při přijetí na FIS. Pro bakalářské studium je potřeba znalost na úrovni minimálně B2 podle Společného evropského referenčního rámce pro jazyky (CEFR). Pro magisterské studium je pak nutné úspěšně složit zkoušku z českého jazyka organizovanou Katedrou anglického jazyka VŠE.
+Verze experimentu: 2b
+Minimální skóre podobnosti: 0.864017844
+Maximální skóre podobnosti: 0.914571166
+Spotřeba tokenů: 824
+Spotřeba tokenů - Vstupní (prompt): 685
+Spotřeba tokenů - Výstupní (completion): 139
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízíte?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí následující magisterské programy:
+- Aplikovaná datová analytika a umělá inteligence
+- Ekonometrie a operační výzkum
+- Ekonomická demografie
+- Statistika
+- Znalostní a webové technologie
+- Data & Business (Information Systems Management)
+- Master in Official Statistics (Economic Data Analysis)
+- Data Analysis and Modelling (Economic Data Analysis)
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.913817942
+Maximální skóre podobnosti: 0.913817942
+Spotřeba tokenů: 372
+Spotřeba tokenů - Vstupní (prompt): 253
+Spotřeba tokenů - Výstupní (completion): 119
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké bakalářské programy nabízíte?
+Vygenerovaná odpověď modelem: Nabízíme následující bakalářské programy v prezenční formě: 
+- Aplikovaná informatika
+- Data Analytics
+- Informační média a služby
+- Matematické metody v ekonomii
+- Multimédia v ekonomické praxi
+- Economic Data Science
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.877395689
+Maximální skóre podobnosti: 0.877395689
+Spotřeba tokenů: 296
+Spotřeba tokenů - Vstupní (prompt): 212
+Spotřeba tokenů - Výstupní (completion): 84
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: co můžu u vás studovat
+Vygenerovaná odpověď modelem: Na Fakultě informatiky a statistiky můžete studovat bakalářské, magisterské, doktorské programy a také program MBA. V bakalářském programu si můžete vybrat z různých oborů, magisterské programy jsou zaměřené na datové a informatické obory, doktorské programy jsou zaměřené na výzkum v oblastech informatiky, statistiky a ekonometrie a program MBA je zaměřený na propojení teoretických znalostí s praktickými dovednostmi v oblasti datové analytiky a informačních technologií. Studium může být v prezenční, distanční nebo kombinované formě a vyučovací jazyky jsou český a anglický.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.910643697
+Maximální skóre podobnosti: 0.910643697
+Spotřeba tokenů: 520
+Spotřeba tokenů - Vstupní (prompt): 296
+Spotřeba tokenů - Výstupní (completion): 224
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: z čeho si můžu vybrat k mgr studiu
+Vygenerovaná odpověď modelem: Pro magisterské studium na FIS VŠE si můžete vybrat z následujících oblastí vzdělávání: 
+
+1. Aplikovaná informatika
+2. Ekonomická informatika
+3. Statistika a analýza dat
+4. Finanční matematika
+5. Informační systémy
+
+Z těchto oblastí si můžete vybrat ten, který vás nejvíce zajímá a odpovídá vašim zájmům a profesním cílům.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.867153108
+Maximální skóre podobnosti: 0.867153108
+Spotřeba tokenů: 718
+Spotřeba tokenů - Vstupní (prompt): 573
+Spotřeba tokenů - Výstupní (completion): 145
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: chci pokračovat ve studiu
+Vygenerovaná odpověď modelem: Pokud chcete pokračovat ve studiu na Fakultě informatiky a statistiky, je důležité se seznámit s konkrétními požadavky přijímacích zkoušek pro jednotlivé programy. Pro bakalářské programy je nutné skládat test Obecných studijních předpokladů (OSP) organizovaný společností Scio. Pro magisterské programy je přijímací zkouška založena na testu odborných znalostí. Pro obor Kognitivní informatika je přijímací zkouška formou ústního pohovoru s motivační částí. Pro doktorské programy je zapotřebí absolvovat odbornou a jazykovou zkoušku. Doporučuji se podrobně seznámit s požadavky a postupem přijímacího řízení pro konkrétní program, do kterého chcete pokračovat ve studiu.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.862456739
+Maximální skóre podobnosti: 0.862456739
+Spotřeba tokenů: 550
+Spotřeba tokenů - Vstupní (prompt): 278
+Spotřeba tokenů - Výstupní (completion): 272
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam datových programů
+Vygenerovaná odpověď modelem: - Aplikovaná datová analytika a umělá inteligence
+- Ekonometrie a operační výzkum
+- Ekonomická demografie
+- Statistika
+- Znalostní a webové technologie
+- Data & Business (Information Systems Management)
+- Master in Official Statistics (Economic Data Analysis)
+- Data Analysis and Modelling (Economic Data Analysis)
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.876783073
+Maximální skóre podobnosti: 0.876783073
+Spotřeba tokenů: 338
+Spotřeba tokenů - Vstupní (prompt): 246
+Spotřeba tokenů - Výstupní (completion): 92
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam bakalářských programů?
+Vygenerovaná odpověď modelem: Seznam bakalářských programů na Fakultě informatiky a statistiky (FIS) v prezenční formě zahrnuje následující programy: 
+- Aplikovaná informatika
+- Data Analytics
+- Informační média a služby
+- Matematické metody v ekonomii
+- Multimédia v ekonomické praxi
+- Economic Data Science
+
+Všechny programy jsou vyučovány v češtině, s výjimkou programu Economic Data Science, který je vyučován v angličtině.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.887181401
+Maximální skóre podobnosti: 0.887181401
+Spotřeba tokenů: 358
+Spotřeba tokenů - Vstupní (prompt): 206
+Spotřeba tokenů - Výstupní (completion): 152
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Máte nějaké MBA?
+Vygenerovaná odpověď modelem: Ano, na Fakultě informatiky a statistiky (FIS) je možné absolvovat MBA programy, jako je například Data & Analytics for Business Management zaměřený na datovou analytiku a IT Management & Business Transformation zaměřený na řízení IT a transformaci podnikových procesů.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.844598114
+Maximální skóre podobnosti: 0.844598114
+Spotřeba tokenů: 300
+Spotřeba tokenů - Vstupní (prompt): 216
+Spotřeba tokenů - Výstupní (completion): 84
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Chtěl bych jít na doktorské studium, co mi o tom můžeš povědět?
+Vygenerovaná odpověď modelem: Doktorské studium na Fakultě informatiky a statistiky je zaměřené na výzkum v oblastech informatiky, statistiky a ekonometrie. Nabízí se ve formě prezenční nebo kombinované a vyučuje se v jazycích českém a anglickém. Jde o pokročilé studium pro ty, kteří se chtějí hlouběji zabývat vědeckým výzkumem v těchto oblastech.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.848718286
+Maximální skóre podobnosti: 0.848718286
+Spotřeba tokenů: 448
+Spotřeba tokenů - Vstupní (prompt): 314
+Spotřeba tokenů - Výstupní (completion): 134
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Distanční studium
+Vygenerovaná odpověď modelem: Na FIS je možné absolvovat distanční program Podniková informatika na magisterské úrovni.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.892273486
+Maximální skóre podobnosti: 0.892273486
+Spotřeba tokenů: 144
+Spotřeba tokenů - Vstupní (prompt): 113
+Spotřeba tokenů - Výstupní (completion): 31
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do bakalářského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do bakalářského programu na Fakultě informatiky a statistiky je nutné mít ukončené středoškolské vzdělání s maturitní zkouškou. Uchazeči dále skládají přijímací zkoušku formou testu Obecných studijních předpokladů (OSP) v rámci Národních srovnávacích zkoušek organizovaných společností Scio. V některých případech může být přijímací zkouška prominuta na základě vynikajících studijních výsledků ze střední školy nebo úspěchů v soutěžích.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.908678472
+Maximální skóre podobnosti: 0.908678472
+Spotřeba tokenů: 502
+Spotřeba tokenů - Vstupní (prompt): 295
+Spotřeba tokenů - Výstupní (completion): 207
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do magisterského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do magisterského programu je nutné řádně ukončit studium alespoň v bakalářském studijním programu a úspěšně složit přijímací zkoušku z odborného předmětu, pokud není splněno prominutí této zkoušky na základě předem daných podmínek.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.91870296
+Maximální skóre podobnosti: 0.91870296
+Spotřeba tokenů: 322
+Spotřeba tokenů - Vstupní (prompt): 215
+Spotřeba tokenů - Výstupní (completion): 107
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak najdu informace k přijetí?
+Vygenerovaná odpověď modelem: Pro získání informací k přijetí na Fakultu informatiky a statistiky doporučuji navštívit oficiální webové stránky fakulty na adrese https://fis.vse.cz. Zde jsou uvedeny podrobnosti o požadavcích na přijetí, termínech a podmínkách pro bakalářské i magisterské programy. Konkrétní informace o přijímacím řízení pro magisterské programy naleznete na stránce: https://fis.vse.cz/magisterske-studium/prijimaci-rizeni/ a pro bakalářské programy na stránce: https://fis.vse.cz/bakalarske-studium/prijimaci-rizeni/.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.910427034
+Maximální skóre podobnosti: 0.910427034
+Spotřeba tokenů: 437
+Spotřeba tokenů - Vstupní (prompt): 236
+Spotřeba tokenů - Výstupní (completion): 201
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: jak se k vam dostat
+Vygenerovaná odpověď modelem: Chcete-li se dostat na Fakultu informatiky a statistiky, je nezbytné splnit požadavky přijímacího řízení. Pro bakalářské studium musíte mít ukončené středoškolské vzdělání a absolvovat přijímací zkoušky, které zahrnují test Obecných studijních předpokladů (OSP) organizovaný společností Scio. Pro magisterské studium je potřeba mít dokončené bakalářské vzdělání a složit přijímací zkoušku z odborného předmětu, pokud není prominuta na základě předem stanovených podmínek. Podrobnější informace o přijímacím řízení naleznete na oficiálních stránkách Fakulty informatiky a statistiky.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.915510416
+Maximální skóre podobnosti: 0.915510416
+Spotřeba tokenů: 530
+Spotřeba tokenů - Vstupní (prompt): 283
+Spotřeba tokenů - Výstupní (completion): 247
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Je možnost prominutí přijímací zkoušky na bakaláře?
+Vygenerovaná odpověď modelem: Ano, je možné požádat o prominutí přijímací zkoušky na bakalářské studium, pokud uchazeč do 30. 4. 2025 doloží požadovaný průměr známek písemnou žádostí nebo katalogovým listem.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.934796214
+Maximální skóre podobnosti: 0.934796214
+Spotřeba tokenů: 271
+Spotřeba tokenů - Vstupní (prompt): 184
+Spotřeba tokenů - Výstupní (completion): 87
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Je možnost prominutí přijímací zkoušky na magistra?
+Vygenerovaná odpověď modelem: Ano, je možné požádat o prominutí přijímací zkoušky na magisterské studium na FIS VŠE za splnění určitých podmínek. Jste-li absolventem bakalářského studia na FIS VŠE a splňujete stanovené požadavky, může být přijímací zkouška prominuta. Tato možnost je také otevřena absolventům bakalářského studia s vyznamenáním z jiných fakult VŠE nebo jiných vysokých škol, kteří požádají o prominutí nejpozději do 13. června 2025. Je důležité mít na paměti, že existují určitá omezení týkající se oborů a programů, na které nelze požádat o prominutí přijímací zkoušky.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.938339531
+Maximální skóre podobnosti: 0.938339531
+Spotřeba tokenů: 831
+Spotřeba tokenů - Vstupní (prompt): 576
+Spotřeba tokenů - Výstupní (completion): 255
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Do kdy mám podat přihlášku?
+Vygenerovaná odpověď modelem: Pro bakalářské a magisterské programy na Fakultě informatiky a statistiky je nutné podat přihlášku do 30. 4. 2025. Pro doktorské programy je termín podání přihlášky stanoven na 9. 12. 2024. Pro MBA programy přijímáme přihlášky pro akademický rok 2025. Tedy, termíny pro podání přihlášky jsou různé podle typu programu.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.94370234
+Maximální skóre podobnosti: 0.94370234
+Spotřeba tokenů: 330
+Spotřeba tokenů - Vstupní (prompt): 197
+Spotřeba tokenů - Výstupní (completion): 133
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: přihláška na bc.
+Vygenerovaná odpověď modelem: Pro podání přihlášky na bakalářský program na FIS je potřeba použít univerzitní informační systém dostupný na webu https://prihlasky.vse.cz. V každém kole přijímacího řízení je možné podat pouze jednu přihlášku a můžete uvést až tři studijní programy v pořadí podle vašich preferencí. Pořadí programů je závazné a nelze je později měnit. Uvedení druhého a třetího programu není povinné. Poplatek za podání přihlášky činí 960 Kč.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.922305167
+Maximální skóre podobnosti: 0.922305167
+Spotřeba tokenů: 456
+Spotřeba tokenů - Vstupní (prompt): 272
+Spotřeba tokenů - Výstupní (completion): 184
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Kdy se koná přijímací zkouška?
+Vygenerovaná odpověď modelem: Přijímací zkouška se koná pro magisterské studium 23. až 25. 6. 2025, pro bakalářské programy v uznávaných termínech testů OSP od společnosti Scio: 7. 12. 2024, 13. 1. 2025, 1. 2. 2025, 1. 3. 2025, 29. 3. 2025, 26. 4. 2025 a 17. 5. 2025, a pro doktorské studium 30. 1. 2025.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.905897498
+Maximální skóre podobnosti: 0.905897498
+Spotřeba tokenů: 474
+Spotřeba tokenů - Vstupní (prompt): 321
+Spotřeba tokenů - Výstupní (completion): 153
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: vzor testů
+Vygenerovaná odpověď modelem: Pro přípravu na přijímací řízení do bakalářských programů můžete využít vzorové testy Obecných studijních předpokladů (OSP), které poskytuje společnost Scio na svých webových stránkách.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.925816774
+Maximální skóre podobnosti: 0.925816774
+Spotřeba tokenů: 346
+Spotřeba tokenů - Vstupní (prompt): 266
+Spotřeba tokenů - Výstupní (completion): 80
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Chci vědět víc o přijímacích zkouškách
+Vygenerovaná odpověď modelem: Pro bakalářské programy na Fakultě informatiky a statistiky je nutné složit test Obecných studijních předpokladů (OSP) organizovaný společností Scio. Pro magisterské programy je přijímací zkouška založena na testu odborných znalostí. Na obor Kognitivní informatika se zkouška skládá z ústního pohovoru a zahrnuje i motivační část. Přijímací řízení do doktorských programů zahrnuje odbornou a jazykovou zkoušku.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 1.00147784
+Maximální skóre podobnosti: 1.00147784
+Spotřeba tokenů: 454
+Spotřeba tokenů - Vstupní (prompt): 289
+Spotřeba tokenů - Výstupní (completion): 165
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou prosím podmínky přijímacího řízení na obor UX výzkum a design?
+Vygenerovaná odpověď modelem: Pro přijetí do magisterské specializace UX výzkum a design na FIS je nutné mít ukončené bakalářské vzdělání a úspěšně složit přijímací zkoušku z odborného předmětu, která zahrnuje okruhy současných trendů UX designu softwaru, Design Thinking při tvorbě softwaru a uživatelského výzkumu.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.950038
+Maximální skóre podobnosti: 0.950038
+Spotřeba tokenů: 346
+Spotřeba tokenů - Vstupní (prompt): 226
+Spotřeba tokenů - Výstupní (completion): 120
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou podmínky pro zahraniční studenty?
+Vygenerovaná odpověď modelem: Zahraniční studenti, kteří se chtějí hlásit na FIS, musí splňovat stejné akademické požadavky jako domácí uchazeči. Přijímací řízení zahrnuje testy nebo pohovory podle konkrétního programu. Uchazeči o studium v anglickém jazyce musí doložit dostatečnou znalost angličtiny a uhradit školné za studium v anglickém jazyce. Uchazeči o studium v češtině, kteří nejsou rodilými mluvčími nebo nemají předchozí vzdělání v českém či slovenském jazyce, musí prokázat dostatečnou znalost češtiny. V případě podání přihlášky ke studiu ve studijním programu v českém jazyce se také platí poplatek 960 Kč za posouzení zahraničního středoškolského nebo vysokoškolského vzdělání.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.909090221
+Maximální skóre podobnosti: 0.909090221
+Spotřeba tokenů: 692
+Spotřeba tokenů - Vstupní (prompt): 394
+Spotřeba tokenů - Výstupní (completion): 298
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Zkouška z češtiny pro cizince
+Vygenerovaná odpověď modelem: Pro uchazeče o magisterské studium na FIS, kteří nejsou občany České republiky nebo Slovenska a neabsolvovali předchozí studium v českém či slovenském jazyce, je nutné úspěšně složit zkoušku z českého jazyka organizovanou Katedrou anglického jazyka VŠE. Tato zkouška je zpoplatněna a pro úspěšné složení je nutné dosáhnout alespoň 60 % bodů.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.93360877
+Maximální skóre podobnosti: 0.93360877
+Spotřeba tokenů: 506
+Spotřeba tokenů - Vstupní (prompt): 356
+Spotřeba tokenů - Výstupní (completion): 150
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak dostanu vizum?
+Vygenerovaná odpověď modelem: Pro získání víza ke studiu v České republice je nutné být přijat ke studiu a následně co nejdříve zahájit proces žádosti o vízum. Doba vyřízení víza může trvat až 60 dnů od podání žádosti. Je důležité mít připraveny všechny potřebné dokumenty a včas si sjednat termín na zastupitelském úřadě České republiky. Můžete žádat buď o dlouhodobé vízum za účelem studia, nebo o povolení k dlouhodobému pobytu za účelem studia.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.93910718
+Maximální skóre podobnosti: 0.93910718
+Spotřeba tokenů: 459
+Spotřeba tokenů - Vstupní (prompt): 272
+Spotřeba tokenů - Výstupní (completion): 187
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: mohu u vas studovat, když nejsem čech
+Vygenerovaná odpověď modelem: Ano, na Fakultě informatiky a statistiky (FIS) je možné studovat i pro zahraniční studenty. Zahraniční uchazeči musí splňovat stejné akademické požadavky jako domácí uchazeči a prokázat dostatečnou znalost angličtiny nebo češtiny podle zvoleného studijního programu. Přijímací řízení může zahrnovat testy nebo pohovory a platí se také poplatek za posouzení zahraničního středoškolského nebo vysokoškolského vzdělání.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.893504858
+Maximální skóre podobnosti: 0.893504858
+Spotřeba tokenů: 578
+Spotřeba tokenů - Vstupní (prompt): 395
+Spotřeba tokenů - Výstupní (completion): 183
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Můsí mít cizinec při přijetí potvrzení o znalosti českého jazyka?
+Vygenerovaná odpověď modelem: Ano, cizinec musí mít při přijetí potvrzení o znalosti českého jazyka. Pro bakalářské studium je třeba doložit znalost češtiny na minimální úrovni B2 dle CEFR certifikátem nebo jiným relevantním dokladem. Pro magisterské studium je pak nutné úspěšně složit zkoušku z českého jazyka organizovanou Katedrou anglického jazyka VŠE a dosáhnout alespoň 60 % bodů.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.906833768
+Maximální skóre podobnosti: 0.906833768
+Spotřeba tokenů: 525
+Spotřeba tokenů - Vstupní (prompt): 373
+Spotřeba tokenů - Výstupní (completion): 152
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Na jaké úrovni musí mít cizinec potvrzení o znalosti českého jazyka?
+Vygenerovaná odpověď modelem: Cizinec musí mít potvrzení o znalosti českého jazyka minimálně na úrovni B2 podle Společného evropského referenčního rámce pro jazyky (CEFR) pro bakalářské studium na FIS.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.912264585
+Maximální skóre podobnosti: 0.912264585
+Spotřeba tokenů: 444
+Spotřeba tokenů - Vstupní (prompt): 371
+Spotřeba tokenů - Výstupní (completion): 73
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jak mohu získat stipendium?
+Vygenerovaná odpověď modelem: Na Fakultě informatiky a statistiky můžete získat stipendium na základě několika kritérií. Prospěchové stipendium je určeno studentům s vynikajícími studijními výsledky, sociální stipendium je určeno studentům v obtížné finanční situaci a mimořádné stipendium může být uděleno na základě konkrétní žádosti, například za výjimečné studijní nebo vědecké výsledky. Pokud se chcete ucházet o stipendium, můžete se podrobně seznámit s podmínkami a postupem pro žádost v Stipendijním řádu VŠE, který je dostupný na adrese https://www.vse.cz/predpisy/stipendijni-rad-vse/.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.921237
+Maximální skóre podobnosti: 0.921237
+Spotřeba tokenů: 618
+Spotřeba tokenů - Vstupní (prompt): 373
+Spotřeba tokenů - Výstupní (completion): 245
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: kolik stoji skolne, kdyz je mi nad 26 let
+Vygenerovaná odpověď modelem: Věk nad 26 let nemá vliv na výši školného na FIS. Pro studium v českém jazyce je bezplatné, pokud nepřekročíte standardní dobu studia zvětšenou o jeden rok. Po překročení této doby je poplatek 27 000 Kč za každých započatých 6 měsíců. Studium v anglickém jazyce je zpoplatněno částkou 5 000 EUR za akademický rok (2 500 EUR za semestr), stejně tak jako studium v programu MBA.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.940693
+Maximální skóre podobnosti: 0.940693
+Spotřeba tokenů: 418
+Spotřeba tokenů - Vstupní (prompt): 261
+Spotřeba tokenů - Výstupní (completion): 157
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Manipulační poplatek za každou přihlášku
+Vygenerovaná odpověď modelem: Manipulační poplatek za každou přihlášku na FIS činí 960 Kč.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.952225566
+Maximální skóre podobnosti: 0.952225566
+Spotřeba tokenů: 153
+Spotřeba tokenů - Vstupní (prompt): 124
+Spotřeba tokenů - Výstupní (completion): 29
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Kolik stojí MBA?
+Vygenerovaná odpověď modelem: Omlouvám se, ale ve zveřejněných materiálech Fakulty informatiky a statistiky (FIS) Vysoké školy ekonomické v Praze není uvedena informace o ceně MBA programu. Pro aktuální informace ohledně nákladů na studium MBA na FIS doporučuji kontaktovat přímo studijní oddělení fakulty.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.871622145
+Maximální skóre podobnosti: 0.871622145
+Spotřeba tokenů: 501
+Spotřeba tokenů - Vstupní (prompt): 393
+Spotřeba tokenů - Výstupní (completion): 108
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: jak dosáhnout na ubytovací stipendium
+Vygenerovaná odpověď modelem: Pro získání ubytovacího stipendia na VŠE je nutné splnit několik podmínek uvedených ve Stipendijním řádu. Student musí být studujícím programu v prezenční formě studia, nesmí pobírat ubytovací stipendium na jiné vysoké škole, a musí studovat ve standardní době studia. Dále je třeba mít trvalý pobyt mimo místo Prahu. Žádost se podává elektronicky prostřednictvím InSIS pouze jednou, když student žádá o přiznání stipendia poprvé. Pro další informace kontaktujte paní Kristinu Kurišovou, která má na starosti ubytovací stipendia na VŠE.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.982631087
+Maximální skóre podobnosti: 0.982631087
+Spotřeba tokenů: 548
+Spotřeba tokenů - Vstupní (prompt): 330
+Spotřeba tokenů - Výstupní (completion): 218
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: cena za semestr
+Vygenerovaná odpověď modelem: Cena za semestr studia v anglickém jazyce na Fakultě informatiky a statistiky je 2 500 EUR.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.947230101
+Maximální skóre podobnosti: 0.947230101
+Spotřeba tokenů: 346
+Spotřeba tokenů - Vstupní (prompt): 313
+Spotřeba tokenů - Výstupní (completion): 33
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: sociální stipendium
+Vygenerovaná odpověď modelem: Sociální stipendium na Vysoké škole ekonomické v Praze je přiznáváno studentům, kteří splní podmínky podle zákona o vysokých školách. Stipendium je vypláceno od prvního dne kalendářního měsíce, kdy student podá žádost, a je přiznáno na celý akademický rok s výjimkou měsíců srpen a září. Žádost je nutné podat do konce října přes informační systém InSIS. Výplata stipendia probíhá bankovním převodem se zpožděním tří měsíců. Přerušení studia ovlivňuje nárok na stipendium.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.964716434
+Maximální skóre podobnosti: 0.964716434
+Spotřeba tokenů: 638
+Spotřeba tokenů - Vstupní (prompt): 419
+Spotřeba tokenů - Výstupní (completion): 219
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: kolik je doktorské stipendium?
+Vygenerovaná odpověď modelem: Základní měsíční částka nárokové složky doktorského stipendia na Fakultě informatiky a statistiky (FIS) Vysoké školy ekonomické v Praze činí 8 000 Kč. Po úspěšném složení státní doktorské zkoušky se tato částka zvyšuje o 1 000 Kč měsíčně. Takže celková výše doktorského stipendia se může lišit v závislosti na úspěšnosti doktoranda a jeho aktivity na katedře a fakultě.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 1.00119364
+Maximální skóre podobnosti: 1.00119364
+Spotřeba tokenů: 569
+Spotřeba tokenů - Vstupní (prompt): 397
+Spotřeba tokenů - Výstupní (completion): 172
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízí FIS?
+Vygenerovaná odpověď modelem: FIS nabízí následující magisterské programy:
+- Aplikovaná datová analytika a umělá inteligence
+- Ekonometrie a operační výzkum
+- Ekonomická demografie
+- Statistika
+- Znalostní a webové technologie
+- Data & Business (Information Systems Management)
+- Master in Official Statistics (Economic Data Analysis)
+- Data Analysis and Modelling (Economic Data Analysis)
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.899679661
+Maximální skóre podobnosti: 0.899679661
+Spotřeba tokenů: 365
+Spotřeba tokenů - Vstupní (prompt): 254
+Spotřeba tokenů - Výstupní (completion): 111
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: seznam datových programů
+Vygenerovaná odpověď modelem: Seznam datových magisterských programů:
+- Aplikovaná datová analytika a umělá inteligence
+- Ekonometrie a operační výzkum
+- Ekonomická demografie
+- Statistika
+- Znalostní a webové technologie
+- Data & Business (Information Systems Management)
+- Master in Official Statistics (Economic Data Analysis)
+- Data Analysis and Modelling (Economic Data Analysis)
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.876783073
+Maximální skóre podobnosti: 0.876783073
+Spotřeba tokenů: 500
+Spotřeba tokenů - Vstupní (prompt): 395
+Spotřeba tokenů - Výstupní (completion): 105
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: vzor testů
+Vygenerovaná odpověď modelem: Vzorové testy Obecných studijních předpokladů (OSP) pro přípravu na přijímací řízení do bakalářských programů jsou k dispozici na webových stránkách společnosti Scio. Pro magisterské programy vzorové testy nejsou k dispozici. Na magisterský obor Kognitivní informatika se testy nekonají; přijímací zkouška probíhá formou ústního pohovoru.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.925816774
+Maximální skóre podobnosti: 0.925816774
+Spotřeba tokenů: 689
+Spotřeba tokenů - Vstupní (prompt): 549
+Spotřeba tokenů - Výstupní (completion): 140
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké jsou požadavky na přijetí do bakalářského programu?
+Vygenerovaná odpověď modelem: Pro přijetí do bakalářského programu na Fakultě informatiky a statistiky je nutné mít ukončené středoškolské vzdělání s maturitní zkouškou. Uchazeči dále skládají přijímací zkoušku formou testu Obecných studijních předpokladů (OSP) v rámci Národních srovnávacích zkoušek organizovaných společností Scio. V některých případech může být přijímací zkouška prominuta na základě vynikajících studijních výsledků ze střední školy nebo úspěchů v soutěžích.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.908678472
+Maximální skóre podobnosti: 0.908678472
+Spotřeba tokenů: 502
+Spotřeba tokenů - Vstupní (prompt): 295
+Spotřeba tokenů - Výstupní (completion): 207
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Do kdy mám podat přihlášku?
+Vygenerovaná odpověď modelem: Do kdy máte podat přihlášku závisí na typu programu, do kterého se chcete přihlásit. Pro bakalářské a magisterské programy na Fakultě informatiky a statistiky je nutné podat přihlášku do 30. 4. 2025. Pro doktorské programy je termín podání přihlášky stanoven na 9. 12. 2024. Pro MBA programy přijímáme přihlášky pro akademický rok 2025.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.94370234
+Maximální skóre podobnosti: 0.94370234
+Spotřeba tokenů: 594
+Spotřeba tokenů - Vstupní (prompt): 452
+Spotřeba tokenů - Výstupní (completion): 142
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: cena za semestr
+Vygenerovaná odpověď modelem: Cena za semestr studia v anglickém jazyce na Fakultě informatiky a statistiky je 2 500 EUR.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.947230101
+Maximální skóre podobnosti: 0.947230101
+Spotřeba tokenů: 780
+Spotřeba tokenů - Vstupní (prompt): 747
+Spotřeba tokenů - Výstupní (completion): 33
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Jaké magisterské programy nabízíte a jaké jsou podmínky pro přijetí?
+Vygenerovaná odpověď modelem: Fakulta informatiky a statistiky nabízí následující magisterské programy:
+1. Aplikovaná datová analytika a umělá inteligence
+2. Ekonometrie a operační výzkum
+3. Ekonomická demografie
+4. Statistika
+5. Znalostní a webové technologie
+6. Data & Business (Information Systems Management)
+7. Master in Official Statistics (Economic Data Analysis)
+8. Data Analysis and Modelling (Economic Data Analysis)
+
+Podmínky pro přijetí se mohou lišit v závislosti na konkrétním programu. Pro detailní informace o podmínkách pro přijetí do jednotlivých magisterských programů doporučuji kontaktovat příslušné oddělení na Fakultě informatiky a statistiky.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.883123
+Maximální skóre podobnosti: 0.883123
+Spotřeba tokenů: 483
+Spotřeba tokenů - Vstupní (prompt): 267
+Spotřeba tokenů - Výstupní (completion): 216
+
+--------------------------------------------------
+
+Původní uživatelský dotaz: Můsí mít cizinec při přijetí potvrzení o znalosti českého jazyka, pokud ano, na jaké úrovni?
+Vygenerovaná odpověď modelem: Ano, cizinec musí mít potvrzení o znalosti českého jazyka na úrovni minimálně B2 podle Společného evropského referenčního rámce pro jazyky (CEFR) pro bakalářské studium na FIS. Pro magisterské studium musí cizinec úspěšně složit zkoušku z českého jazyka organizovanou Katedrou anglického jazyka VŠE a dosáhnout alespoň 60 % bodů.
+Verze experimentu: 2c
+Minimální skóre podobnosti: 0.914571166
+Maximální skóre podobnosti: 0.914571166
+Spotřeba tokenů: 527
+Spotřeba tokenů - Vstupní (prompt): 384
+Spotřeba tokenů - Výstupní (completion): 143
+
+--------------------------------------------------
+
