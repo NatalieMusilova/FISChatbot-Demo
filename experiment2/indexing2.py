@@ -1,3 +1,6 @@
+#pip install openai==0.28
+#pip install pinecone-client
+
 import json
 import re
 import requests
