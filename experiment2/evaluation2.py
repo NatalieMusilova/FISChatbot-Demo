@@ -40,7 +40,7 @@ for block in txt_df["text"]:
         elif line.startswith("Spotřeba tokenů - Vstupní (prompt):"):
             current_experiment["Vstupní spotřeba tokenů"] = int(line.replace("Spotřeba tokenů - Vstupní (prompt): ", "").strip())
         elif line.startswith("Spotřeba tokenů - Výstupní (completion):"):
-            current_experiment["Výstupní potřeba tokenů"] = int(line.replace("Spotřeba tokenů - Výstupní (completion): ", "").strip())
+            current_experiment["Výstupní spotřeba tokenů"] = int(line.replace("Spotřeba tokenů - Výstupní (completion): ", "").strip())
 
     # Po zpracování celého bloku přidáme experiment do seznamu a resetujeme current_experiment
     if current_experiment:
@@ -57,7 +57,7 @@ version_summary = structured_df.groupby("Verze experimentu").agg(
     Count_of_Occurrences=("Verze experimentu", "size"),
     Total_Token_Consumption=("Spotřeba tokenů", "sum"),
     Total_Token_Prompt=("Vstupní spotřeba tokenů", "sum"),
-    Total_Token_Completion=("Výstupní potřeba tokenů", "sum"),
+    Total_Token_Completion=("Výstupní spotřeba tokenů", "sum"),
     Total_Response_Characters=("Response Character Count", "sum"),
     Avg_Max_Similarity_Score=("Maximální skóre podobnosti", "mean"),
     Avg_Min_Similarity_Score=("Minimální skóre podobnosti", "mean")
