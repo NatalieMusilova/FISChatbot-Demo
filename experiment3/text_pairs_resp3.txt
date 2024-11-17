@@ -1,0 +1,191 @@
+[
+    {
+        "question": "Distanční studium; program, který lze studovat distančně? distanční programy; distanční formy studia",
+        "metadata": {
+            "chunk_text": "Na FIS na magisterské úrovni je dostupný distanční program Podniková informatika.",
+	        "metadata_field_name": "text_response"
+        }
+    },
+    {
+        "question": "co můžu u vás studovat; Jaké obory u vás můžu studovat; Co všechno se dá u vás studovat; Jaké studijní programy nabízíte; Jaké možnosti studia u vás jsou; Které obory máte k dispozici; Jaká je nabídka vašich studijních programů; Co si můžu u vás vybrat za obor",
+        "metadata": {
+            "chunk_text": "Fakulta informatiky a statistiky nabízí široké spektrum studijních možností. K dispozici jsou bakalářské, magisterské, doktorské a MBA programy, které je možné studovat jak v českém, tak anglickém jazyce. Formy studia zahrnují prezenční i distanční programy.",
+            "metadata_field_name": "text_response"
+        }
+    },
+    {
+        "question": "požadavky na přijetí do bakalářského; přijetí na bakaláře",
+        "metadata": {
+            "chunk_text": "Pro přijetí do bakalářského programu na FIS je nutné mít ukončené středoškolské vzdělání s maturitní zkouškou. Uchazeči skládají přijímací zkoušku formou testu Obecných studijních předpokladů (OSP) v rámci Národních srovnávacích zkoušek organizovaných společností Scio. V některých případech může být přijímací zkouška prominuta na základě vynikajících studijních výsledků ze střední školy nebo úspěchů v soutěžích.",
+            "metadata_field_name": "text_response"
+        }
+    },
+    {
+        "question": "požadavky na přijetí do magisterského; přijetí na magistra",
+        "metadata": {
+            "chunk_text": "Pro přijetí do magisterského programu na FIS je nutné řádně ukončit studium alespoň v bakalářském studijním programu. Dále je potřeba úspěšně složit přijímací zkoušku z odborného předmětu, pokud není splněno prominutí této zkoušky na základě předem daných podmínek.",
+            "metadata_field_name": "text_response"
+        }
+    },
+    {
+        "question": "možnost prominutí přijímací zkoušky na bakaláře, bakalářského studia; prominutí přijímací zkoušky na bc",
+        "metadata": {
+            "chunk_text": "Uchazeč o bakalářské studium může požádat o prominutí přijímací zkoušky, pokud do 30. 4. 2025 doloží požadovaný průměr známek písemnou žádostí nebo katalogovým listem.",
+            "metadata_field_name": "text_response"
+        }
+     },
+    {
+        "question": "informace k přijetí",
+        "metadata": {
+            "chunk_text": "Pro získání informací k přijetí na Fakultu informatiky a statistiky můžete navštívit oficiální webové stránky fakulty https://fis.vse.cz. Zde naleznete podrobnosti o požadavcích na přijetí, termínech a podmínkách pro bakalářské i magisterské programy. Konkrétní informace o přijímacím řízení pro magisterské programy najdete zde: https://fis.vse.cz/magisterske-studium/prijimaci-rizeni/ a pro bakalářské programy zde: https://fis.vse.cz/bakalarske-studium/prijimaci-rizeni/",
+            "metadata_field_name": "text_response"
+        }
+     },
+    {
+        "question": "jak se k vam dostat",
+        "metadata": {
+            "chunk_text": "Pro přijetí na Fakultu informatiky a statistiky je nutné splnit požadavky přijímacího řízení. Pro bakalářské studium je třeba mít ukončené středoškolské vzdělání a absolvovat přijímací zkoušky, které zahrnují test Obecných studijních předpokladů (OSP) organizovaný společností Scio. Pro magisterské studium je nutné mít dokončené bakalářské vzdělání a složit přijímací zkoušku z odborného předmětu, pokud není prominuta na základě předem stanovených podmínek.",
+            "metadata_field_name": "text_response"
+        }
+    },
+    {
+        "question": "požadavky na přijetí",
+        "metadata": {
+            "chunk_text": "Pro přijetí na Fakultu informatiky a statistiky je nutné splnit požadavky přijímacího řízení. Pro bakalářské studium je třeba mít ukončené středoškolské vzdělání a absolvovat přijímací zkoušky, které zahrnují test Obecných studijních předpokladů (OSP) organizovaný společností Scio. Pro magisterské studium je nutné mít dokončené bakalářské vzdělání a složit přijímací zkoušku z odborného předmětu, pokud není prominuta na základě předem stanovených podmínek.",
+            "metadata_field_name": "text_response"
+        }
+    },
+    {
+        "question": "možnost prominutí přijímací zkoušky na bakaláře, bakalářského studia; prominutí přijímací zkoušky na bc",
+        "metadata": {
+            "chunk_text": "Uchazeč o bakalářské studium může požádat o prominutí přijímací zkoušky, pokud do 30. 4. 2025 doloží požadovaný průměr známek písemnou žádostí nebo katalogovým listem.",
+            "metadata_field_name": "text_response"
+        }
+    },
+    {
+        "question": "možnost prominutí přijímací zkoušky na magistra, magisterského studia; prominutí přijímací zkoušky na mgr",
+        "metadata": {
+            "chunk_text": "Přijímací zkouška do navazujícího magisterského studia může být prominuta za splnění následujících podmínek: pokud jste Absolvent bakalářského studia na FIS VŠE a splňujete následující podmínky: 1.Úspěšné ukončení bakalářského studia na FIS ve stejné oblasti vzdělávání, do které podáváte přihlášku na magisterské studium, a dosažení titulu Bc. nejpozději v 6. semestru studia; 2.V průběhu tohoto bakalářského studia nebyly přiděleny dodatečné kreditové poukázky; 3.Po skončení pátého semestru studia v bakalářském programu průměrný prospěch do 2,00 včetně.\nPokud jste Absolvent bakalářského studia s vyznamenáním z jiných fakult VŠE nebo jiných vysokých škol a požádáte o prominutí přijímací zkoušky nejpozději do 13. června 2025\nPoznámky: Přijímací zkouška nemůže být prominuta, pokud jste absolventem oboru a programu Multimédia v ekonomické praxi, programu Data Analytics ani pokud jste uchazečem o studium v programech Aplikovaná datová analytika a umělá inteligence, Informační systémy a technologie a Podniková informatika; Žádost o prominutí přijímací zkoušky lze podat pouze na jeden program.",
+            "metadata_field_name": "text_response"
+        }
+    },
+    {
+        "question": "Do kdy mám podat přihlášku, termín, poslední den podání příhlášky",
+        "metadata": {
+            "chunk_text": "Pro bakalářské a magisterské programy na Fakultě informatiky a statistiky je nutné podat přihlášku do 30. 4. 2025. Pro doktorské programy je termín podání přihlášky stanoven na 9. 12. 2024. Pro MBA programy přijímáme přihlášky pro akademický rok 2025.",
+            "metadata_field_name": "text_response"
+        }
+    },
+    {
+        "question": "přihláška na bc.; přihláška na bakaláře, přihlásit se do bakalářského studia",
+        "metadata": {
+            "chunk_text": "Přihlášku do bakalářského programu na FIS lze podat přes univerzitní informační systém na webu https://prihlasky.vse.cz. V každém kole přijímacího řízení lze podat pouze jednu přihlášku. V přihlášce lze uvést až tři studijní programy v pořadí podle preferencí uchazeče, přičemž pořadí je závazné a nelze je později měnit. Uvedení druhého a třetího programu není povinné. Poplatek za podání přihlášky činí 960 Kč.",
+            "metadata_field_name": "text_response"
+        }
+    },
+    {
+        "question": "přihláška na mgr.; přihláška na magistra, přihlásit se do magisterského studia",
+        "metadata": {
+            "chunk_text": "Přihlášku do magisterského programu na FIS lze podat přes univerzitní informační systém na webu https://prihlasky.vse.cz. Na každý program je nutné podat samostatnou přihlášku a za každou uhradit poplatek 960 Kč. U programu Informační systémy a technologie lze podat maximálně dvě přihlášky, v každé s uvedením jedné preferované specializace.",
+            "metadata_field_name": "text_response"
+        }
+    },
+    {
+        "question": "Kdy se koná přijímací zkouška; termín přijímací zkouška; datum přijímaček; den, kdy budou přijímačeky",
+        "metadata": {
+            "chunk_text": "Přijímací zkoušky se konají v různých termínech podle jednotlivých studijních programů. Například pro magisterské studium se přijímací zkouška koná 23. až 25. 6. 2025. Pro bakalářské programy jsou uznávané termíny testů Obecných studijních předpokladů (OSP) od společnosti Scio následující: 7. 12. 2024, 13. 1. 2025, 1. 2. 2025, 1. 3. 2025, 29. 3. 2025, 26. 4. 2025 a 17. 5. 2025. Pro doktorské studium je termín přijímací zkoušky stanoven na 30. 1. 2025.",
+            "metadata_field_name": "text_response"
+        }
+    },
+    {
+        "question": "vzor testů, jak vypadají cesty, vzorové testy",
+        "metadata": {
+            "chunk_text": "Přijímací zkoušky na Fakultu informatiky a statistiky se liší podle typu programu. Pro bakalářské programy uchazeči skládají test Obecných studijních předpokladů (OSP), organizovaný společností Scio. Pro magisterské programy se přijímací zkouška skládá z testu odborných znalostí. Na obor Kognitivní informatika zkouška probíhá formou ústního pohovoru a zahrnuje i motivační část. Přijímací řízení do doktorských programů zahrnuje odbornou a jazykovou zkoušku.",
+            "metadata_field_name": "text_response"
+        }
+    },
+   {
+        "question": "Chci vědět víc o přijímacích zkouškách",
+        "metadata": {
+            "chunk_text": "Přijímací zkoušky na Fakultu informatiky a statistiky se liší podle typu programu. Pro bakalářské programy uchazeči skládají test Obecných studijních předpokladů (OSP), organizovaný společností Scio. Pro magisterské programy se přijímací zkouška skládá z testu odborných znalostí. Na obor Kognitivní informatika zkouška probíhá formou ústního pohovoru a zahrnuje i motivační část. Přijímací řízení do doktorských programů zahrnuje odbornou a jazykovou zkoušku.",
+            "metadata_field_name": "text_response"
+        }
+    },
+    {
+        "question": "podmínky přijímacího řízení na obor UX výzkum a design",
+        "metadata": {
+            "chunk_text": "Pro přijetí do magisterské specializace UX výzkum a design na FIS je nutné ukončené bakalářské vzdělání a úspěšné složení přijímací zkoušky z odborného předmětu, která zahrnuje okruhy: současné trendy UX designu softwaru, Design Thinking při tvorbě softwaru, uživatelský výzkum.",
+            "metadata_field_name": "text_response"
+        }
+    },
+    {
+        "question": "podmínky pro zahraniční studenty; podmínky přijetí pro cizince, lze studovat, když není čech; jsem s ciziny",
+        "metadata": {
+            "chunk_text": "Zahraniční studenti, kteří se chtějí hlásit na FIS, musí splňovat stejné akademické požadavky jako domácí uchazeči. Přijímací řízení zahrnuje testy nebo pohovory podle konkrétního programu.  Uchazeči o studium v anglickém jazyce musí doložit dostatečnou znalost angličtiny a uhradit školné za studium v anglickém jazyce. Uchazeči o studium v češtině, kteří nejsou rodilými mluvčími nebo nemají předchozí vzdělání v českém či slovenském jazyce, musí prokázat dostatečnou znalost češtiny. V případě podání přihlášky ke studiu ve studijním programu v českém jazyce se také platí poplatek 960 Kč za posouzení zahraničního středoškolského nebo vysokoškolského vzdělání.",
+            "metadata_field_name": "text_response"
+        }
+    },
+   {
+        "question": "Jak dostanu vizum? získat vizum; žádost o vízum ",
+        "metadata": {
+            "chunk_text": "Pro získání víza ke studiu v České republice je nutné být přijat ke studiu a následně co nejdříve zahájit proces žádosti o vízum. Doba vyřízení víza může trvat až 60 dnů od podání žádosti. Je důležité mít připraveny všechny potřebné dokumenty a včas si sjednat termín na zastupitelském úřadě České republiky. Můžete žádat buď o dlouhodobé vízum za účelem studia, nebo o povolení k dlouhodobému pobytu za účelem studia.",
+            "metadata_field_name": "text_response"
+        }
+    },
+    {
+        "question": "Jak mohu získat stipendium? Jaké jsou typy stipendií? dosáhnout na stipendium",
+        "metadata": {
+            "chunk_text": "Na Fakultě informatiky a statistiky existuje několik typů stipendií, včetně prospěchových, sociálních a mimořádných stipendií. Prospěchové stipendium mohou získat studenti s vynikajícími studijními výsledky, sociální stipendium je určeno studentům v obtížné finanční situaci a mimořádné stipendium může být uděleno na základě konkrétní žádosti, například za výjimečné studijní nebo vědecké výsledky. Zvláštní stipendia jsou také dostupná pro studenty, kteří se účastní zahraničních studijních pobytů. Podmínky a postup pro žádost o jednotlivá stipendia jsou uvedeny ve Stipendijním řádu VŠE, dostupném na adrese https://www.vse.cz/predpisy/stipendijni-rad-vse/.",
+            "metadata_field_name": "text_response"
+        }
+    },
+    {
+        "question": "kolik stoji školné, kdyz je mi nad 26 let? musím platit za studium, když je mi více než 26 let?",
+        "metadata": {
+            "chunk_text": "Na FIS věk nad 26 let nemá vliv na výši školného nebo poplatků za studium. Studium v českém jazyce je bezplatné, pokud nepřekročí standardní dobu studia zvětšenou o jeden rok. Po překročení této doby je poplatek 27 000 Kč za každých započatých 6 měsíců. Dále je zpoplatněno studium v anglickém jazyce částkou 5 000 EUR za akademický rok (2 500 EUR za semestr) a také studium v programu MBA.",
+            "metadata_field_name": "text_response"
+        }
+    },
+    {
+        "question": "cena za semestr; školné",
+        "metadata": {
+            "chunk_text": "Na Fakultě informatiky a statistiky se výše školného liší podle typu studijního programu a jazyka výuky. Studium v českém jazyce je bezplatné, pokud student nepřekročí standardní dobu studia zvětšenou o jeden rok. Po překročení této doby se platí poplatek 27 000 Kč za každých započatých 6 měsíců studia. Studium v anglickém jazyce má školné ve výši 5 000 EUR za akademický rok, tedy 2 500 EUR za semestr. Pro MBA programy činí celkové školné za celé studium v programu MBA Data & Analytics for Business Management 280 000 Kč při platbě celé částky předem, a v programu MBA IT Management & Business Transformation 15 000 EUR.",
+            "metadata_field_name": "text_response"
+        }
+    },
+    {
+        "question": "Manipulační poplatek za každou přihlášku; kolik stojí přihláška?",
+        "metadata": {
+            "chunk_text": "Manipulační poplatek za podání přihlášky na FIS činí 960 Kč.",
+            "metadata_field_name": "text_response"
+        }
+    },
+    {
+        "question": "jak dosáhnout na ubytovací stipendium, získat ubytovací stipendium",
+        "metadata": {
+            "chunk_text": "Pro získání ubytovacího stipendia je nutné splnit několik podmínek uvedených ve Stipendijním řádu VŠE. Student musí být studujícím programu v prezenční formě studia, nesmí pobírat ubytovací stipendium na jiné vysoké škole, a musí studovat ve standardní době studia. Dále je třeba mít trvalý pobyt mimo místo Prahu.  Žádost se podává elektronicky prostřednictvím integrovaného studijního informačního systému (InSIS) pouze jednou, když student žádá o přiznání stipendia poprvé. Pro další informace kontaktujte paní Kristinu Kurišovou, která má na starosti ubytovací stipendia na VŠE.",
+            "metadata_field_name": "text_response"
+        }
+    },
+    {
+        "question": "získat sociální stipendium",
+        "metadata": {
+            "chunk_text": "Sociální stipendium na Vysoké škole ekonomické v Praze přiznává rektor studentům, kteří splní podmínky podle § 91 odst. 3 zákona o vysokých školách. Stipendium je vypláceno od prvního dne kalendářního měsíce, kdy student podá žádost, a je přiznáno na celý akademický rok, s výjimkou měsíců srpen a září, kdy stipendium nenáleží. Žádost je nutné podat do konce října přes informační systém InSIS. Pokud nárok na stipendium vznikne až po zápisu do studia, je možné žádost podat kdykoli během roku. Výplata stipendia probíhá bankovním převodem a zpravidla se realizuje zpětně se zpožděním tří měsíců. Přerušení studia ovlivňuje nárok na stipendium – pokud má student přerušeno studium po celý kalendářní měsíc, stipendium za tento měsíc nenáleží.",
+            "metadata_field_name": "text_response"
+        }
+    },
+    {
+        "question": "kolik je doktorské stipendium?",
+        "metadata": {
+            "chunk_text": "Na Fakultě informatiky a statistiky (FIS) Vysoké školy ekonomické v Praze činí základní měsíční částka nárokové složky doktorského stipendia 8 000 Kč. Po úspěšném složení státní doktorské zkoušky se tato částka zvyšuje o 1 000 Kč měsíčně. Nároková složka stipendia je vyplácena měsíčně po dobu standardní doby studia, maximálně po dobu 4 let, a je osvobozena od daně. Kromě nárokové složky mohou doktorandi získat také nenárokové stipendium na základě jejich aktivity na katedře a fakultě, například účastí v programu „Podpora disertačního výzkumu“, který nabízí navýšení stipendia až o 10 000 Kč měsíčně na dobu 6 měsíců, s možností opakování během celé standardní doby studia.",
+            "metadata_field_name": "text_response"
+        }
+    },
+    {
+        "question": "Zkouška z češtiny pro cizince; úroven znalosti českého jazyka, kterou musí mít cizinec, student s ciziny; potvrzení o znalosti českého jazyka",
+        "metadata": {
+            "chunk_text": "Způsob prokazování znalosti češtiny při přihlášení na studium na FIS závisí na úrovni programu, na který se uchazeč hlásí. U bakalářského studia je nutné doložit znalost češtiny minimálně na úrovni B2 podle Společného evropského referenčního rámce pro jazyky (CEFR), a to prostřednictvím certifikátu nebo jiného odpovídajícího dokladu. Pro magisterský stupeň je vyžadována zkouška z českého jazyka organizovaná Katedrou anglického jazyka.",
+            "metadata_field_name": "text_response"
+        }
+    }   
+]
