@@ -10,7 +10,7 @@ Pro ukládání a rychlé vyhledávání informací je využívána vektorová d
 Chatbot čerpá z veřejně dostupných informací, především z webových stránek fakulty, aby mohl poskytovat aktuální a relevantní odpovědi na dotazy týkající se studijních programů, přijímacích řízení, stipendií a kariérních možností.
 
 ## Cíl projektu:
-Hlavním cílem diplomové práce je zkoumat možnosti, jak snížit náklady na jeho provoz a současně zlepšit kvalitu poskytovaných odpovědí. Projekt testuje, jak efektivně může chatbot pracovat s různými typy dotazů a jak dobře dokáže udržovat kontext v delších konverzacích.
+Hlavním cílem diplomové práce je zkoumat možnosti, jak snížit náklady na jeho provoz a současně zlepšit kvalitu poskytovaných odpovědí.
 - Každá experimentální verze chatbota má svou vlastní složku, například experiment1/, experiment2/ a podobně. Každá z těchto složek obsahuje samostatný kód a související dokumentaci.
 - README.md soubory ve složkách experimentů poskytují podrobnosti o každé verzi chatbota, včetně implementovaných funkcí a technických specifikací.
 
