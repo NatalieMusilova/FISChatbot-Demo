@@ -12,11 +12,9 @@ openai.api_key = st.secrets["OPENAI_API_KEY"]
 # Inicializace Pinecone
 pinecone.init(
     api_key=st.secrets["PINECONE_API_KEY"],
-    host="https://fischatbot-16de6d9.svc.aped-4627-b74a.pinecone.io"
+    host="fischatbot-16de6d9.svc.aped-4627-b74a.pinecone.io"
 )
-# Ověř název indexu přes list_indexes()
-index_name = pinecone.list_indexes()[0]  # vezmeme první název v seznamu
-index = pinecone.Index(index_name)
+index = pinecone.Index("fischatbot")
 
 # Inicializace session_state proměnných
 if 'history' not in st.session_state:
