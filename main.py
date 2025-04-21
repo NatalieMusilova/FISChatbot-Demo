@@ -1,7 +1,7 @@
 #pip install openai==0.28
 #pip install pinecone-client
 import openai
-from pinecone import Pinecone
+import pinecone
 import streamlit as st
 from datetime import datetime
 
@@ -9,7 +9,10 @@ from datetime import datetime
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
 # Inicializace Pinecone
-pc = Pinecone(api_key=st.secrets["PINECONE_API_KEY"])
+pinecone.init(
+    api_key=st.secrets["PINECONE_API_KEY"],
+    environment="us-east-1-aws"  #
+)
 index = pc.Index("fischatbot")
 
 def get_embedding(text):
