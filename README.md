@@ -1,7 +1,7 @@
 # FISChatbot-Demo
-## Popis projektu
+## 🤖Popis projektu
 Tento chatbot je součástí mé diplomové práce a jeho hlavním účelem je optimalizace nákladů na provoz a zlepšení kvality odpovědí poskytovaných zájemcům o studium na Fakultě informatiky a statistiky (FIS). Chatbot využívá moderní technologie a inovativní přístupy ke správě dotazů a zpracování odpovědí.
-## Použité technologie:
+## 🛠️  Použité technologie:
 ### RAG (Retrieval-Augmented Generation) architektura
 Chatbot využívá tuto architekturu pro efektivní kombinaci vyhledávání relevantních informací a generování odpovědí. Tento přístup umožňuje chatbotovi poskytovat přesnější a rychlejší odpovědi tím, že propojuje vyhledávání v databázích s generováním odpovědí pomocí jazykových modelů.
 ### Vektorová databáze
@@ -36,3 +36,6 @@ Kód je rozdělen tak, aby každá verze mohla být testována a analyzována ne
 - [Experiment 3](experiment3/README.md) – Popis experimentální verze 3.
 
   Podrobné výsledky experimentů jsou dostupné v diplomové práci v kapitole 5.
+
+  ## 🚀 Finální verze a spuštění
+  Nejlepší a nejlépe fungující verze chatbota je implementována ve skriptu main.py. Tato verze kombinuje všechny poznatky získané během experimentování a optimalizací v jednotlivých verzích.
