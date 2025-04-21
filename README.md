@@ -48,22 +48,24 @@ Projekt je napsán v jazyce Python a využívá následující klíčové knihov
 
 ### Co dělá tento kód?
 
-1. **Zpracuje dotaz uživatele:**  
-   Nejprve vezme to, co uživatel napsal, a převede to na speciální číselnou podobu (tzv. „embedding“), aby mohl najít podobné texty v databázi.
+Tento chatbot při každém uživatelském dotazu postupuje podle několika kroků, které mu umožňují nalézt co nejpřesnější odpověď a zároveň minimalizovat náklady:
 
-2. **Vyhledávání odpovědi:**  
-   Systém nejprve porovnává uživatelský dotaz s vektory označenými příznakem text_response. Tyto vektory obsahují nejčastější otázky a jejich předpřipravené odpovědi. Pokud je nalezen vektor s podobností (skóre) ≥ 0.9, systém neprovádí generování, ale přímo použije odpověď z metadat daného vektoru. Tento přístup šetří tokeny a zajišťuje rychlou reakci na běžné dotazy.
+1. **Zpracování dotazu**  
+   Nejprve chatbot převede zadaný dotaz na číselnou reprezentaci (tzv. embedding), aby bylo možné porovnávat jeho podobnost s texty uloženými ve vektorové databázi.
 
-3. **Pokud není nalezen žádný vektor s příznakem text_response:**  
-   Retriever pokračuje a hledá odpověď mezi vektory označenými příznakem text_query. Tyto vektory reprezentují tematické otázky a úseky textu, které mohou odpověď obsahovat. Systém vybírá ty, které mají skóre ≥ 0.82, přičemž se vybírají 2 nejbližší výsledky.
+2. **Rychlá odpověď z databáze častých otázek**  
+   Následně se chatbot pokusí najít odpověď mezi předem připravenými odpověďmi na nejčastější otázky. Pokud je nalezena velmi podobná shoda (skóre ≥ 0.9), zobrazí tuto odpověď okamžitě – bez nutnosti generování nového textu. Tento postup šetří výpočetní zdroje a poskytuje rychlou reakci.
 
-4. **Generování odpovědi:**  
-   Pokud byly nalezeny vhodné texty z text_query, předá se jejich obsah generátoru (jazykovému modelu GPT-3.5), který vytvoří odpověď přizpůsobenou uživatelskému dotazu​.
+3. **Hledání tematicky podobných textů**  
+   Pokud v databázi častých otázek není nalezena vhodná odpověď, chatbot hledá mezi textovými úseky (označenými jako `text_query`) ty, které mají dostatečnou tematickou podobnost (skóre ≥ 0.8). Tyto texty jsou následně použity jako kontext pro generování odpovědi.
 
-5. **Pokud není nalezen žádný vektor s dostatečnou podobností:**  
-   Uživatel dostane zprávu, že momentálně nejsou k dispozici žádná relevantní data.  
-   Chatbot si takový dotaz **uloží do dočasné paměti**, aby bylo možné jej stáhnout jako součást souboru `unanswered_log.txt`.  
-   > 🎓 V rámci této diplomové práce jde o demonstraci funkčnosti — v ostrém provozu by tyto dotazy bylo možné předat systému **Aphinit** k pozdějšímu zpracování.
+4. **Generování odpovědi pomocí AI**  
+   Na základě nalezených textů vytvoří jazykový model (GPT-3.5) odpověď, která odpovídá položenému dotazu a zároveň vychází z informací obsažených ve znalostní bázi.
+
+5. **Situace, kdy není nalezena žádná relevantní odpověď**  
+   Pokud se nepodaří najít žádný vhodný text, chatbot informuje uživatele, že v danou chvíli nejsou k dispozici žádné relevantní informace.  
+   Dotaz je uložen do dočasné paměti a může být na konci relace exportován jako soubor `unanswered_log.txt`.  
+   > 🎓 Tato funkce slouží pouze k demonstraci v rámci diplomové práce – v ostrém provozu by bylo možné nevyřešené dotazy předávat např. systému **Aphinit**.
 
 6. **Záznam a uložení informací o odpovědi**  
    Chatbot si pro každý dotaz pamatuje:
@@ -91,5 +93,5 @@ Chatbot je dostupný v cloudu a lze jej snadno vyzkoušet na následující adre
 
 👉 [https://fischatbot-demo-jwzn5dmvwvjdoup5yosrac.streamlit.app/](https://fischatbot-demo-jwzn5dmvwvjdoup5yosrac.streamlit.app/)
 
-Tato verze slouží k demonstračním účelům v rámci diplomové práce a představuje praktickou ukázku možností architektury Retrieval-Augmented Generation (RAG) v akademickém prostředí.
+Tato verze slouží k demonstračním účelům v rámci diplomové práce a představuje praktickou ukázku možností architektury Retrieval-Augmented Generation (RAG).
 
