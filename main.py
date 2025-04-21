@@ -165,8 +165,11 @@ st.markdown("&nbsp;")
 with st.expander("ℹ️ Informace o chatbotovi, bezpečnosti a dostupných tématech"):
     st.markdown("""
 
-    🤖 **Chatbot je určen k odpovídání na dotazy týkající se informací o studiu na Fakultě informatiky a statistiky VŠE v Praze.**  
-    Jeho znalosti jsou omezeny na předem definovaná témata.
+    🤖 Tento chatbot odpovídá na dotazy o studiu na Fakultě informatiky a statistiky VŠE v Praze.  
+    Znalosti čerpá z omezeného množství textových informací vložených do systému.
+
+    🧪 V rámci diplomové práce je zde testována metoda RAG (Retrieval-Augmented Generation), přičemž sledujeme, kolik tokenů spotřebuje a jak přesně odpovídá.
+
 
     ---
     
