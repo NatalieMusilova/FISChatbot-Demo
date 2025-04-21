@@ -37,5 +37,5 @@ Kód je rozdělen tak, aby každá verze mohla být testována a analyzována ne
 
   Podrobné výsledky experimentů jsou dostupné v diplomové práci v kapitole 5.
 
-  ## 🚀 Finální verze a spuštění
-  Nejlepší a nejlépe fungující verze chatbota je implementována ve skriptu main.py. Tato verze kombinuje všechny poznatky získané během experimentování a optimalizací v jednotlivých verzích.
+## 🚀 Finální verze a spuštění
+Nejlepší a nejlépe fungující verze chatbota je implementována ve skriptu main.py. Tato verze kombinuje všechny poznatky získané během experimentování a optimalizací v jednotlivých verzích.
