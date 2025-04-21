@@ -48,21 +48,26 @@ Projekt je napsán v jazyce Python a využívá následující klíčové knihov
 
 ### Co dělá tento kód
 
-1. **Zpracuje dotaz uživatele**  
+1. **Zpracuje dotaz uživatele:**  
    Nejprve vezme to, co uživatel napsal, a převede to na speciální číselnou podobu (tzv. „embedding“), aby mohl najít podobné texty v databázi.
 
-2. **Najde odpovídající informace**  
-   V databázi (kde jsou uloženy texty z webu fakulty) najde ty části textu, které se nejvíce podobají položené otázce.
+2. **Vyhledávání odpovědi:**  
+   Systém nejprve porovnává uživatelský dotaz s vektory označenými příznakem text_response. Tyto vektory obsahují nejčastější otázky a jejich předpřipravené odpovědi. Pokud je nalezen vektor s podobností (skóre) ≥ 0.9, systém neprovádí generování, ale přímo použije odpověď z metadat daného vektoru. Tento přístup šetří tokeny a zajišťuje rychlou reakci na běžné dotazy.
 
-3. **Vygeneruje odpověď pomocí umělé inteligence**  
-   Vybrané texty pošle jazykovému modelu (GPT-3.5), který na jejich základě vytvoří odpověď.
+3. **Pokud není nalezen žádný vektor s příznakem text_response:**  
+   Retriever pokračuje a hledá odpověď mezi vektory označenými příznakem text_query. Tyto vektory reprezentují tematické otázky a úseky textu, které mohou odpověď obsahovat. Systém vybírá ty, které mají skóre ≥ 0.82, přičemž se vybírají 2 nejbližší výsledky.
 
-4. **Zobrazí odpověď uživateli**  
-   Výsledek se okamžitě zobrazí v jednoduchém rozhraní, kde si uživatel může přečíst odpověď.
+4. **Generování odpovědi:**  
+   Pokud byly nalezeny vhodné texty z text_query, předá se jejich obsah generátoru (jazykovému modelu GPT-3.5), který vytvoří odpověď přizpůsobenou uživatelskému dotazu​.
 
-5. **Zaznamená vše pro další vyhodnocení**  
+5. **Pokud není nalezen žádný vektor s dostatečnou podobností:**  
+   Uživatel je informován, že momentálně nejsou k dispozici žádné relevantní informace k jeho dotazu.
+Chatbot si takový dotaz uloží do paměti během aktuální relace a umožní jej stáhnout ve formě textového souboru (unanswered_log.txt).
+Tato funkce slouží pouze k demonstračním účelům v rámci diplomové práce – v reálném nasazení by bylo možné tyto dotazy předat systému Aphinit pro další zpracování. 
+
+6. **Zaznamená vše pro další vyhodnocení:**  
    Chatbot si v paměti uloží dotaz, odpověď, jaké texty použil a kolik dat (tokenů) při tom spotřeboval.  
    Pokud se žádná vhodná odpověď nenajde, poznamená si to zvlášť – abych mohla později zjistit, jak chatbot zlepšit.
 
-6. **Umožní stáhnout přehled**  
+7. **Umožní stáhnout přehled:**  
    Uživatel si může kdykoliv stáhnout soubor s přehledem všech dotazů a odpovědí, případně seznam nezodpovězených otázek.
