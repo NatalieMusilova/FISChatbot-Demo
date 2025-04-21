@@ -11,9 +11,7 @@ openai.api_key = st.secrets["OPENAI_API_KEY"]
 
 # Inicializace Pinecone
 pinecone.init(
-    api_key=st.secrets["PINECONE_API_KEY"],
-    cloud="aws",
-    region="us-east-1"
+    api_key=st.secrets["PINECONE_API_KEY"]
 )
 index = pinecone.Index("fischatbot")
 
