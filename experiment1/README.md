@@ -24,15 +24,6 @@ Tato základní architektura slouží jako první krok k experimentům s optimal
 
 ![Architecture Experiment 1](./arch_exp1.png)
 
-### Příprava dat
-
-Data pro systém jsou získávána pomocí webového scrapingu. Proces zahrnuje:
-
-1. **Extrakci dat**:  
-   - Pomocí knihovny BeautifulSoup a requests v Pythonu se získává textový obsah z webových stránek.
-
-2. **Čištění dat**:  
-   - Data jsou očištěna od HTML tagů a nežádoucích znaků, aby byla připravena pro další zpracování. Používají se metody Pythonu jako `strip()`, `replace()` nebo regulární výrazy.
   
 
 ## ⚙️ Parametry testovaných verzí
@@ -64,10 +55,5 @@ V rámci testování bylo provedeno 6 variant experimentu (1a–1f), které se l
 
 Experiment pracuje s reálnými dotazy z příloh A, B a C diplomové práce. Hodnocení odpovědí bylo provedeno manuálně s ohledem na očekávané odpovědi.
 
-📁 Výsledné soubory:
-- `outputs1.txt` – obsahuje generované odpovědi
-- `chatbot_log.txt` – zaznamenává dotazy, odpovědi, skóre a použitý kontext
-- `unanswered_log.txt` – obsahuje nezodpovězené dotazy pro budoucí zpracování
-  
- ![image](https://github.com/user-attachments/assets/c69ce3b0-e5a4-42f5-857d-9ca3615b05b6)
+
 
