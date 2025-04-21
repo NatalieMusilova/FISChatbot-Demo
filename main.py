@@ -15,7 +15,7 @@ pinecone.init(
     host="https://fischatbot-16de6d9.svc.aped-4627-b74a.pinecone.io"
 )
 # Ověř název indexu přes list_indexes()
-index_name = pinecone.list_indexes()['indexes'][0]['name']
+index_name = pinecone.list_indexes()[0]  # vezmeme první název v seznamu
 index = pinecone.Index(index_name)
 
 # Inicializace session_state proměnných
