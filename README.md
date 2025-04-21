@@ -7,7 +7,7 @@ Chatbot využívá tuto architekturu pro efektivní kombinaci vyhledávání rel
 ### Vektorová databáze
 Pro ukládání a rychlé vyhledávání informací je využívána vektorová databáze, která umožňuje chatbotovi rychle nalézt relevantní části textů na základě podobnosti dotazů a existujících dokumentů.
 Zdrojem pro tyto texty jsou veřejně dostupné informace z webových stránek FIS, VŠE a dalších relevantních webů.
-Tyto texty byly následně předzpracovány, rozděleny na tematicky koherentní úseky a doplněny metadaty, což umožňuje přesné a efektivní vyhledávání při zodpovídání dotazů.
+Tyto texty byly následně předzpracovány, rozděleny na tematické úseky a doplněny metadaty, což umožňuje přesné a efektivní vyhledávání při zodpovídání dotazů.
 
 ### Jazykový model
 Pro generování odpovědí je použit model gpt-3.5-turbo prostřednictvím API od OpenAI.
@@ -19,8 +19,13 @@ Pro generování odpovědí je použit model gpt-3.5-turbo prostřednictvím API
 
 
 
-## Cíl projektu:
+## 🎯 Cíl projektu:
 Hlavním cílem diplomové práce je zkoumat možnosti, jak snížit náklady na jeho provoz a současně zlepšit kvalitu poskytovaných odpovědí.
+
+## 📁 Struktura repozitáře
+
+Tento chatbot je testován v několika experimentech, jejichž cílem je porovnat kvalitu odpovědí a náklady na tokeny u různých přístupů. Přesnost odpovědí je analyzována na základě referenční sady otázek, které jsou uložené v příloze A diplomové práce.
+
 - Každá experimentální verze chatbota má svou vlastní složku, například experiment1/, experiment2/ a podobně. Každá z těchto složek obsahuje samostatný kód a související dokumentaci.
 - README.md soubory ve složkách experimentů poskytují podrobnosti o každé verzi chatbota, včetně implementovaných funkcí a technických specifikací.
 
@@ -29,3 +34,5 @@ Kód je rozdělen tak, aby každá verze mohla být testována a analyzována ne
 - [Experiment 1](experiment1/README.md) – Popis experimentální verze 1.
 - [Experiment 2](experiment2/README.md) – Popis experimentální verze 2.
 - [Experiment 3](experiment3/README.md) – Popis experimentální verze 3.
+
+  Podrobné výsledky experimentů jsou dostupné v diplomové práci v kapitole 5.
