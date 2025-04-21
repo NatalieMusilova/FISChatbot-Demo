@@ -79,7 +79,7 @@ Experiment pracuje s reálnými dotazy z příloh A, B a C diplomové práce. Ho
   **Retriever v základní verzi nebyl dostatečně robustní**, aby tyto **strukturální nebo sémantické rozdíly** rozpoznal, což vedlo ke **ztrátě relevance** při výběru textů.
 -  **Zbytkové texty bez obsahu způsobovaly chyby při vyhledávání**  
   Při dělení textu na úseky často vznikaly velmi krátké "zbytky" na konci dokumentů, které neobsahovaly žádné důležité informace.  
-  Embedding model jim přesto přiřadil vektory, které byly **nesprávně hodnoceny jako velmi podobné uživatelskému dotazu**, protože chyběla sémantická výpověď. 🤷‍♂️  Retriever následně vybíral tyto **prázdné nebo nerelevantní texty**, což vedlo ke **snížení kvality odpovědí** generovaných modelem.
+  Embedding model jim přesto přiřadil vektory, které byly **nesprávně hodnoceny jako velmi podobné uživatelskému dotazu**, protože chyběla sémantická výpověď. 🤷‍♂️  Retriever následně vybíral tyto **prázdné nebo nerelevantní texty**, protože považoval tyto nerelevantní fragmenty za důležité.
 
 
 
