@@ -5,9 +5,13 @@ Tento chatbot je součástí mé diplomové práce a jeho hlavním účelem je o
 ### RAG (Retrieval-Augmented Generation) architektura
 Chatbot využívá tuto architekturu pro efektivní kombinaci vyhledávání relevantních informací a generování odpovědí. Tento přístup umožňuje chatbotovi poskytovat přesnější a rychlejší odpovědi tím, že propojuje vyhledávání v databázích s generováním odpovědí pomocí jazykových modelů.
 ### Vektorová databáze
-Pro ukládání a rychlé vyhledávání informací je využívána vektorová databáze, která umožňuje chatbotovi rychle nalézt relevantní části textů na základě podobnosti dotazů a existujících dokumentů. Tento přístup zvyšuje efektivitu při zpracování dotazů.
+Pro ukládání a rychlé vyhledávání informací je využívána vektorová databáze, která umožňuje chatbotovi rychle nalézt relevantní části textů na základě podobnosti dotazů a existujících dokumentů.
+Zdrojem pro tyto texty jsou veřejně dostupné informace z webových stránek Fakulty informatiky a statistiky (FIS), Vysoké školy ekonomické v Praze (VŠE) a dalších relevantních webů.
+Tyto texty byly následně předzpracovány, rozděleny na tematicky koherentní úseky a doplněny metadaty, což umožňuje přesné a efektivní vyhledávání při zodpovídání dotazů.
 
-Chatbot čerpá z veřejně dostupných informací, především z webových stránek fakulty, aby mohl poskytovat aktuální a relevantní odpovědi na dotazy týkající se studijních programů, přijímacích řízení, stipendií a kariérních možností.
+### Jazykový model
+Pro generování odpovědí je použit model gpt-3.5-turbo prostřednictvím API od OpenAI.
+
 
 ## Cíl projektu:
 Hlavním cílem diplomové práce je zkoumat možnosti, jak snížit náklady na jeho provoz a současně zlepšit kvalitu poskytovaných odpovědí.
