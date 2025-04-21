@@ -65,12 +65,14 @@ Projekt je napsán v jazyce Python a využívá následující klíčové knihov
    Chatbot si takový dotaz **uloží do dočasné paměti**, aby bylo možné jej stáhnout jako součást souboru `unanswered_log.txt`.  
    > 🎓 V rámci této diplomové práce jde o demonstraci funkčnosti — v ostrém provozu by tyto dotazy bylo možné předat systému **Aphinit** k pozdějšímu zpracování.
 
-6. **Záznam a export informací o odpovědi**  
+6. **Záznam a uložení informací o odpovědi**  
    Chatbot si pro každý dotaz pamatuje:
    - samotný dotaz a odpověď  
    - jaké texty byly použity  
    - jaká byla jejich podobnost (skóre)  
    - kolik tokenů bylo spotřebováno  
+
+   Tyto informace se ukládají do **`chatbot_log.txt`**, který si může uživatel stáhnout na konci relace.
 
 7. **Možnost stažení záznamů**  
    Uživatel si může stáhnout:
