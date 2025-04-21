@@ -77,9 +77,9 @@ Experiment pracuje s reálnými dotazy z příloh A, B a C diplomové práce. Ho
 
 - **Studenti často používají běžný hovorový jazyk** (např. *„jak se dostanu na magistra“*), zatímco **webové stránky používají formální formulace** (např. *„podmínky pro přijetí do navazujícího magisterského studia“*).  
   **Retriever v základní verzi nebyl dostatečně robustní**, aby tyto **strukturální nebo sémantické rozdíly** rozpoznal, což vedlo ke **ztrátě relevance** při výběru textů.
-- Při rozdělení textu na úseky vznikaly na konci dokumentů krátké zbytky bez smysluplného obsahu.  
-Přesto pro ně byly vytvořeny embeddingy, které měly **vysoké skóre podobnosti** s téměř jakýmkoliv dotazem – nikoliv kvůli obsahu, ale kvůli absenci informací.
+-  **Zbytkové texty bez obsahu způsobovaly chyby při vyhledávání**  
+  Při dělení textu na úseky často vznikaly velmi krátké "zbytky" na konci dokumentů, které neobsahovaly žádné důležité informace.  
+  Embedding model jim přesto přiřadil vektory, které byly **nesprávně hodnoceny jako velmi podobné uživatelskému dotazu**, protože chyběla sémantická výpověď. ⚠️ Retriever následně vybíral tyto **prázdné nebo nerelevantní texty**, což vedlo ke **snížení kvality odpovědí** generovaných modelem.
 
-  ➤ Výsledkem bylo, že retriever často vybíral **irelevantní nebo prázdné texty**, což **snižovalo kvalitu odpovědí** generovaných modelem.
 
 
