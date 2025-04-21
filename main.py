@@ -192,7 +192,15 @@ with st.expander("ℹ️ Informace o chatbotovi, bezpečnosti a dostupných tém
     - **❓ unanswered_log.txt** – dotazy, na které se nepodařilo nalézt odpověď na základě dostupných dat.
     """)
 
-
+# Stahování logů jako TXT
+if st.session_state.log:
+    st.download_button(
+        label="📄 Stáhnout log jako TXT",
+        data=io.StringIO(st.session_state.log).getvalue(),
+        file_name="chatbot_log.txt",
+        mime="text/plain"
+    )
+    
 if st.session_state.unanswered_log:
     st.download_button(
         label="❓ Stáhnout nezodpovězené dotazy",
