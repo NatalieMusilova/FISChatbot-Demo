@@ -170,7 +170,6 @@ with st.expander("ℹ️ Informace o chatbotovi, bezpečnosti a dostupných tém
 
     🧪 V rámci diplomové práce je zde testována metoda RAG (Retrieval-Augmented Generation), přičemž sledujeme, kolik tokenů spotřebuje a jak přesně odpovídá.
 
-
     ---
     
     ❗ **Chatbot v této demoverzi odpovídá na otázky v těchto oblastech:**
