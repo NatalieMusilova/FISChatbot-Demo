@@ -48,3 +48,21 @@ Projekt je napsán v jazyce Python a využívá následující klíčové knihov
 
 ### Co dělá tento kód
 
+1. **Zpracuje dotaz uživatele**  
+   Nejprve vezme to, co uživatel napsal, a převede to na speciální číselnou podobu (tzv. „embedding“), aby mohl najít podobné texty v databázi.
+
+2. **Najde odpovídající informace**  
+   V databázi (kde jsou uloženy texty z webu fakulty) najde ty části textu, které se nejvíce podobají položené otázce.
+
+3. **Vygeneruje odpověď pomocí umělé inteligence**  
+   Vybrané texty pošle jazykovému modelu (GPT-3.5), který na jejich základě vytvoří odpověď.
+
+4. **Zobrazí odpověď uživateli**  
+   Výsledek se okamžitě zobrazí v jednoduchém rozhraní, kde si uživatel může přečíst odpověď.
+
+5. **Zaznamená vše pro další vyhodnocení**  
+   Chatbot si v paměti uloží dotaz, odpověď, jaké texty použil a kolik dat (tokenů) při tom spotřeboval.  
+   Pokud se žádná vhodná odpověď nenajde, poznamená si to zvlášť – abych mohla později zjistit, jak chatbot zlepšit.
+
+6. **Umožní stáhnout přehled**  
+   Uživatel si může kdykoliv stáhnout soubor s přehledem všech dotazů a odpovědí, případně seznam nezodpovězených otázek.
