@@ -49,7 +49,7 @@ Tato základní architektura slouží jako první krok k experimentům s optimal
 
 - Výstupy experimentu (odpovědi) jsou ukládány do souboru `outputs1.txt`
 
-📊 Vizualizace výsledků je dostupná v tabulce níže.  
+📊 Vizualizace výsledků je zobrazena v tabulce níže.  
 
 ## ⚙️ Parametry testovaných verzí
 
