@@ -162,6 +162,14 @@ Jeho znalosti jsou omezeny na předem definovaná témata.
 
 query = st.text_input("Zadejte dotaz a ověřte, jak si chatbot poradí! 👇")
 
+
+
+if query:
+    with st.spinner("Vyhledávání relevantních textů..."):
+        st.subheader("Generovaná odpověď:")
+        response = retrieve_and_respond(query)
+        st.write(response)
+
 # Informace o bezpečnosti, soukromí a souborech ke stažení
 with st.expander("ℹ️ Informace o bezpečnosti a soukromí"):
     st.markdown("""
@@ -173,12 +181,6 @@ with st.expander("ℹ️ Informace o bezpečnosti a soukromí"):
     - **📄 `chatbot_log.txt`** – přehled všech dotazů, odpovědí, skóre podobnosti a spotřeby tokenů.
     - **❓ `unanswered_log.txt`** – dotazy, ke kterým se nepodařilo nalézt relevantní odpověď.
     """)
-
-if query:
-    with st.spinner("Vyhledávání relevantních textů..."):
-        st.subheader("Generovaná odpověď:")
-        response = retrieve_and_respond(query)
-        st.write(response)
 
 # Stahování logů jako TXT
 if st.session_state.log:
