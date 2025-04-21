@@ -29,9 +29,10 @@ def save_no_results_to_file(query, response="Omlouvám se, ale nejsou k dispozic
     log_entry = (
         f"Původní uživatelský dotaz: {query}\n"
         f"Vygenerovaná odpověď modelem: {response}\n"
-        f"Verze experimentu: Final\n"
-        f"Minimální skóre podobnosti: 0.82\n"
-        f"Maximální skóre podobnosti: 0.90\n"
+        f"Verze experimentu: Final (vylepšená verze systému RAG)\n"
+        f"Nastavený rozsah skóre podobnosti pro zařazení textů do kontextu:\n"
+        f"• Minimální požadované skóre: 0.82\n"
+        f"• Maximální nalezené skóre: 0.90\n"
         f"Spotřeba tokenů: 0\n"
         f"Spotřeba tokenů - Vstupní (prompt): 0\n"
         f"Spotřeba tokenů - Výstupní (completion): 0\n"
@@ -43,7 +44,7 @@ def save_results_to_file(query, response, min_score, max_score, token_usage, pro
     log_entry = (
         f"Původní uživatelský dotaz: {query}\n"
         f"Vygenerovaná odpověď modelem: {response}\n"
-        f"Verze experimentu: 3a\n"
+        f"Verze experimentu: Final (vylepšená verze systému RAG)\n"
         f"Minimální skóre podobnosti: {min_score}\n"
         f"Maximální skóre podobnosti: {max_score}\n"
         f"Spotřeba tokenů: {token_usage}\n"
