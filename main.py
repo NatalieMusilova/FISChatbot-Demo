@@ -147,17 +147,6 @@ def retrieve_and_respond(query, top_k=1):
 st.title("Testovací chatbot Fakulty informatiky a statistiky VŠE v Praze")
 st.write("""
 Tento chatbot byl vytvořen v rámci diplomové práce, která se zaměřuje na minimalizaci nákladů generativních dialogových systémů pomocí přístupu Retrieval-Augmented Generation (RAG).
-
-🤖 Chatbot je určen k odpovídání na dotazy týkající se informací o studiu na Fakultě informatiky a statistiky VŠE v Praze. 
-Jeho znalosti jsou omezeny na předem definovaná témata.
-
-❗ **Chatbot v této demoverzi odpovídá na otázky v těchto oblastech:**
-
-• 🎓 **Studijní programy** – bakalářské, magisterské, doktorské a MBA  
-• 📅 **Požadavky na přijetí** – dokumenty, podmínky, termíny přihlášek  
-• 📝 **Přijímací řízení** – průběh zkoušek, testy  
-• 🌍 **Zahraniční studenti** – jazykové požadavky, nostrifikace, víza  
-• 💸 **Finanční záležitosti** – školné, stipendia a další možnosti podpory
 """)
 
 query = st.text_input("Zadejte dotaz a ověřte, jak si chatbot poradí! 👇")
@@ -170,26 +159,33 @@ if query:
         response = retrieve_and_respond(query)
         st.write(response)
 
-# Informace o bezpečnosti, soukromí a souborech ke stažení
-with st.expander("ℹ️ Informace o bezpečnosti a soukromí"):
+with st.expander("ℹ️ Informace o chatbotovi, bezpečnosti a dostupných tématech"):
     st.markdown("""
-    ✅ **Vaše dotazy a odpovědi jsou dočasně uloženy v paměti během této relace.**  
-    ❌ **Po zavření nebo obnovení stránky se všechna data vymažou.**  
-    🛡️ **Chatbot neposílá vaše dotazy mimo tuto aplikaci – vše běží bezpečně ve vašem prohlížeči.**
 
-    📥 **Co si můžete stáhnout:**
-    - **📄 `chatbot_log.txt`** – přehled všech dotazů, odpovědí, skóre podobnosti a spotřeby tokenů.
-    - **❓ `unanswered_log.txt`** – dotazy, ke kterým se nepodařilo nalézt relevantní odpověď.
+    🤖 **Chatbot je určen k odpovídání na dotazy týkající se informací o studiu na Fakultě informatiky a statistiky VŠE v Praze.**  
+    Jeho znalosti jsou omezeny na předem definovaná témata.
+
+    ---
+    
+    ❗ **Chatbot v této demoverzi odpovídá na otázky v těchto oblastech:**
+    • 🎓 **Studijní programy** – bakalářské, magisterské, doktorské a MBA  
+    • 📅 **Požadavky na přijetí** – dokumenty, podmínky, termíny přihlášek  
+    • 📝 **Přijímací řízení** – průběh zkoušek, testy  
+    • 🌍 **Zahraniční studenti** – jazykové požadavky, nostrifikace, víza  
+    • 💸 **Finanční záležitosti** – školné, stipendia a další možnosti podpory
+
+    ---
+
+    🔒 **Bezpečnost a soukromí:**
+    - Vaše dotazy a odpovědi jsou uchovávány pouze během otevřené relace (stránky).
+    - Po opuštění nebo obnovení stránky se data automaticky mažou.
+    - Nic není odesíláno na žádný externí server kromě dotazu do API OpenAI.
+
+    📥 **Možnost stažení záznamů:**
+    - **📄 chatbot_log.txt** – přehled vašich dotazů, odpovědí, skóre podobnosti a spotřeby tokenů.
+    - **❓ unanswered_log.txt** – dotazy, na které se nepodařilo nalézt odpověď na základě dostupných dat.
     """)
 
-# Stahování logů jako TXT
-if st.session_state.log:
-    st.download_button(
-        label="📄 Stáhnout log jako TXT",
-        data=io.StringIO(st.session_state.log).getvalue(),
-        file_name="chatbot_log.txt",
-        mime="text/plain"
-    )
 
 if st.session_state.unanswered_log:
     st.download_button(
