@@ -171,7 +171,7 @@ if query:
 if st.session_state.log:
     st.download_button(
         label="📄 Stáhnout log jako TXT",
-        data=io.StringIO(st.session_state.log),
+        data=io.StringIO(st.session_state.log).getvalue(),
         file_name="chatbot_log.txt",
         mime="text/plain"
     )
@@ -179,7 +179,7 @@ if st.session_state.log:
 if st.session_state.unanswered_log:
     st.download_button(
         label="❓ Stáhnout nezodpovězené dotazy",
-        data=io.StringIO(st.session_state.unanswered_log),
+        data=io.StringIO(st.session_state.unanswered_log).getvalue(),
         file_name="unanswered_log.txt",
         mime="text/plain"
     )
