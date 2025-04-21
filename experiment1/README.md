@@ -44,12 +44,8 @@ V rámci testování bylo provedeno 6 variant experimentu (1a–1f), které se l
 ## 📁 Výstupy
 
 - Výstupy experimentu (odpovědi) jsou ukládány do souboru `outputs1.txt`
-- Pro vyhodnocení výsledků slouží skript `evaluation1.py`, který extrahuje klíčové metriky:
-  - počet dotazů
-  - spotřeba tokenů
-  - průměrné skóre podobnosti
 
-📊 Vizualizace výsledků je dostupná v tabulce a grafu.
+📊 Vizualizace výsledků je dostupná v tabulce výše.
 
 ## 🗂️ Struktura kódu
 
