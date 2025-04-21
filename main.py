@@ -1,7 +1,7 @@
 #pip install openai==0.28
 #pip install pinecone-client
 import openai
-import pinecone
+from pinecone import Pinecone
 import streamlit as st
 from datetime import datetime
 import io
@@ -10,10 +10,8 @@ import io
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
 # Inicializace Pinecone
-pinecone.init(
-    api_key=st.secrets["PINECONE_API_KEY"]
-)
-index = pinecone.Index("fischatbot")
+pc = Pinecone(api_key=st.secrets["PINECONE_API_KEY"])
+index = pc.Index("fischatbot")
 
 # Inicializace session_state proměnných
 if 'history' not in st.session_state:
