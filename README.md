@@ -43,4 +43,6 @@ Nejlepší a nejlépe fungující verze chatbota je implementována ve skriptu m
 Projekt je napsán v jazyce Python a využívá následující klíčové knihovny:
 - **openai** –  zajišťuje přístup k jazykovým modelům (např. gpt-3.5-turbo) a embedding modelu text-embedding-ada-002. Používá se pro generování odpovědí a převod textů do vektorové podoby. Kód je kompatibilní s verzí openai==0.28
 - **pinecone-client** – knihovna pro komunikaci s vektorovou databází Pinecone, kde jsou uloženy embeddingy textových úseků. ⚠️ **Důležité:** Kód používá novou syntaxi z verze 5.0.1. Starší verze (např. 2.x nebo 1.x) nejsou kompatibilní.
+- **streamlit** – framework pro jednoduché a rychlé webové rozhraní. V tomto projektu slouží jako hlavní uživatelské prostředí chatbota.
+- **datetime, io** – vestavěné knihovny Pythonu používané pro vytváření časových záznamů v logu dotazů a pro export těchto logů do .txt souborů, které si uživatel může stáhnout ze Streamlit aplikace.
 
