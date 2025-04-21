@@ -6,11 +6,17 @@ Tento chatbot je součástí mé diplomové práce a jeho hlavním účelem je o
 Chatbot využívá tuto architekturu pro efektivní kombinaci vyhledávání relevantních informací a generování odpovědí. Tento přístup umožňuje chatbotovi poskytovat přesnější a rychlejší odpovědi tím, že propojuje vyhledávání v databázích s generováním odpovědí pomocí jazykových modelů.
 ### Vektorová databáze
 Pro ukládání a rychlé vyhledávání informací je využívána vektorová databáze, která umožňuje chatbotovi rychle nalézt relevantní části textů na základě podobnosti dotazů a existujících dokumentů.
-Zdrojem pro tyto texty jsou veřejně dostupné informace z webových stránek Fakulty informatiky a statistiky (FIS), Vysoké školy ekonomické v Praze (VŠE) a dalších relevantních webů.
+Zdrojem pro tyto texty jsou veřejně dostupné informace z webových stránek FIS, VŠE a dalších relevantních webů.
 Tyto texty byly následně předzpracovány, rozděleny na tematicky koherentní úseky a doplněny metadaty, což umožňuje přesné a efektivní vyhledávání při zodpovídání dotazů.
 
 ### Jazykový model
 Pro generování odpovědí je použit model gpt-3.5-turbo prostřednictvím API od OpenAI.
+
+### Další použité technologie
+
+- **Streamlit** – framework pro webovou aplikaci
+- **text-embedding-ada-002** – embedding model pro převod dotazu a dokumentů do vektorové podoby
+
 
 
 ## Cíl projektu:
