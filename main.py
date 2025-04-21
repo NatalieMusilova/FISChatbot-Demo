@@ -13,7 +13,7 @@ pinecone.init(
     api_key=st.secrets["PINECONE_API_KEY"],
     environment="us-east-1-aws"  #
 )
-index = pc.Index("fischatbot")
+index = pinecone.Index("fischatbot")
 
 def get_embedding(text):
     response = openai.Embedding.create(input=text, model="text-embedding-ada-002")
