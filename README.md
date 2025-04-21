@@ -62,7 +62,7 @@ Tento chatbot při každém uživatelském dotazu postupuje podle několika krok
    Pokud v databázi častých otázek není nalezena vhodná odpověď, chatbot hledá mezi textovými úseky (označenými jako `text_query`) ty, které mají dostatečnou tematickou podobnost (skóre ≥ 0.82). Tyto texty jsou následně použity jako kontext pro generování odpovědi.
 
 4. **Generování odpovědi pomocí AI**  
-   Na základě nalezených textů vytvoří jazykový model (GPT-3.5) odpověď, která odpovídá položenému dotazu a zároveň vychází z informací obsažených ve znalostní bázi.
+   Na základě nalezených textů vytvoří jazykový model (GPT-3.5) odpověď, která odpovídá položenému dotazu.
 
 5. **Situace, kdy není nalezena žádná relevantní odpověď**  
    Pokud se nepodaří najít žádný vhodný text, chatbot informuje uživatele, že v danou chvíli nejsou k dispozici žádné relevantní informace.  
