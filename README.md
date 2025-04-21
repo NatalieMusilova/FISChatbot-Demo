@@ -54,10 +54,12 @@ Tento chatbot při každém uživatelském dotazu postupuje podle několika krok
    Nejprve chatbot převede zadaný dotaz na číselnou reprezentaci (tzv. embedding), aby bylo možné porovnávat jeho podobnost s texty uloženými ve vektorové databázi.
 
 2. **Rychlá odpověď z databáze častých otázek**  
-   Následně se chatbot pokusí najít odpověď mezi předem připravenými odpověďmi na nejčastější otázky. Pokud je nalezena velmi podobná shoda (skóre ≥ 0.9), zobrazí tuto odpověď okamžitě – bez nutnosti generování nového textu. Tento postup šetří výpočetní zdroje a poskytuje rychlou reakci.
+   Následně se chatbot pokusí najít odpověď mezi předem připravenými odpověďmi na nejčastější otázky, které jsou uloženy ve vektorové databázi pod označením `text_response`.  
+   Pokud je nalezena velmi podobná shoda (skóre ≥ 0.9), chatbot zobrazí tuto odpověď okamžitě – bez nutnosti generování nového textu.  
+   Tento postup šetří výpočetní zdroje a poskytuje rychlou reakci.
 
 3. **Hledání tematicky podobných textů**  
-   Pokud v databázi častých otázek není nalezena vhodná odpověď, chatbot hledá mezi textovými úseky (označenými jako `text_query`) ty, které mají dostatečnou tematickou podobnost (skóre ≥ 0.8). Tyto texty jsou následně použity jako kontext pro generování odpovědi.
+   Pokud v databázi častých otázek není nalezena vhodná odpověď, chatbot hledá mezi textovými úseky (označenými jako `text_query`) ty, které mají dostatečnou tematickou podobnost (skóre ≥ 0.82). Tyto texty jsou následně použity jako kontext pro generování odpovědi.
 
 4. **Generování odpovědi pomocí AI**  
    Na základě nalezených textů vytvoří jazykový model (GPT-3.5) odpověď, která odpovídá položenému dotazu a zároveň vychází z informací obsažených ve znalostní bázi.
