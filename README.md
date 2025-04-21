@@ -76,3 +76,10 @@ Projekt je napsán v jazyce Python a využívá následující klíčové knihov
    Uživatel si může stáhnout:
    - `chatbot_log.txt` – přehled všech dotazů, odpovědí, skóre podobnosti a spotřeby tokenů  
    - `unanswered_log.txt` – seznam dotazů, na které se nepodařilo najít odpověď
+
+   > 📌 Tato tlačítka pro stažení se zobrazí **pouze tehdy**, pokud chatbot během relace skutečně něco zaznamená.  
+   > 🔒 **Bezpečnost a soukromí:**  
+   > – Dotazy a odpovědi jsou uchovávány pouze **během otevřené relace (aktuální stránky)**.  
+   > – Po obnovení nebo zavření stránky se veškerá data **automaticky smažou**.  
+   > – Nic není odesíláno na žádný externí server, **kromě dotazů směrem k OpenAI API** pro vygenerování odpovědi.
+
