@@ -51,6 +51,26 @@ V rámci testování bylo provedeno 6 variant experimentu (1a–1f), které se l
 
 📊 Vizualizace výsledků je dostupná v tabulce a grafu.
 
+## 🗂️ Struktura kódu
+
+- `indexing.py` – Tento skript slouží pro přípravu dat do vektorové databáze.  
+  Provádí:
+  - načtení a extrakci textového obsahu z webových stránek (pomocí knihovny `BeautifulSoup` a `requests`),
+  - čištění textu od HTML tagů a nadbytečných znaků (`strip()`, `replace()`, regulární výrazy),
+  - rozdělení textu na části (chunking),
+  - výpočet embeddingů pomocí modelu `text-embedding-ada-002`,
+  - uložení výsledných vektorů do databáze Pinecone.
+
+- `main1.py` – Hlavní skript pro běh chatbotu v rámci experimentu 1.  
+  Obsahuje rozhraní ve Streamlit, logiku retrieveru a generování odpovědí pomocí OpenAI API.  
+  Tento skript je určen pro testování základní RAG architektury popsané výše.
+
+- `evaluation1.py` – Pomocný skript pro vyhodnocení výsledků.  
+  Po spuštění analyzuje odpovědi generované chatbotem a vypočítá klíčové metriky, jako jsou:
+  - celková spotřeba tokenů,
+  - délka odpovědí,
+  - průměrné skóre podobnosti s použitým kontextem.
+
 ## 🔍 Detailní testování
 
 Experiment pracuje s reálnými dotazy z příloh A, B a C diplomové práce. Hodnocení odpovědí bylo provedeno manuálně s ohledem na očekávané odpovědi.
