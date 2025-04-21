@@ -66,9 +66,12 @@ V rámci testování bylo provedeno 6 variant experimentu (1a–1f), které se l
 
 🧠 *Výsledek ukázal, že menší textové segmenty s vyšším počtem vrácených výsledků (Top-k) vedou k vyšší přesnosti, zatímco delší segmenty snižují spotřebu tokenů, ale i kvalitu odpovědí.*
 
-## 🔍 Detailní testování
+## 🔍 Shrnutí problému v experimentu 1
 
 Experiment pracuje s reálnými dotazy z příloh A, B a C diplomové práce. Hodnocení odpovědí bylo provedeno manuálně s ohledem na očekávané odpovědi.
 
+- V některých případech byly odpovědi nepřesné, protože generátor nedostal všechny důležité informace – ty byly rozptýlené v několika segmentech, nebo nebyly správně vybrány retrieverem.
 
+- **Studenti často používají běžný hovorový jazyk** (např. *„jak se dostanu na magistra“*), zatímco **webové stránky používají formální formulace** (např. *„podmínky pro přijetí do navazujícího magisterského studia“*).  
+  **Retriever v základní verzi nebyl dostatečně robustní**, aby tyto **strukturální nebo sémantické rozdíly** rozpoznal, což vedlo ke **ztrátě relevance** při výběru textů.
 
