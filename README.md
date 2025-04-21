@@ -46,3 +46,5 @@ Projekt je napsán v jazyce Python a využívá následující klíčové knihov
 - **streamlit** – framework pro jednoduché a rychlé webové rozhraní. V tomto projektu slouží jako hlavní uživatelské prostředí chatbota.
 - **datetime, io** – vestavěné knihovny Pythonu používané pro vytváření časových záznamů v logu dotazů a pro export těchto logů do .txt souborů, které si uživatel může stáhnout ze Streamlit aplikace.
 
+### Co dělá tento kód
+
