@@ -14,7 +14,9 @@ pinecone.init(
     api_key=st.secrets["PINECONE_API_KEY"],
     host="https://fischatbot-16de6d9.svc.aped-4627-b74a.pinecone.io"
 )
-index = pinecone.Index("fischatbot")
+# Ověř název indexu přes list_indexes()
+index_name = pinecone.list_indexes()['indexes'][0]['name']
+index = pinecone.Index(index_name)
 
 # Inicializace session_state proměnných
 if 'history' not in st.session_state:
