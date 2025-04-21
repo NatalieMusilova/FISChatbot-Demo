@@ -24,28 +24,6 @@ Tato základní architektura slouží jako první krok k experimentům s optimal
 
 ![Architecture Experiment 1](./arch_exp1.png)
 
-  
-
-## ⚙️ Parametry testovaných verzí
-
-V rámci testování bylo provedeno 6 variant experimentu (1a–1f), které se liší velikostí segmentů a mírou překryvu:
-
-| Verze | Chunk size | Overlap | Top-k | Přesnost (ACC %) | Tokeny |
-|-------|------------|---------|-------|------------------|--------|
-| 1a    | 256        | 10      | 10    | 50               | 69 481 |
-| 1b    | 370        | 20      | 7     | 52               | 67 113 |
-| 1c    | 512        | 40      | 5     | 50               | 63 216 |
-| 1d    | 640        | 60      | 4     | 48               | 60 763 |
-| 1e    | 768        | 80      | 3     | 43               | 52 264 |
-| 1f    | 1024       | 100     | 2     | 45               | 46 489 |
-
-🧠 *Výsledek ukázal, že menší textové segmenty s vyšším počtem vrácených výsledků (Top-k) vedou k vyšší přesnosti, zatímco delší segmenty snižují spotřebu tokenů, ale i kvalitu odpovědí.*
-
-## 📁 Výstupy
-
-- Výstupy experimentu (odpovědi) jsou ukládány do souboru `outputs1.txt`
-
-📊 Vizualizace výsledků je dostupná v tabulce výše.
 
 ## 🗂️ Struktura kódu
 
@@ -66,6 +44,27 @@ V rámci testování bylo provedeno 6 variant experimentu (1a–1f), které se l
   - celková spotřeba tokenů,
   - délka odpovědí,
   - průměrné skóre podobnosti s použitým kontextem.
+ 
+## 📁 Výstupy
+
+- Výstupy experimentu (odpovědi) jsou ukládány do souboru `outputs1.txt`
+
+📊 Vizualizace výsledků je dostupná v tabulce výše.  
+
+## ⚙️ Parametry testovaných verzí
+
+V rámci testování bylo provedeno 6 variant experimentu (1a–1f), které se liší velikostí segmentů a mírou překryvu:
+
+| Verze | Chunk size | Overlap | Top-k | Přesnost (ACC %) | Tokeny |
+|-------|------------|---------|-------|------------------|--------|
+| 1a    | 256        | 10      | 10    | 50               | 69 481 |
+| 1b    | 370        | 20      | 7     | 52               | 67 113 |
+| 1c    | 512        | 40      | 5     | 50               | 63 216 |
+| 1d    | 640        | 60      | 4     | 48               | 60 763 |
+| 1e    | 768        | 80      | 3     | 43               | 52 264 |
+| 1f    | 1024       | 100     | 2     | 45               | 46 489 |
+
+🧠 *Výsledek ukázal, že menší textové segmenty s vyšším počtem vrácených výsledků (Top-k) vedou k vyšší přesnosti, zatímco delší segmenty snižují spotřebu tokenů, ale i kvalitu odpovědí.*
 
 ## 🔍 Detailní testování
 
