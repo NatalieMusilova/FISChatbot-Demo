@@ -46,7 +46,7 @@ Projekt je napsán v jazyce Python a využívá následující klíčové knihov
 - **streamlit** – framework pro jednoduché a rychlé webové rozhraní. V tomto projektu slouží jako hlavní uživatelské prostředí chatbota.
 - **datetime, io** – vestavěné knihovny Pythonu používané pro vytváření časových záznamů v logu dotazů a pro export těchto logů do .txt souborů, které si uživatel může stáhnout ze Streamlit aplikace.
 
-### Co dělá tento kód
+### Co dělá tento kód?
 
 1. **Zpracuje dotaz uživatele:**  
    Nejprve vezme to, co uživatel napsal, a převede to na speciální číselnou podobu (tzv. „embedding“), aby mohl najít podobné texty v databázi.
@@ -72,7 +72,7 @@ Projekt je napsán v jazyce Python a využívá následující klíčové knihov
    - jaká byla jejich podobnost (skóre)  
    - kolik tokenů bylo spotřebováno  
 
-   Tyto informace se ukládají do **`chatbot_log.txt`**, který si může uživatel stáhnout na konci relace.
+   Tyto informace se ukládají do `chatbot_log.txt`, který si může uživatel stáhnout na konci relace.
 
 7. **Možnost stažení záznamů**  
    Uživatel si může stáhnout:
@@ -84,4 +84,12 @@ Projekt je napsán v jazyce Python a využívá následující klíčové knihov
    > – Dotazy a odpovědi jsou uchovávány pouze **během otevřené relace (aktuální stránky)**.  
    > – Po obnovení nebo zavření stránky se veškerá data **automaticky smažou**.  
    > – Nic není odesíláno na žádný externí server, **kromě dotazů směrem k OpenAI API** pro vygenerování odpovědi.
+
+## 🌐 Online demo
+
+Chatbot je dostupný v cloudu a lze jej snadno vyzkoušet na následující adrese:
+
+👉 [https://fischatbot-demo-jwzn5dmvwvjdoup5yosrac.streamlit.app/](https://fischatbot-demo-jwzn5dmvwvjdoup5yosrac.streamlit.app/)
+
+Tato verze slouží k demonstračním účelům v rámci diplomové práce a představuje praktickou ukázku možností architektury Retrieval-Augmented Generation (RAG) v akademickém prostředí.
 
