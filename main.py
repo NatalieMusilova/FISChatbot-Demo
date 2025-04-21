@@ -102,7 +102,7 @@ def generate_response(query, retrieved_texts):
             model="gpt-3.5-turbo",
             messages=messages,
             max_tokens=1000,
-            temperature=0.5,
+            temperature=0.4,
             top_p=0.7
         )
         answer = response['choices'][0]['message']['content'].strip()
