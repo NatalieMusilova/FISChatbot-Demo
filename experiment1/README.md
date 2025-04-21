@@ -64,7 +64,10 @@ V rámci testování bylo provedeno 6 variant experimentu (1a–1f), které se l
 | 1e    | 768        | 80      | 3     | 43               | 52 264 |
 | 1f    | 1024       | 100     | 2     | 45               | 46 489 |
 
-🧠 *Výsledek ukázal, že menší textové segmenty s vyšším počtem vrácených výsledků (Top-k) vedou k vyšší přesnosti, zatímco delší segmenty snižují spotřebu tokenů, ale i kvalitu odpovědí.*
+🧠 Výsledek ukázal, že **menší textové segmenty** s vyšším počtem vrácených výsledků (**Top-k**) vedou k **vyšší přesnosti**, zatímco **delší segmenty** snižují **spotřebu tokenů**, ale zároveň i **kvalitu odpovědí**.
+
+📌 Tento experiment pomohl lépe se zorientovat v tom, **jaká délka textových segmentů je nejvhodnější** pro další testování – tedy **kde leží rovnováha mezi přesností a efektivitou** systému.
+
 
 ## 🔍 Shrnutí problému v experimentu 1
 
