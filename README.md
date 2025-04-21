@@ -61,13 +61,18 @@ Projekt je napsán v jazyce Python a využívá následující klíčové knihov
    Pokud byly nalezeny vhodné texty z text_query, předá se jejich obsah generátoru (jazykovému modelu GPT-3.5), který vytvoří odpověď přizpůsobenou uživatelskému dotazu​.
 
 5. **Pokud není nalezen žádný vektor s dostatečnou podobností:**  
-   Uživatel je informován, že momentálně nejsou k dispozici žádné relevantní informace k jeho dotazu.
-Chatbot si takový dotaz uloží do paměti během aktuální relace a umožní jej stáhnout ve formě textového souboru (unanswered_log.txt).
-Tato funkce slouží pouze k demonstračním účelům v rámci diplomové práce – v reálném nasazení by bylo možné tyto dotazy předat systému Aphinit pro další zpracování. 
+   Uživatel dostane zprávu, že momentálně nejsou k dispozici žádná relevantní data.  
+   Chatbot si takový dotaz **uloží do dočasné paměti**, aby bylo možné jej stáhnout jako součást souboru `unanswered_log.txt`.  
+   > 🎓 V rámci této diplomové práce jde o demonstraci funkčnosti — v ostrém provozu by tyto dotazy bylo možné předat systému **Aphinit** k pozdějšímu zpracování.
 
-6. **Zaznamená vše pro další vyhodnocení:**  
-   Chatbot si v paměti uloží dotaz, odpověď, jaké texty použil a kolik dat (tokenů) při tom spotřeboval.  
-   Pokud se žádná vhodná odpověď nenajde, poznamená si to zvlášť – abych mohla později zjistit, jak chatbot zlepšit.
+6. **Záznam a export informací o odpovědi**  
+   Chatbot si pro každý dotaz pamatuje:
+   - samotný dotaz a odpověď  
+   - jaké texty byly použity  
+   - jaká byla jejich podobnost (skóre)  
+   - kolik tokenů bylo spotřebováno  
 
-7. **Umožní stáhnout přehled:**  
-   Uživatel si může kdykoliv stáhnout soubor s přehledem všech dotazů a odpovědí, případně seznam nezodpovězených otázek.
+7. **Možnost stažení záznamů**  
+   Uživatel si může stáhnout:
+   - `chatbot_log.txt` – přehled všech dotazů, odpovědí, skóre podobnosti a spotřeby tokenů  
+   - `unanswered_log.txt` – seznam dotazů, na které se nepodařilo najít odpověď
