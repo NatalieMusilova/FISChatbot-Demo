@@ -162,6 +162,18 @@ Jeho znalosti jsou omezeny na předem definovaná témata.
 
 query = st.text_input("Zadejte dotaz a ověřte, jak si chatbot poradí! 👇")
 
+# Informace o bezpečnosti, soukromí a souborech ke stažení
+with st.expander("ℹ️ Informace o bezpečnosti a soukromí"):
+    st.markdown("""
+    ✅ **Vaše dotazy a odpovědi jsou dočasně uloženy v paměti během této relace.**  
+    ❌ **Po zavření nebo obnovení stránky se všechna data vymažou.**  
+    🛡️ **Chatbot neposílá vaše dotazy mimo tuto aplikaci – vše běží bezpečně ve vašem prohlížeči.**
+
+    📥 **Co si můžete stáhnout:**
+    - **📄 `chatbot_log.txt`** – přehled všech dotazů, odpovědí, skóre podobnosti a spotřeby tokenů.
+    - **❓ `unanswered_log.txt`** – dotazy, ke kterým se nepodařilo nalézt relevantní odpověď.
+    """)
+
 if query:
     with st.spinner("Vyhledávání relevantních textů..."):
         st.subheader("Generovaná odpověď:")
