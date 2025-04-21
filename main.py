@@ -159,6 +159,9 @@ if query:
         response = retrieve_and_respond(query)
         st.write(response)
 
+st.markdown("&nbsp;")
+st.markdown("&nbsp;")
+
 with st.expander("ℹ️ Informace o chatbotovi, bezpečnosti a dostupných tématech"):
     st.markdown("""
 
@@ -168,6 +171,7 @@ with st.expander("ℹ️ Informace o chatbotovi, bezpečnosti a dostupných tém
     ---
     
     ❗ **Chatbot v této demoverzi odpovídá na otázky v těchto oblastech:**
+    
     • 🎓 **Studijní programy** – bakalářské, magisterské, doktorské a MBA  
     • 📅 **Požadavky na přijetí** – dokumenty, podmínky, termíny přihlášek  
     • 📝 **Přijímací řízení** – průběh zkoušek, testy  
@@ -182,7 +186,7 @@ with st.expander("ℹ️ Informace o chatbotovi, bezpečnosti a dostupných tém
     - Nic není odesíláno na žádný externí server kromě dotazu do API OpenAI.
 
     📥 **Možnost stažení záznamů:**
-    - **📄 chatbot_log.txt** – přehled vašich dotazů, odpovědí, skóre podobnosti a spotřeby tokenů.
+    - **📄 chatbot_log.txt** – přehled vašich dotazů, odpovědí, skóre podobnosti a spotřeby tokenů a kontextu použitého při generování.
     - **❓ unanswered_log.txt** – dotazy, na které se nepodařilo nalézt odpověď na základě dostupných dat.
     """)
 
