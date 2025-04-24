@@ -1,4 +1,4 @@
-# 🧪 Experiment 2: Zlepšená segmentace a tematická optimalizace
+# Experiment 2: Zlepšená segmentace a tematická optimalizace
 
 Tento experiment navazuje na základní verzi RAG systému a zaměřuje se na **optimalizaci přípravy dat** a **výběru relevantního kontextu** tak, aby byly odstraněny slabiny identifikované v experimentu 1.
 
