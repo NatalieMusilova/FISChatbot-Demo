@@ -77,7 +77,6 @@ Podrobný rozbor naleznete v příslušné kapitole diplomové práce.
 
 ---
 
-**Tento experiment jasně ukazuje, že kvalitnější příprava dat a tematické seskupení textů vedou nejen k úspoře nákladů, ale zejména ke zvýšení kvality odpovědí.**
 
 
 
