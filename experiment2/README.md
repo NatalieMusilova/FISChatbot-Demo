@@ -19,7 +19,6 @@ Architektura je stále tříkomponentní (Indexování, Retriever, Generátor), 
 ### **Retriever**
 - Uživatelský dotaz je opět převeden na embedding.
 - Vyhledávání probíhá nad tematicky celistvými bloky, což **snižuje riziko vybrání irelevantních zbytkových textů**.
-- Skórování a Top-k jsou optimalizované dle výsledků experimentu 1.
 
 ### **Generátor**
 - Odpovědi jsou generovány na základě významově ucelenějšího kontextu (větší tematický blok).
