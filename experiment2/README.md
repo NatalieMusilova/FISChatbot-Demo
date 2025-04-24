@@ -29,8 +29,8 @@ Architektura je stále tříkomponentní (Indexování, Retriever, Generátor), 
 
 ## 🗂️ Struktura kódu
 
-- **`indexing2.py`** – Skript pro pokročilou přípravu dat do vektorové databáze (seskupuje texty podle témat, čistí je a ukládá tematické bloky do Pinecone).
-- **`main2.py`** – Hlavní skript pro běh chatbotu v rámci experimentu 2 (vylepšený retriever, Streamlit UI).
+- **`indexing2.py`** – Skript pro přípravu dat do vektorové databáze Pinecone.
+- **`main2.py`** – Hlavní skript pro běh chatbotu v rámci experimentu 2.
 - **`evaluation2.py`** – Skript pro vyhodnocení výsledků (analyzuje přesnost, spotřebu tokenů atd.).
 - **`text_pairs2.txt`** – Ukázka tematicky seskupených bloků ve formátu JSON. Každý záznam představuje ucelený tematický blok.
 
