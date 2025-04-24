@@ -10,7 +10,7 @@ Architektura je stále tříkomponentní (Indexování, Retriever, Generátor), 
 
 ### **Indexování**
 - Data jsou z webových stránek získávána a čištěna stejně jako v experimentu 1, ale místo mechanického dělení na stejně dlouhé části jsou nově tvořeny **koherentní tematické bloky**.
-- Tematické bloky byly v tomto experimentu **vytvořeny ručně** na základě sémantické podobnosti a experimentální analýzy.  
+- Tematické bloky byly v tomto experimentu **vytvořeny ručně** na základě tematické podobnosti a experimentální analýzy.  
   Každý blok obsahuje všechny informace k jednomu tématu (např. kompletní podmínky přijetí na magisterské studium).
 - **V reálném provozu** by byly bloky **automaticky generovány a aktualizovány přímo z databáze znalostí** (např. pomocí systému Aphinit).
 - Embeddingy jsou vytvářeny pomocí modelu `text-embedding-ada-002` a uloženy do Pinecone.
