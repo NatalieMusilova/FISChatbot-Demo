@@ -26,6 +26,7 @@ Architektura je stále tříkomponentní (Indexování, Retriever, Generátor), 
 - Použit je model `gpt-3.5-turbo` (OpenAI API).
 
 ---
+<img width="492" alt="image" src="https://github.com/user-attachments/assets/7cddf2ce-222f-4f7e-9abb-9efa5dd75b04">
 
 ## 🗂️ Struktura kódu
 
@@ -80,7 +81,7 @@ Podrobný rozbor naleznete v příslušné kapitole diplomové práce.
 **Tento experiment jasně ukazuje, že kvalitnější příprava dat a tematické seskupení textů vedou nejen k úspoře nákladů, ale zejména ke zvýšení kvality odpovědí.**
 
 
-<img width="492" alt="image" src="https://github.com/user-attachments/assets/7cddf2ce-222f-4f7e-9abb-9efa5dd75b04">
+
 
 
 ![image](https://github.com/user-attachments/assets/7aed2a35-2221-4380-a71c-8dda9d62555d)
