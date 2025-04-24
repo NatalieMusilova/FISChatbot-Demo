@@ -49,9 +49,9 @@ V tomto experimentu byly testovány různé strategie tematického seskupení a 
 
 | Verze | Typ segmentace        | Top-k | Přesnost (ACC %) | Tokeny |
 |-------|----------------------|-------|------------------|--------|
-| 2a    | Tematické bloky      | 3     | 91               | 33 435 |
-| 2b    | Tematické bloky      | 2     | 89               | 23 631 |
-| 2c    | Tematické bloky      | 1     | 70               | 14 181 |
+| 2a    | Tematické bloky      | 3     | 91               | 41 678 |
+| 2b    | Tematické bloky      | 2     | 89               | 31 563 |
+| 2c    | Tematické bloky      | 1     | 70               | 20 778 |
 
 🧠 **Díky tematickému seskupení textů a optimalizaci retrieveru došlo k výraznému zvýšení přesnosti i snížení spotřeby tokenů oproti experimentu 1.**
 
