@@ -21,7 +21,7 @@ Architektura je stále tříkomponentní (Indexování, Retriever, Generátor), 
 - Vyhledávání probíhá nad tematicky celistvými bloky.
 
 ### **Generátor**
-- Odpovědi jsou generovány na základě významově ucelenějšího kontextu (větší tematický blok).
+- Jazykový model pracuje s komplexnějším kontextem, který zahrnuje všechny podstatné informace k danému tématu.
 - Použit je model `gpt-3.5-turbo` (OpenAI API).
 
 ---
