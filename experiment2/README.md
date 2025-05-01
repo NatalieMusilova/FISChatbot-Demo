@@ -48,19 +48,12 @@ Indexace byla provedena pomocí embeddingů těchto textových částí a jejich
 - **`main2.py`** – Hlavní skript pro běh chatbotu v rámci experimentu 2.
 - **`evaluation2.py`** – Skript pro vyhodnocení výsledků (analyzuje přesnost, spotřebu tokenů atd.).
 - **`text_pairs2.txt`** – Ukázka tematicky seskupených bloků ve formátu JSON. Každý záznam představuje ucelený tematický blok.
-
----
-
-## 📁 Výstupy
-
-- Výstupy generovaných odpovědí jsou ukládány do souboru `outputs2.txt`.
-- Výsledky experimentu jsou podrobně analyzovány v diplomové práci a shrnuty v tabulkách a grafech.
-
+- **`outputs2.txt`** – Soubor, do kterého byly ukládány výstupy experimentu 2, konkrétně vygenerované odpovědi na jednotlivé testovací dotazy.
 ---
 
 ## ⚙️ Parametry a výsledky testovaných verzí
 
-V tomto experimentu byly testovány různé strategie tematického seskupení a nastavení parametru Top-k.
+V tomto experimentu byly testovány různé nastavení parametru Top-k.
 
 | Verze | Typ segmentace        | Top-k | Přesnost (ACC %) | Tokeny |
 |-------|----------------------|-------|------------------|--------|
