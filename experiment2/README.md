@@ -61,9 +61,17 @@ V tomto experimentu byly testovány různé nastavení parametru Top-k.
 | 2b    | Tematické bloky      | 2     | 89               | 31 563 |
 | 2c    | Tematické bloky      | 1     | 70               | 20 778 |
 
-🧠 **Díky tematickému seskupení textů a optimalizaci retrieveru došlo k výraznému zvýšení přesnosti i snížení spotřeby tokenů oproti experimentu 1.**
 
 ---
+
+## 🔍 Shrnutí problému v experimentu 2
+
+Experiment 2 přinesl výrazné zlepšení přesnosti a snížení spotřeby tokenů díky tematickému seskupování dotazů a strukturovanému indexování. Přesto se během vyhodnocení objevily určité problémy, které se staly motivací pro pokračování experimentem 3:
+
+- Generátor často nedokázal využít celý obsah relevantního textu – například odpověď zahrnovala jen část z více potřebných informací.
+- Při vysokém skóre sémantické podobnosti byly někdy vybrány úseky, které nebyly reálně vhodné jako odpověď – pouze jazykově připomínaly dotaz.
+- Retriever měl omezenou schopnost pracovat s jazykovou variabilitou a synonymy.
+- Systém předával generátoru fixní počet textových úseků bez ohledu na jejich skutečnou relevanci.
 
 
 
