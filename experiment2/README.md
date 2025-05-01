@@ -3,6 +3,18 @@
 Tento experiment navazuje na základní verzi RAG systému a zaměřuje se na **optimalizaci přípravy dat** a **výběru relevantního kontextu** tak, aby byly odstraněny slabiny identifikované v experimentu 1.
 
 ---
+## 🔍 Motivace pro experiment 2
+
+Zásadní nedostatky experimentu 1, které tento experiment řeší:
+- Odpovědi byly často nepřesné, protože klíčové informace byly rozptýleny v několika krátkých úsecích a generátor je neobdržel pohromadě.
+- **Studenti často používají běžný hovorový jazyk** (např. „jak se dostanu na magistra“), zatímco **webové stránky používají formální formulace** (např. „podmínky pro přijetí do navazujícího magisterského studia“).  
+  **Retriever v základní verzi nebyl dostatečně robustní**, aby tyto **strukturální nebo sémantické rozdíly** rozpoznal, což vedlo ke **ztrátě relevance** při výběru textů.
+- 🧩 **Zbytkové texty bez obsahu způsobovaly chyby při vyhledávání**  
+  Při dělení textu na úseky často vznikaly velmi krátké "zbytky" na konci dokumentů, které neobsahovaly žádné důležité informace.  
+  Embedding model jim přesto přiřadil vektory, které byly nesprávně hodnoceny jako velmi podobné uživatelskému dotazu, protože chyběla sémantická výpověď.  
+  🤷‍♂️ Retriever následně vybíral tyto prázdné nebo nerelevantní texty, protože je považoval za důležité. Pokud se v databázi nenacházel relevantní kontext, systém i přesto zpracoval tyto nerelevantní úseky – a zbytečně tak spotřeboval tokeny při generování odpovědi.
+
+---
 
 ## 🧩 Architektura systému
 
@@ -60,16 +72,5 @@ V tomto experimentu byly testovány různé strategie tematického seskupení a 
 
 ---
 
-## 🔍 Motivace pro experiment 2
 
-Zásadní nedostatky experimentu 1, které tento experiment řeší:
-- Odpovědi byly často nepřesné, protože klíčové informace byly rozptýleny v několika krátkých úsecích a generátor je neobdržel pohromadě.
-- **Studenti často používají běžný hovorový jazyk** (např. „jak se dostanu na magistra“), zatímco **webové stránky používají formální formulace** (např. „podmínky pro přijetí do navazujícího magisterského studia“).  
-  **Retriever v základní verzi nebyl dostatečně robustní**, aby tyto **strukturální nebo sémantické rozdíly** rozpoznal, což vedlo ke **ztrátě relevance** při výběru textů.
-- 🧩 **Zbytkové texty bez obsahu způsobovaly chyby při vyhledávání**  
-  Při dělení textu na úseky často vznikaly velmi krátké "zbytky" na konci dokumentů, které neobsahovaly žádné důležité informace.  
-  Embedding model jim přesto přiřadil vektory, které byly nesprávně hodnoceny jako velmi podobné uživatelskému dotazu, protože chyběla sémantická výpověď.  
-  🤷‍♂️ Retriever následně vybíral tyto prázdné nebo nerelevantní texty, protože je považoval za důležité. Pokud se v databázi nenacházel relevantní kontext, systém i přesto zpracoval tyto nerelevantní úseky – a zbytečně tak spotřeboval tokeny při generování odpovědi.
-
----
 
