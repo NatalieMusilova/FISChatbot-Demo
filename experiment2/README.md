@@ -3,7 +3,7 @@
 Tento experiment navazuje na základní verzi RAG systému a zaměřuje se na **optimalizaci přípravy dat** a **výběru relevantního kontextu** tak, aby byly odstraněny slabiny identifikované v experimentu 1.
 
 ---
-## 🔍 Motivace pro experiment 2
+## 🧭 Motivace pro experiment 2
 
 Zásadní nedostatky experimentu 1, které tento experiment řeší:
 - Odpovědi byly často nepřesné, protože klíčové informace byly rozptýleny v několika krátkých úsecích a generátor je neobdržel pohromadě.
