@@ -13,7 +13,8 @@ Architektura je stále tříkomponentní (Indexování, Retriever, Generátor), 
 
 V experimentu 2 byla použita předem připravená datová sada, uložená ve formátu dvojic (dotaz – kontext). Každý textový úsek v souboru `text_pairs2.txt` obsahuje text, který slouží jako kontextový vstup pro generátor. V tomto experimentu nejsou využita žádná složitá metadata – všechny informace potřebné pro odpověď jsou součástí samotného textu. 
 
-Indexace byla provedena pomocí embeddingů těchto textových částí a jejich uložení do vektorové databáze Pinecone. Tento přístup umožnil efektivní vyhledávání relevantních kontextů pro generování odpovědí.
+Indexace byla provedena pomocí embeddingů těchto textových částí a jejich uložení do vektorové databáze Pinecone. 
+
 
 - **V reálném provozu** by byly bloky **automaticky generovány a aktualizovány přímo z databáze znalostí** (např. pomocí systému Aphinit).
 - Embeddingy jsou vytvářeny pomocí modelu `text-embedding-ada-002` a uloženy do Pinecone.
