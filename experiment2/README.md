@@ -73,16 +73,3 @@ Zásadní nedostatky experimentu 1, které tento experiment řeší:
 
 ---
 
-## 📊 Vizualizace výsledků
-
-Vizualizace výsledků experimentu je zobrazena v přiložených tabulkách a grafech.  
-Podrobný rozbor naleznete v příslušné kapitole diplomové práce.
-
----
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/7aed2a35-2221-4380-a71c-8dda9d62555d)
