@@ -7,6 +7,8 @@ Na základě těchto zjištění byl navržen mechanismus podmíněného výběr
 - Pouze při střední úrovni shody je spuštěno generování s využitím relevantního kontextu.
 
 Tento přístup výrazně snižuje zbytečné využívání zdrojů, zvyšuje kvalitu výstupu a zlepšuje nákladovou efektivitu celého systému.
+
+
 <img width="501" alt="image" src="https://github.com/user-attachments/assets/397e3963-32a8-431d-84ac-1f418a44038b">
 
 ## 🔍 Shrnutí problému v experimentu 3
