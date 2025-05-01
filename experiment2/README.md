@@ -69,9 +69,9 @@ V tomto experimentu byly testovány různé nastavení parametru Top-k.
 Experiment 2 přinesl výrazné zlepšení přesnosti a snížení spotřeby tokenů díky tematickému seskupování dotazů a strukturovanému indexování. Přesto se během vyhodnocení objevily určité problémy, které se staly motivací pro pokračování experimentem 3:
 
 - Generátor často nedokázal využít celý obsah relevantního textu – například odpověď zahrnovala jen část z více potřebných informací.
-- Při vysokém skóre sémantické podobnosti byly někdy vybrány úseky, které nebyly reálně vhodné jako odpověď – pouze jazykově připomínaly dotaz.
-- Retriever měl omezenou schopnost pracovat s jazykovou variabilitou a synonymy.
 - Systém předával generátoru fixní počet textových úseků bez ohledu na jejich skutečnou relevanci.
+- Do generátoru byly předávány i textové úseky s nízkou relevancí, které vytvářely informační šum a zbytečně spotřebovávaly tokeny.
+
 
 
 
