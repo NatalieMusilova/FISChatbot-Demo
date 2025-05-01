@@ -9,7 +9,6 @@ Tento experiment navazuje na základní verzi RAG systému a zaměřuje se na **
 Architektura je stále tříkomponentní (Indexování, Retriever, Generátor), ale zásadní změny byly provedeny v přípravě a struktuře dat:
 
 ### **Indexování**
-### Indexování
 
 V experimentu 2 byla použita předem připravená datová sada, uložená ve formátu dvojic (dotaz – kontext). Každý textový úsek v souboru `text_pairs2.txt` obsahuje text, který slouží jako kontextový vstup pro generátor. V tomto experimentu nejsou využita žádná složitá metadata – všechny informace potřebné pro odpověď jsou součástí samotného textu. 
 
