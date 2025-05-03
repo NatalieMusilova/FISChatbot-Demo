@@ -25,9 +25,15 @@ Tento přístup výrazně **minimalizuje zbytečné volání generátoru**, zach
 Architektura zůstává tříkomponentní – Indexování, Retriever, Generátor – přičemž každá komponenta pracuje s rozhodovacím mechanismem na základě skóre podobnosti.
 
 ### **Indexování**
-- Použita tematicky strukturovaná datová sada (`text_pairs2.txt`) z experimentu 2.
-- Metadata obsahují stručné odpovědi pro dotazy s vysokou mírou shody.
-- Embeddingy vytvořeny pomocí `text-embedding-ada-002` a uloženy ve vektorové databázi Pinecone.
+Pro experiment 3 byly použity dvě oddělené datové sady ve formátu JSON:
+
+- `text_pairs3.txt` – obsahuje tematicky seskupené dotazy s odpovídajícími kontexty. Při indexaci jsou tyto záznamy označeny příznakem `text_query`.
+- `text_pairs_resp3.txt` – zahrnuje často kladené dotazy s předpřipravenými odpověďmi. Tyto záznamy nesou příznak `text_response`.
+
+Embeddingy pro oba typy dat byly vytvořeny pomocí modelu `text-embedding-ada-002` a následně uloženy do vektorové databáze Pinecone.
+
+Tato struktura umožňuje systému využívat přímo odpovědi z metadat bez spuštění generátoru v případech, kdy je nalezeno velmi vysoké skóre podobnosti mezi dotazem a některou častou otázkou.
+
 
 ### **Retriever**
 - Dotaz je převeden na embedding a porovnán s uloženými vektory.
