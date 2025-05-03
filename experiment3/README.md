@@ -57,7 +57,7 @@ Tato struktura umožňuje systému využívat přímo odpovědi z metadat bez sp
 - `text_pairs3.txt` – Tematicky seskupené dotazy s odpovídajícím kontextem (dotaz–kontext), označené jako `text_query`.
 - `text_pairs_resp3.txt` – Datová sada často kladených otázek s jednoznačnými odpověďmi, označená jako `text_response`.
 - `outputs3.txt` – Výstupní soubor s odpověďmi generovanými modelem GPT, pokud došlo k aktivaci generátoru.
-- `questions_for_processing3.txt` – Seznam dotazů, které nebyly zodpovězeny (nebylo dosaženo minimální hodnoty skóre), určený pro další analýzu a rozšíření dat:contentReference[oaicite:0]{index=0}.
+- `questions_for_processing3.txt` – Seznam dotazů, které nebyly zodpovězeny (nebylo dosaženo minimální hodnoty skóre), určený pro další analýzu a rozšíření.
 
 
 ---
