@@ -47,7 +47,9 @@ Tato struktura umožňuje systému využívat přímo odpovědi z metadat bez sp
 
 ## 🗂️ Struktura kódu
 
-- `indexing3.py` – Skript pro indexaci dvou oddělených datových sad (`text_pairs3.txt` a `text_pairs_resp3.txt`) do Pinecone. Data jsou přiřazena metadaty `text_query` a `text_response`.
+- `indexing3.py` – Skript pro vytvoření embeddingů a jejich uložení do vektorové databáze Pinecone. Každému vektorovému záznamu jsou přiřazena metadata, která určují jeho využití: buď jako **přímá odpověď** (`text_response`), nebo jako **kontext pro generování odpovědi** (`text_query`).  
+  Díky tomu lze při vyhledávání nejprve prohledat pouze záznamy s příznakem `text_response` a pokusit se odpovědět bez zapojení generátoru. Pokud není nalezena dostatečně podobná odpověď, pokračuje se vyhledáváním v blocích `text_query`, které slouží jako kontext pro jazykový model.
+
 - `main3.py` – Skript obsahující rozhodovací mechanismus, který na základě skóre podobnosti vybírá, zda použít odpověď z metadat nebo spustit generátor.
 - `evaluation3.py` – Skript pro vyhodnocení přesnosti, spotřeby tokenů a typologie odpovědí. Struktura odpovídá skriptu z předchozího experimentu.
 - `text_pairs3.txt` – Tematicky seskupené dotazy s odpovídajícím kontextem (dotaz–kontext), označené jako `text_query`.
