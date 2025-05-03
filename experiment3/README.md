@@ -36,12 +36,14 @@ Tato struktura umožňuje systému využívat přímo odpovědi z metadat bez sp
 
 
 ### **Retriever**
-- Dotaz je převeden na embedding a porovnán s uloženými vektory.
-- Podle skóre podobnosti se rozhoduje, zda a jak bude odpověď generována.
+- Uživatelský dotaz je převeden na embedding.
+- Vyhledávání probíhá ve dvou krocích:
+  1. Pokus o nalezení odpovědi mezi záznamy `text_response`.
+  2. Pokud není nalezena odpověď s dostatečnou podobností, pokračuje se ve vyhledávání mezi `text_query` a případně se aktivuje generátor.
 
 ### **Generátor**
-- Spouští se pouze při střední shodě.
-- Použit model `gpt-3.5-turbo` přes OpenAI API.
+- Spouští se pouze tehdy, když žádný záznam typu `text_response` nedosáhne požadované míry shody, ale některý `text_query` překročí minimální prahovou hodnotu.
+- Použit je model `gpt-3.5-turbo` přes OpenAI API.
 
 ---
 
