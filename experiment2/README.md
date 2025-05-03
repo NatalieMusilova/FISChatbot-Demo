@@ -69,7 +69,7 @@ V tomto experimentu byly testovány různé nastavení parametru Top-k.
 Experiment 2 přinesl výrazné zlepšení přesnosti a snížení spotřeby tokenů díky tematickému seskupování dotazů a strukturovanému indexování. Přesto se během vyhodnocení objevily určité problémy, které se staly motivací pro pokračování experimentem 3:
 
 - Systém předával generátoru fixní počet textových úseků bez ohledu na jejich skutečnou relevanci.
-– Do generátoru byly předávány i textové úseky s nízkou relevancí, které neobsahovaly potřebné informace k odpovědi. Výsledkem byly nejen nesmyslné nebo zavádějící odpovědi, ale také zbytečná spotřeba tokenů.
+- Do generátoru byly předávány i textové úseky s nízkou relevancí, které neobsahovaly potřebné informace k odpovědi. Výsledkem byly nejen nesmyslné nebo zavádějící odpovědi, ale také zbytečná spotřeba tokenů.
 
 
 
