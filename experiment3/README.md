@@ -64,9 +64,16 @@ Tato struktura umožňuje systému využívat přímo odpovědi z metadat bez sp
 
 ## 📊 Výsledky
 
-| Verze | Podmínky generování       | Přesnost (ACC %) | Tokeny |
-|-------|---------------------------|------------------|--------|
-| 3a    | Skóre-based rozhodování   | 92               | 18 021 |
+## 📊 Výsledky
+
+| Verze | Minimální skóre pro generování odpovědi | Minimální skóre pro odpověď bez použití generátoru | Přesnost (ACC %) | Tokeny |
+|-------|------------------------------------------|-----------------------------------------------------|------------------|--------|
+| 3a    | 0.81                                     | 0.90                                                | 92               | 18 021 |
+| 3b    | 0.82                                     | 0.90                                                | 89               | 29 387 |
+| 3c    | 0.83                                     | 0.90                                                | 84               | 23 960 |
+| 3d    | 0.82                                     | 0.89                                                | 83               | 25 278 |
+| 3e    | 0.82                                     | 0.91                                                | 70               | 15 481 |
+
 
 
 ---
