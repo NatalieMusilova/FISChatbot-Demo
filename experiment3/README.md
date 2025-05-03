@@ -64,9 +64,10 @@ Tato struktura umožňuje systému využívat přímo odpovědi z metadat bez sp
 
 ## 📊 Výsledky
 
-| Verze | Podmínky generování       | Přesnost (ACC %) | Tokeny | Poměr dotazů zodpovězených bez LLM |
-|-------|---------------------------|------------------|--------|------------------------------------|
-| 3a    | Skóre-based rozhodování   | 92               | 18 021 | 37 %                               |
+| Verze | Podmínky generování       | Přesnost (ACC %) | Tokeny |
+|-------|---------------------------|------------------|--------|
+| 3a    | Skóre-based rozhodování   | 92               | 18 021 |
+
 
 ---
 
