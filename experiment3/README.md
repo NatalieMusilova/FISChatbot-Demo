@@ -47,10 +47,14 @@ Tato struktura umožňuje systému využívat přímo odpovědi z metadat bez sp
 
 ## 🗂️ Struktura kódu
 
-- `main3.py` – Hlavní skript s rozhodovacím mechanismem.
-- `evaluation3.py` – Vyhodnocení přesnosti, spotřeby tokenů a typů odpovědí.
-- `text_pairs2.txt` – Strukturovaná datová sada (stejná jako v experimentu 2).
-- `outputs3.txt` – Vygenerované odpovědi, pokud došlo k zapojení generátoru.
+- `indexing3.py` – Skript pro indexaci dvou oddělených datových sad (`text_pairs3.txt` a `text_pairs_resp3.txt`) do Pinecone. Data jsou přiřazena metadaty `text_query` a `text_response`.
+- `main3.py` – Skript obsahující rozhodovací mechanismus, který na základě skóre podobnosti vybírá, zda použít odpověď z metadat nebo spustit generátor.
+- `evaluation3.py` – Skript pro vyhodnocení přesnosti, spotřeby tokenů a typologie odpovědí. Struktura odpovídá skriptu z předchozího experimentu.
+- `text_pairs3.txt` – Tematicky seskupené dotazy s odpovídajícím kontextem (dotaz–kontext), označené jako `text_query`.
+- `text_pairs_resp3.txt` – Datová sada často kladených otázek s jednoznačnými odpověďmi, označená jako `text_response`.
+- `outputs3.txt` – Výstupní soubor s odpověďmi generovanými modelem GPT, pokud došlo k aktivaci generátoru.
+- `questions_for_processing3.txt` – Seznam dotazů, které nebyly zodpovězeny (nebylo dosaženo minimální hodnoty skóre), určený pro další analýzu a rozšíření dat:contentReference[oaicite:0]{index=0}.
+
 
 ---
 
