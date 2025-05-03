@@ -53,7 +53,7 @@ Tato struktura umožňuje systému využívat přímo odpovědi z metadat bez sp
   Díky tomu lze při vyhledávání nejprve prohledat pouze záznamy s příznakem `text_response` a pokusit se odpovědět bez zapojení generátoru. Pokud není nalezena dostatečně podobná odpověď, pokračuje se vyhledáváním v blocích `text_query`, které slouží jako kontext pro jazykový model.
 
 - `main3.py` – Skript obsahující rozhodovací mechanismus, který na základě skóre podobnosti vybírá, zda použít odpověď z metadat nebo spustit generátor.
-- `evaluation3.py` – Skript pro vyhodnocení přesnosti, spotřeby tokenů a typologie odpovědí. Struktura odpovídá skriptu z předchozího experimentu.
+- `evaluation3.py` – Skript pro vyhodnocení výsledků (analyzuje přesnost, spotřebu tokenů atd.). Struktura odpovídá skriptu z předchozího experimentu.
 - `text_pairs3.txt` – Tematicky seskupené dotazy s odpovídajícím kontextem (dotaz–kontext), označené jako `text_query`.
 - `text_pairs_resp3.txt` – Datová sada často kladených otázek s jednoznačnými odpověďmi, označená jako `text_response`.
 - `outputs3.txt` – Výstupní soubor s odpověďmi generovanými modelem GPT, pokud došlo k aktivaci generátoru.
